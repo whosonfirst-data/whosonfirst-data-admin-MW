@@ -1,0 +1,64 @@
+{
+  "id": 1327170949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.89773,-15.9246,34.89773,-15.9246",
+    "geom:latitude":-15.9246,
+    "geom:longitude":34.89773,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Namonde",
+    "gn:country_code":"MW",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11257048,
+    "gn:latitude":-15.9246,
+    "gn:longitude":34.89773,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Namonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11257048
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"282349460025f57e6fb20c04505127ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327170949,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327170949,
+    "wof:lastmodified":1537055814,
+    "wof:name":"Namonde",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.89773,
+    -15.9246,
+    34.89773,
+    -15.9246
+],
+  "geometry": {"coordinates":[34.89773,-15.9246],"type":"Point"}
+}

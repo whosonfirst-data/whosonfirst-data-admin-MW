@@ -1,0 +1,62 @@
+{
+  "id": 1209244249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.11808,-13.36257,34.11808,-13.36257",
+    "geom:latitude":-13.36257,
+    "geom:longitude":34.11808,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Tanga",
+    "gn:country_code":"MW",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923773,
+    "gn:latitude":-13.36257,
+    "gn:longitude":34.11808,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Tanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923773
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"3701a0f9708d1ed977a101af4f599e9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209244249
+        }
+    ],
+    "wof:id":1209244249,
+    "wof:lastmodified":1536293219,
+    "wof:name":"Tanga",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.11808,
+    -13.362570000000002,
+    34.11808,
+    -13.362570000000002
+],
+  "geometry": {"coordinates":[34.11808,-13.36257],"type":"Point"}
+}

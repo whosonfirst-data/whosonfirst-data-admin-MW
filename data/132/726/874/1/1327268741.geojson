@@ -1,0 +1,64 @@
+{
+  "id": 1327268741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.07334,-12.3722,34.07334,-12.3722",
+    "geom:latitude":-12.3722,
+    "geom:longitude":34.07334,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Kamkondo",
+    "gn:country_code":"MW",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929087,
+    "gn:latitude":-12.3722,
+    "gn:longitude":34.07334,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kamkondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929087
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"8aaed5afb558cd5888b1a13472331a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327268741,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327268741,
+    "wof:lastmodified":1536917705,
+    "wof:name":"Kamkondo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.07334,
+    -12.3722,
+    34.07334,
+    -12.3722
+],
+  "geometry": {"coordinates":[34.07334,-12.3722],"type":"Point"}
+}

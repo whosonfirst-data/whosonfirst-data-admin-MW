@@ -1,0 +1,64 @@
+{
+  "id": 1226173211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28887,-16.96492,35.28887,-16.96492",
+    "geom:latitude":-16.96492,
+    "geom:longitude":35.28887,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Mpomba",
+    "gn:country_code":"MW",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926102,
+    "gn:latitude":-16.96492,
+    "gn:longitude":35.28887,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Mpomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926102
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"57e64529cf591f7fc45be8c571a05555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226173211,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226173211,
+    "wof:lastmodified":1537036612,
+    "wof:name":"Mpomba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28887,
+    -16.96492000000001,
+    35.28887,
+    -16.96492000000001
+],
+  "geometry": {"coordinates":[35.28887,-16.96492000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327048733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.73333,-12.08333,34.73333,-12.08333",
+    "geom:latitude":-12.08333,
+    "geom:longitude":34.73333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Mvumu",
+    "gn:country_code":"MW",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925696,
+    "gn:latitude":-12.08333,
+    "gn:longitude":34.73333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Mvumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674821,
+        1091698193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925696
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"8e02e4928d896ac96f7c7c6a0caccb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698193,
+            "locality_id":1327048733,
+            "region_id":85674821
+        }
+    ],
+    "wof:id":1327048733,
+    "wof:lastmodified":1536736871,
+    "wof:name":"Mvumu",
+    "wof:parent_id":1091698193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.73333,
+    -12.08333,
+    34.73333,
+    -12.08333
+],
+  "geometry": {"coordinates":[34.73333,-12.08333],"type":"Point"}
+}

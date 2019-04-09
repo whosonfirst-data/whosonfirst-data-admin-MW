@@ -1,0 +1,64 @@
+{
+  "id": 1343798705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.81667,-13.2,33.81667,-13.2",
+    "geom:latitude":-13.2,
+    "geom:longitude":33.81667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Kandale",
+    "gn:country_code":"MW",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928964,
+    "gn:latitude":-13.2,
+    "gn:longitude":33.81667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kandale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928964
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7ca5da07d3357935da137f7a452da579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343798705,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343798705,
+    "wof:lastmodified":1536755773,
+    "wof:name":"Kandale",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.81667,
+    -13.2,
+    33.81667,
+    -13.2
+],
+  "geometry": {"coordinates":[33.81667,-13.2],"type":"Point"}
+}

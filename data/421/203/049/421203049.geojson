@@ -1,0 +1,75 @@
+{
+  "id": 421203049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.17169,-10.58213,34.17169,-10.58213",
+    "geom:latitude":-10.58213,
+    "geom:longitude":34.17169,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Florence Bay"
+    ],
+    "qs:gn_country":"MW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":930426,
+    "qs:gn_pop":0,
+    "qs:name":"Chitimba",
+    "qs:name_adm0":"Malawi",
+    "qs:name_adm1":"Rumphi",
+    "qs:photos":226,
+    "qs:photos_1k":46,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":226,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":229248,
+    "qs:woe_adm0":23424889,
+    "qs:woe_id":1366273,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930426,
+        "gp:id":1366273,
+        "qs:id":229248
+    },
+    "wof:country":"MW",
+    "wof:created":1459010139,
+    "wof:geomhash":"ab3d86dbd217d341609962a2a5371066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":421203049
+        }
+    ],
+    "wof:id":421203049,
+    "wof:lastmodified":1501216414,
+    "wof:name":"Chitimba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.17169,
+    -10.58213,
+    34.17169,
+    -10.58213
+],
+  "geometry": {"coordinates":[34.17169,-10.58213],"type":"Point"}
+}

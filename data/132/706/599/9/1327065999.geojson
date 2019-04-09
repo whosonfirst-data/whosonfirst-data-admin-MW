@@ -1,0 +1,64 @@
+{
+  "id": 1327065999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.47234,-12.56354,33.47234,-12.56354",
+    "geom:latitude":-12.56354,
+    "geom:longitude":33.47234,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Machuleka",
+    "gn:country_code":"MW",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927636,
+    "gn:latitude":-12.56354,
+    "gn:longitude":33.47234,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Machuleka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927636
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d7cd05ac01adeab7d668c6be26e37f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327065999,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327065999,
+    "wof:lastmodified":1536712231,
+    "wof:name":"Machuleka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.47234,
+    -12.56354,
+    33.47234,
+    -12.56354
+],
+  "geometry": {"coordinates":[33.47234,-12.56354],"type":"Point"}
+}

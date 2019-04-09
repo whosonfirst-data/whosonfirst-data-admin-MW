@@ -1,0 +1,62 @@
+{
+  "id": 1209140501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76667,-14.95,35.76667,-14.95",
+    "geom:latitude":-14.95,
+    "geom:longitude":35.76667,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Maunda",
+    "gn:country_code":"MW",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927006,
+    "gn:latitude":-14.95,
+    "gn:longitude":35.76667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Maunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927006
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d15bce0f5be9918cd49d35ddd1bed40d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209140501
+        }
+    ],
+    "wof:id":1209140501,
+    "wof:lastmodified":1536296520,
+    "wof:name":"Maunda",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76667,
+    -14.95,
+    35.76667,
+    -14.95
+],
+  "geometry": {"coordinates":[35.76667,-14.95],"type":"Point"}
+}

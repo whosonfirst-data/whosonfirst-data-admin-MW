@@ -1,0 +1,64 @@
+{
+  "id": 1326767131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.36616,-13.67629,33.36616,-13.67629",
+    "geom:latitude":-13.67629,
+    "geom:longitude":33.36616,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Chilowa",
+    "gn:country_code":"MW",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930988,
+    "gn:latitude":-13.67629,
+    "gn:longitude":33.36616,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chilowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930988
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"aec90099f262308f84cab28f7124a3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1326767131,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326767131,
+    "wof:lastmodified":1536644668,
+    "wof:name":"Chilowa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.36616,
+    -13.67629,
+    33.36616,
+    -13.67629
+],
+  "geometry": {"coordinates":[33.36616,-13.67629],"type":"Point"}
+}

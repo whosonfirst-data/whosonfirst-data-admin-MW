@@ -1,0 +1,62 @@
+{
+  "id": 1209530677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.67751,-11.40562,33.67751,-11.40562",
+    "geom:latitude":-11.40562,
+    "geom:longitude":33.67751,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Yesaya Shawa",
+    "gn:country_code":"MW",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923380,
+    "gn:latitude":-11.40562,
+    "gn:longitude":33.67751,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Yesaya Shawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923380
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"37e986008c89dd4d8a8b9af4f2906380",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209530677
+        }
+    ],
+    "wof:id":1209530677,
+    "wof:lastmodified":1536284290,
+    "wof:name":"Yesaya Shawa",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.67751,
+    -11.40562,
+    33.67751,
+    -11.40562
+],
+  "geometry": {"coordinates":[33.67751,-11.40562],"type":"Point"}
+}

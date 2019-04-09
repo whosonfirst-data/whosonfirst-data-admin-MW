@@ -1,0 +1,68 @@
+{
+  "id": 1260013837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.90094,-14.43396,33.90094,-14.43396",
+    "geom:latitude":-14.43396,
+    "geom:longitude":33.90094,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Kamakule",
+    "gn:country_code":"MW",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929179,
+    "gn:latitude":-14.43396,
+    "gn:longitude":33.90094,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kamakule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komakule",
+        "Kamakule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929179
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"f6c844c825cf018df83f35bba8872abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1260013837,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260013837,
+    "wof:lastmodified":1537665842,
+    "wof:name":"Kamakule",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.90094000000001,
+    -14.43396,
+    33.90094000000001,
+    -14.43396
+],
+  "geometry": {"coordinates":[33.90094000000001,-14.43396],"type":"Point"}
+}

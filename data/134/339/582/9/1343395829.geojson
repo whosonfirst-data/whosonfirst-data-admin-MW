@@ -1,0 +1,64 @@
+{
+  "id": 1343395829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98333,-16.45,34.98333,-16.45",
+    "geom:latitude":-16.45,
+    "geom:longitude":34.98333,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Masanduko",
+    "gn:country_code":"MW",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927139,
+    "gn:latitude":-16.45,
+    "gn:longitude":34.98333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Masanduko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927139
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"b7e638e9d9a74f02f736523c92fd4e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343395829,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343395829,
+    "wof:lastmodified":1536838464,
+    "wof:name":"Masanduko",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98333,
+    -16.45,
+    34.98333,
+    -16.45
+],
+  "geometry": {"coordinates":[34.98333,-16.45],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1343597685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.60174,-12.9438,33.60174,-12.9438",
+    "geom:latitude":-12.9438,
+    "geom:longitude":33.60174,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Ciwera",
+    "gn:country_code":"MW",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930087,
+    "gn:latitude":-12.9438,
+    "gn:longitude":33.60174,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Ciwera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930087
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"0ee534c978e3f82bdef2eb5b543ca6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343597685,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343597685,
+    "wof:lastmodified":1537043712,
+    "wof:name":"Ciwera",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.60174,
+    -12.9438,
+    33.60174,
+    -12.9438
+],
+  "geometry": {"coordinates":[33.60174,-12.9438],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1226057875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65302,-10.91359,33.65302,-10.91359",
+    "geom:latitude":-10.91359,
+    "geom:longitude":33.65302,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Kamehe",
+    "gn:country_code":"MW",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929103,
+    "gn:latitude":-10.91359,
+    "gn:longitude":33.65302,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kamehe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929103
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"1529ae80020e8dc2350c313b667ce321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226057875,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226057875,
+    "wof:lastmodified":1536707903,
+    "wof:name":"Kamehe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65302,
+    -10.91359,
+    33.65302,
+    -10.91359
+],
+  "geometry": {"coordinates":[33.65302,-10.91359],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1243203235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64991,-16.0356,35.64991,-16.0356",
+    "geom:latitude":-16.0356,
+    "geom:longitude":35.64991,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Lujeri",
+    "gn:country_code":"MW",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927780,
+    "gn:latitude":-16.0356,
+    "gn:longitude":35.64991,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Lujeri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927780
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"fe544043cbae5519954171238328ac76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243203235,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243203235,
+    "wof:lastmodified":1536659384,
+    "wof:name":"Lujeri",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64991,
+    -16.0356,
+    35.64991,
+    -16.0356
+],
+  "geometry": {"coordinates":[35.64991,-16.0356],"type":"Point"}
+}

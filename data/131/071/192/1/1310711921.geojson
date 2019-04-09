@@ -1,0 +1,64 @@
+{
+  "id": 1310711921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3,-13.9,33.3,-13.9",
+    "geom:latitude":-13.9,
+    "geom:longitude":33.3,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Mbalame",
+    "gn:country_code":"MW",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926928,
+    "gn:latitude":-13.9,
+    "gn:longitude":33.3,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Mbalame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926928
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7f98c2e9289429e0850e93a5292eedc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310711921,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310711921,
+    "wof:lastmodified":1536616771,
+    "wof:name":"Mbalame",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3,
+    -13.9,
+    33.3,
+    -13.9
+],
+  "geometry": {"coordinates":[33.3,-13.9],"type":"Point"}
+}

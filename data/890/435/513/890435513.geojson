@@ -1,0 +1,67 @@
+{
+  "id": 890435513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0591,-15.04839,35.0591,-15.04839",
+    "geom:latitude":-15.04839,
+    "geom:longitude":35.0591,
+    "gn:country":"MW",
+    "gn:fcode":"ADM2",
+    "gn:pop":277072,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Balaka"
+    ],
+    "qs:name":"Balaka District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":116,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105840,
+        "qs:id":555110,
+        "wd:id":"Q870044",
+        "wk:page":"Balaka District"
+    },
+    "wof:country":"MW",
+    "wof:created":1469052070,
+    "wof:geomhash":"9ca735536ef1773e85683722a50c7ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890435513
+        }
+    ],
+    "wof:id":890435513,
+    "wof:lastmodified":1527793053,
+    "wof:name":"Balaka District",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":277072,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0591,
+    -15.04839,
+    35.0591,
+    -15.04839
+],
+  "geometry": {"coordinates":[35.0591,-15.04839],"type":"Point"}
+}

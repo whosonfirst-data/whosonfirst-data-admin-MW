@@ -1,0 +1,62 @@
+{
+  "id": 1209022937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53643,-12.08905,33.53643,-12.08905",
+    "geom:latitude":-12.08905,
+    "geom:longitude":33.53643,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Mzikowoola",
+    "gn:country_code":"MW",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925499,
+    "gn:latitude":-12.08905,
+    "gn:longitude":33.53643,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mzikowoola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925499
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7d1294828af807ba857b9e36653e03cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209022937
+        }
+    ],
+    "wof:id":1209022937,
+    "wof:lastmodified":1536300089,
+    "wof:name":"Mzikowoola",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53643,
+    -12.08905,
+    33.53643,
+    -12.08905
+],
+  "geometry": {"coordinates":[33.53643,-12.08905],"type":"Point"}
+}

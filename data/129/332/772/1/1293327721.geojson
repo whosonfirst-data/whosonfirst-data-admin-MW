@@ -1,0 +1,66 @@
+{
+  "id": 1293327721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33333,-15.41667,35.33333,-15.41667",
+    "geom:latitude":-15.41667,
+    "geom:longitude":35.33333,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Songo",
+    "gn:country_code":"MW",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923838,
+    "gn:latitude":-15.41667,
+    "gn:longitude":35.33333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Songo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632383,
+        1108784765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923838
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"5d907b57ed2ab840ec3a90fbb901acd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":1293327721,
+            "region_id":1108784765
+        }
+    ],
+    "wof:id":1293327721,
+    "wof:lastmodified":1537016684,
+    "wof:name":"Songo",
+    "wof:parent_id":1108784765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33333,
+    -15.41667,
+    35.33333,
+    -15.41667
+],
+  "geometry": {"coordinates":[35.33333,-15.41667],"type":"Point"}
+}

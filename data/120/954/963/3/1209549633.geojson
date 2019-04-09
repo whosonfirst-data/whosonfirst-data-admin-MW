@@ -1,0 +1,62 @@
+{
+  "id": 1209549633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23128,-16.7426,35.23128,-16.7426",
+    "geom:latitude":-16.7426,
+    "geom:longitude":35.23128,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Nthumba",
+    "gn:country_code":"MW",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924457,
+    "gn:latitude":-16.7426,
+    "gn:longitude":35.23128,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Nthumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924457
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4041fbfa4313f56ca4d2877d3dd211f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209549633
+        }
+    ],
+    "wof:id":1209549633,
+    "wof:lastmodified":1536283735,
+    "wof:name":"Nthumba",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23128,
+    -16.7426,
+    35.23128,
+    -16.7426
+],
+  "geometry": {"coordinates":[35.23128,-16.7426],"type":"Point"}
+}

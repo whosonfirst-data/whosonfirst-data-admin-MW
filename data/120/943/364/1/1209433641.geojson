@@ -1,0 +1,62 @@
+{
+  "id": 1209433641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.31667,-11.66667,34.31667,-11.66667",
+    "geom:latitude":-11.66667,
+    "geom:longitude":34.31667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Kanyole",
+    "gn:country_code":"MW",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928818,
+    "gn:latitude":-11.66667,
+    "gn:longitude":34.31667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kanyole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928818
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"79ae7b858b494808f5f2798d9b065bdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209433641
+        }
+    ],
+    "wof:id":1209433641,
+    "wof:lastmodified":1536287164,
+    "wof:name":"Kanyole",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.31667,
+    -11.66667,
+    34.31667,
+    -11.66667
+],
+  "geometry": {"coordinates":[34.31667,-11.66667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1193173215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.98904,-13.90685,32.98904,-13.90685",
+    "geom:latitude":-13.90685,
+    "geom:longitude":32.98904,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Kafulama",
+    "gn:country_code":"MW",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929393,
+    "gn:latitude":-13.90685,
+    "gn:longitude":32.98904,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kafulama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929393
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"9d865a26f288d2e9793492d9c85d23c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1193173215,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193173215,
+    "wof:lastmodified":1536378096,
+    "wof:name":"Kafulama",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.98904,
+    -13.90685,
+    32.98904,
+    -13.90685
+],
+  "geometry": {"coordinates":[32.98904,-13.90685],"type":"Point"}
+}

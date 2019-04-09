@@ -1,0 +1,64 @@
+{
+  "id": 1293237807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.44714,-14.18006,35.44714,-14.18006",
+    "geom:latitude":-14.18006,
+    "geom:longitude":35.44714,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Mterera",
+    "gn:country_code":"MW",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925902,
+    "gn:latitude":-14.18006,
+    "gn:longitude":35.44714,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mterera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925902
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"a32c920bf52f5ee009883a318c9db179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293237807,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293237807,
+    "wof:lastmodified":1536649715,
+    "wof:name":"Mterera",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44714000000001,
+    -14.18006,
+    35.44714000000001,
+    -14.18006
+],
+  "geometry": {"coordinates":[35.44714000000001,-14.18006],"type":"Point"}
+}

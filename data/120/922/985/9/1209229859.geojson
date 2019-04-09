@@ -1,0 +1,62 @@
+{
+  "id": 1209229859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.85,-11.03333,33.85,-11.03333",
+    "geom:latitude":-11.03333,
+    "geom:longitude":33.85,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Nyirongo",
+    "gn:country_code":"MW",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924308,
+    "gn:latitude":-11.03333,
+    "gn:longitude":33.85,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Nyirongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924308
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"0f7ce487673789965639791b219872f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209229859
+        }
+    ],
+    "wof:id":1209229859,
+    "wof:lastmodified":1536293671,
+    "wof:name":"Nyirongo",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.85,
+    -11.03333,
+    33.85,
+    -11.03333
+],
+  "geometry": {"coordinates":[33.85,-11.03333],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209450017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.43333,-15.28333,35.43333,-15.28333",
+    "geom:latitude":-15.28333,
+    "geom:longitude":35.43333,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Chilambe",
+    "gn:country_code":"MW",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931054,
+    "gn:latitude":-15.28333,
+    "gn:longitude":35.43333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Chilambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931054
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"30a8e2585557db95dd2f51bad69ffddd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209450017
+        }
+    ],
+    "wof:id":1209450017,
+    "wof:lastmodified":1536286701,
+    "wof:name":"Chilambe",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.43333,
+    -15.28333,
+    35.43333,
+    -15.28333
+],
+  "geometry": {"coordinates":[35.43333,-15.28333],"type":"Point"}
+}

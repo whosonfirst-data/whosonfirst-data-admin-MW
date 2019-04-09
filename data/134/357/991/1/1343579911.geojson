@@ -1,0 +1,64 @@
+{
+  "id": 1343579911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59325,-10.9162,33.59325,-10.9162",
+    "geom:latitude":-10.9162,
+    "geom:longitude":33.59325,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Chitango",
+    "gn:country_code":"MW",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930458,
+    "gn:latitude":-10.9162,
+    "gn:longitude":33.59325,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chitango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930458
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"c6fb77aab78660376c6140101e8bc767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343579911,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343579911,
+    "wof:lastmodified":1537068389,
+    "wof:name":"Chitango",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.59325,
+    -10.9162,
+    33.59325,
+    -10.9162
+],
+  "geometry": {"coordinates":[33.59325,-10.9162],"type":"Point"}
+}

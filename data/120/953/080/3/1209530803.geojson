@@ -1,0 +1,62 @@
+{
+  "id": 1209530803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.91667,-12.2,33.91667,-12.2",
+    "geom:latitude":-12.2,
+    "geom:longitude":33.91667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Amoni",
+    "gn:country_code":"MW",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931888,
+    "gn:latitude":-12.2,
+    "gn:longitude":33.91667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Amoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931888
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"e529cd54d5e97245685d32ce826e8cf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209530803
+        }
+    ],
+    "wof:id":1209530803,
+    "wof:lastmodified":1536284286,
+    "wof:name":"Amoni",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.91667,
+    -12.2,
+    33.91667,
+    -12.2
+],
+  "geometry": {"coordinates":[33.91667,-12.2],"type":"Point"}
+}

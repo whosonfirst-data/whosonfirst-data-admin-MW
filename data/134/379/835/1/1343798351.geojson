@@ -1,0 +1,64 @@
+{
+  "id": 1343798351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.86667,-16.48333,34.86667,-16.48333",
+    "geom:latitude":-16.48333,
+    "geom:longitude":34.86667,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Nkhwangwa",
+    "gn:country_code":"MW",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924689,
+    "gn:latitude":-16.48333,
+    "gn:longitude":34.86667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Nkhwangwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924689
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"57a9c24f320f38c5cc5c7a65ce9b0c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343798351,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343798351,
+    "wof:lastmodified":1536756330,
+    "wof:name":"Nkhwangwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.86667,
+    -16.48333,
+    34.86667,
+    -16.48333
+],
+  "geometry": {"coordinates":[34.86667,-16.48333],"type":"Point"}
+}

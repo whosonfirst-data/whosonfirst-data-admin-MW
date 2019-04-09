@@ -1,0 +1,64 @@
+{
+  "id": 1360322097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.4,-13.76667,34.4,-13.76667",
+    "geom:latitude":-13.76667,
+    "geom:longitude":34.4,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Katawa",
+    "gn:country_code":"MW",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928496,
+    "gn:latitude":-13.76667,
+    "gn:longitude":34.4,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Katawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928496
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"65afdf6d9d2cb69e183c08a8a421f45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1360322097,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360322097,
+    "wof:lastmodified":1536600422,
+    "wof:name":"Katawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.4,
+    -13.76667,
+    34.4,
+    -13.76667
+],
+  "geometry": {"coordinates":[34.4,-13.76667],"type":"Point"}
+}

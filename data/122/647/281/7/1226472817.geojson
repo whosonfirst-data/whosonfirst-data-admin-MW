@@ -1,0 +1,64 @@
+{
+  "id": 1226472817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.63333,-15.2,34.63333,-15.2",
+    "geom:latitude":-15.2,
+    "geom:longitude":34.63333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Gochi",
+    "gn:country_code":"MW",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929785,
+    "gn:latitude":-15.2,
+    "gn:longitude":34.63333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Gochi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929785
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"b090e398a55240105f014e02dc502543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226472817,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226472817,
+    "wof:lastmodified":1536603507,
+    "wof:name":"Gochi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.63333,
+    -15.2,
+    34.63333,
+    -15.2
+],
+  "geometry": {"coordinates":[34.63333,-15.2],"type":"Point"}
+}

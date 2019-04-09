@@ -1,0 +1,65 @@
+{
+  "id": 1293623997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2938,-12.90756,34.2938,-12.90756",
+    "geom:latitude":-12.90756,
+    "geom:longitude":34.2938,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Makuta",
+    "gn:country_code":"MW",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927435,
+    "gn:latitude":-12.90756,
+    "gn:longitude":34.2938,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Makuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927435,
+        "wk:page":"Makuta%2C_Malawi"
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"86685949204c5131b60854bef684b6f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293623997,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293623997,
+    "wof:lastmodified":1537568543,
+    "wof:name":"Makuta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2938,
+    -12.90756,
+    34.2938,
+    -12.90756
+],
+  "geometry": {"coordinates":[34.2938,-12.90756],"type":"Point"}
+}

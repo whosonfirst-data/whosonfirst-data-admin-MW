@@ -1,0 +1,64 @@
+{
+  "id": 1276804567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28333,-15.48333,35.28333,-15.48333",
+    "geom:latitude":-15.48333,
+    "geom:longitude":35.28333,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Majawa",
+    "gn:country_code":"MW",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927532,
+    "gn:latitude":-15.48333,
+    "gn:longitude":35.28333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Majawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927532
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"480d198423f92e9ea53b1d05a93d6703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276804567,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276804567,
+    "wof:lastmodified":1536643689,
+    "wof:name":"Majawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28333,
+    -15.48333,
+    35.28333,
+    -15.48333
+],
+  "geometry": {"coordinates":[35.28333,-15.48333],"type":"Point"}
+}

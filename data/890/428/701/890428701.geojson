@@ -1,0 +1,67 @@
+{
+  "id": 890428701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66667,-15.66667,35.66667,-15.66667",
+    "geom:latitude":-15.66667,
+    "geom:longitude":35.66667,
+    "gn:country":"MW",
+    "gn:fcode":"ADM2",
+    "gn:pop":237747,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Phalombe"
+    ],
+    "qs:name":"Phalombe District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105842,
+        "qs:id":555112,
+        "wd:id":"Q538991",
+        "wk:page":"Phalombe District"
+    },
+    "wof:country":"MW",
+    "wof:created":1469051765,
+    "wof:geomhash":"4f220a1cc820406fef411331293d6bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890428701
+        }
+    ],
+    "wof:id":890428701,
+    "wof:lastmodified":1527782114,
+    "wof:name":"Phalombe District",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":237747,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66667,
+    -15.66667,
+    35.66667,
+    -15.66667
+],
+  "geometry": {"coordinates":[35.66667,-15.66667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1259895001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.40683,-11.49136,33.40683,-11.49136",
+    "geom:latitude":-11.49136,
+    "geom:longitude":33.40683,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Ndisani Mzima",
+    "gn:country_code":"MW",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924995,
+    "gn:latitude":-11.49136,
+    "gn:longitude":33.40683,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Ndisani Mzima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924995
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4e76c5e3b224a83d54d839f09ef6a8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259895001,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259895001,
+    "wof:lastmodified":1536762751,
+    "wof:name":"Ndisani Mzima",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.40683,
+    -11.49136,
+    33.40683,
+    -11.49136
+],
+  "geometry": {"coordinates":[33.40683,-11.49136],"type":"Point"}
+}

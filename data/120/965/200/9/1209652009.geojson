@@ -1,0 +1,62 @@
+{
+  "id": 1209652009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.11667,-13.53333,33.11667,-13.53333",
+    "geom:latitude":-13.53333,
+    "geom:longitude":33.11667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Makumbira",
+    "gn:country_code":"MW",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927450,
+    "gn:latitude":-13.53333,
+    "gn:longitude":33.11667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Makumbira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927450
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"a71228101c3e6de7db4c27b61b4242d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209652009
+        }
+    ],
+    "wof:id":1209652009,
+    "wof:lastmodified":1536280549,
+    "wof:name":"Makumbira",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.11667,
+    -13.53333,
+    33.11667,
+    -13.53333
+],
+  "geometry": {"coordinates":[33.11667,-13.53333],"type":"Point"}
+}

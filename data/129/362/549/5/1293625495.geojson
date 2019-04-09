@@ -1,0 +1,68 @@
+{
+  "id": 1293625495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53333,-14.73333,35.53333,-14.73333",
+    "geom:latitude":-14.73333,
+    "geom:longitude":35.53333,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Chiwalo",
+    "gn:country_code":"MW",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930367,
+    "gn:latitude":-14.73333,
+    "gn:longitude":35.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chiwalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciwalo",
+        "Chiwalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930367
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"3669defac2a1ff2dfdf7544ccba7e369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293625495,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293625495,
+    "wof:lastmodified":1537665845,
+    "wof:name":"Chiwalo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53333,
+    -14.73333,
+    35.53333,
+    -14.73333
+],
+  "geometry": {"coordinates":[35.53333,-14.73333],"type":"Point"}
+}

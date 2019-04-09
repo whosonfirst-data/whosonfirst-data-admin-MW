@@ -1,0 +1,62 @@
+{
+  "id": 1209345969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.39516,-13.6905,34.39516,-13.6905",
+    "geom:latitude":-13.6905,
+    "geom:longitude":34.39516,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Nkuki",
+    "gn:country_code":"MW",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924649,
+    "gn:latitude":-13.6905,
+    "gn:longitude":34.39516,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Nkuki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924649
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"a4b77808dca6328374cab62882ca3e98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209345969
+        }
+    ],
+    "wof:id":1209345969,
+    "wof:lastmodified":1536289912,
+    "wof:name":"Nkuki",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.39516,
+    -13.6905,
+    34.39516,
+    -13.6905
+],
+  "geometry": {"coordinates":[34.39516,-13.6905],"type":"Point"}
+}

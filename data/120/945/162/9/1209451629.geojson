@@ -1,0 +1,62 @@
+{
+  "id": 1209451629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.87481,-13.95602,33.87481,-13.95602",
+    "geom:latitude":-13.95602,
+    "geom:longitude":33.87481,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Ntande",
+    "gn:country_code":"MW",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924501,
+    "gn:latitude":-13.95602,
+    "gn:longitude":33.87481,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Ntande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924501
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"45e6b7a6282d9e61d0b9928714e3f78c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209451629
+        }
+    ],
+    "wof:id":1209451629,
+    "wof:lastmodified":1536286654,
+    "wof:name":"Ntande",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.87481,
+    -13.95602,
+    33.87481,
+    -13.95602
+],
+  "geometry": {"coordinates":[33.87481,-13.95602],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1292942977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51573,-12.59275,33.51573,-12.59275",
+    "geom:latitude":-12.59275,
+    "geom:longitude":33.51573,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Zikheta",
+    "gn:country_code":"MW",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923319,
+    "gn:latitude":-12.59275,
+    "gn:longitude":33.51573,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Zikheta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923319
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"c787d789662371f4e9bf5b1974b30f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1292942977,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292942977,
+    "wof:lastmodified":1537071830,
+    "wof:name":"Zikheta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51573,
+    -12.59275,
+    33.51573,
+    -12.59275
+],
+  "geometry": {"coordinates":[33.51573,-12.59275],"type":"Point"}
+}

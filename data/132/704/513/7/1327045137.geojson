@@ -1,0 +1,64 @@
+{
+  "id": 1327045137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.76667,-12.43333,33.76667,-12.43333",
+    "geom:latitude":-12.43333,
+    "geom:longitude":33.76667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Gwazeni",
+    "gn:country_code":"MW",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929716,
+    "gn:latitude":-12.43333,
+    "gn:longitude":33.76667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Gwazeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929716
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"10a28567dfcc997e68b58908178a7a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327045137,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327045137,
+    "wof:lastmodified":1536741791,
+    "wof:name":"Gwazeni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.76667,
+    -12.43333,
+    33.76667,
+    -12.43333
+],
+  "geometry": {"coordinates":[33.76667,-12.43333],"type":"Point"}
+}

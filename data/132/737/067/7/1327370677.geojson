@@ -1,0 +1,64 @@
+{
+  "id": 1327370677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.9376,-15.66792,34.9376,-15.66792",
+    "geom:latitude":-15.66792,
+    "geom:longitude":34.9376,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Chileka",
+    "gn:country_code":"MW",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931039,
+    "gn:latitude":-15.66792,
+    "gn:longitude":34.9376,
+    "gn:modification_date":"2013-04-27",
+    "gn:name":"Chileka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931039
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"b10f41c0f4882757d3ca3c9ae7eaed15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327370677,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327370677,
+    "wof:lastmodified":1536770360,
+    "wof:name":"Chileka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.9376,
+    -15.66792,
+    34.9376,
+    -15.66792
+],
+  "geometry": {"coordinates":[34.9376,-15.66792],"type":"Point"}
+}

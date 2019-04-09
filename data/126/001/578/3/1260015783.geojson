@@ -1,0 +1,64 @@
+{
+  "id": 1260015783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.77491,-14.64817,34.77491,-14.64817",
+    "geom:latitude":-14.64817,
+    "geom:longitude":34.77491,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Nkhawani",
+    "gn:country_code":"MW",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924729,
+    "gn:latitude":-14.64817,
+    "gn:longitude":34.77491,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Nkhawani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924729
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"616438cefa9816296eb9f2a1d7335744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1260015783,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260015783,
+    "wof:lastmodified":1537082262,
+    "wof:name":"Nkhawani",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.77491,
+    -14.64817,
+    34.77491,
+    -14.64817
+],
+  "geometry": {"coordinates":[34.77491,-14.64817],"type":"Point"}
+}

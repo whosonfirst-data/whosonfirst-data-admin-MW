@@ -1,0 +1,68 @@
+{
+  "id": 1310242087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24401,-14.45503,35.24401,-14.45503",
+    "geom:latitude":-14.45503,
+    "geom:longitude":35.24401,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Mponda",
+    "gn:country_code":"MW",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926099,
+    "gn:latitude":-14.45503,
+    "gn:longitude":35.24401,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mponda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mpondas",
+        "Mponda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926099
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ea18812c444f4664c60eb473755d929e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310242087,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310242087,
+    "wof:lastmodified":1537665835,
+    "wof:name":"Mponda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24401,
+    -14.45503,
+    35.24401,
+    -14.45503
+],
+  "geometry": {"coordinates":[35.24401,-14.45503],"type":"Point"}
+}

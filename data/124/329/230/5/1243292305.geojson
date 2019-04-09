@@ -1,0 +1,64 @@
+{
+  "id": 1243292305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.38375,-13.41128,33.38375,-13.41128",
+    "geom:latitude":-13.41128,
+    "geom:longitude":33.38375,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Kapara",
+    "gn:country_code":"MW",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928764,
+    "gn:latitude":-13.41128,
+    "gn:longitude":33.38375,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kapara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928764
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"e0540159e6b7074216861be35bc96c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243292305,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243292305,
+    "wof:lastmodified":1537026675,
+    "wof:name":"Kapara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.38375,
+    -13.41128,
+    33.38375,
+    -13.41128
+],
+  "geometry": {"coordinates":[33.38375,-13.41128],"type":"Point"}
+}

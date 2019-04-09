@@ -1,0 +1,64 @@
+{
+  "id": 1276589577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97147,-14.896,34.97147,-14.896",
+    "geom:latitude":-14.896,
+    "geom:longitude":34.97147,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Matola",
+    "gn:country_code":"MW",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927042,
+    "gn:latitude":-14.896,
+    "gn:longitude":34.97147,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Matola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927042
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"694f117f6408185fc20b042affff7d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276589577,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276589577,
+    "wof:lastmodified":1536933447,
+    "wof:name":"Matola",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97147,
+    -14.896,
+    34.97147,
+    -14.896
+],
+  "geometry": {"coordinates":[34.97147,-14.896],"type":"Point"}
+}

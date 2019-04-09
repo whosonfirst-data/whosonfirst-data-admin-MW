@@ -1,0 +1,64 @@
+{
+  "id": 1276694367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.82097,-13.82519,33.82097,-13.82519",
+    "geom:latitude":-13.82519,
+    "geom:longitude":33.82097,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Katola",
+    "gn:country_code":"MW",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928446,
+    "gn:latitude":-13.82519,
+    "gn:longitude":33.82097,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Katola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928446
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"b63064a500ef7810b96186c6cbf62ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276694367,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276694367,
+    "wof:lastmodified":1536792199,
+    "wof:name":"Katola",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.82097,
+    -13.82519,
+    33.82097,
+    -13.82519
+],
+  "geometry": {"coordinates":[33.82097,-13.82519],"type":"Point"}
+}

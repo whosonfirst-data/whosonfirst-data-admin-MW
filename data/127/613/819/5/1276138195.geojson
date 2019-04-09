@@ -1,0 +1,64 @@
+{
+  "id": 1276138195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55428,-11.96786,33.55428,-11.96786",
+    "geom:latitude":-11.96786,
+    "geom:longitude":33.55428,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Peter Ndawandawa",
+    "gn:country_code":"MW",
+    "gn:dem":1360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924213,
+    "gn:latitude":-11.96786,
+    "gn:longitude":33.55428,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Peter Ndawandawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924213
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d4ca050b59981db50366ede4c1a94ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276138195,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276138195,
+    "wof:lastmodified":1537038457,
+    "wof:name":"Peter Ndawandawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55428,
+    -11.96786,
+    33.55428,
+    -11.96786
+],
+  "geometry": {"coordinates":[33.55428,-11.96786],"type":"Point"}
+}

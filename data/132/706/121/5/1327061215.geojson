@@ -1,0 +1,64 @@
+{
+  "id": 1327061215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.63478,-15.54713,34.63478,-15.54713",
+    "geom:latitude":-15.54713,
+    "geom:longitude":34.63478,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Magareta",
+    "gn:country_code":"MW",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927571,
+    "gn:latitude":-15.54713,
+    "gn:longitude":34.63478,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Magareta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927571
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7d2aa9f772ba23ea1136275f2741275d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327061215,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327061215,
+    "wof:lastmodified":1536719288,
+    "wof:name":"Magareta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.63478,
+    -15.54713,
+    34.63478,
+    -15.54713
+],
+  "geometry": {"coordinates":[34.63478,-15.54713],"type":"Point"}
+}

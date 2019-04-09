@@ -1,0 +1,64 @@
+{
+  "id": 1327144801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.23454,-9.55864,33.23454,-9.55864",
+    "geom:latitude":-9.55864,
+    "geom:longitude":33.23454,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Kanowa",
+    "gn:country_code":"MW",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235723,
+    "gn:latitude":-9.55864,
+    "gn:longitude":33.23454,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kanowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235723
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"401ca3f669be87c8399136fc2ee50841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327144801,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327144801,
+    "wof:lastmodified":1537092743,
+    "wof:name":"Kanowa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.23454,
+    -9.55864,
+    33.23454,
+    -9.55864
+],
+  "geometry": {"coordinates":[33.23454,-9.55864],"type":"Point"}
+}

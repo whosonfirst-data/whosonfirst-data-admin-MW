@@ -1,0 +1,64 @@
+{
+  "id": 1310220181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.77387,-12.45721,33.77387,-12.45721",
+    "geom:latitude":-12.45721,
+    "geom:longitude":33.77387,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Njakwa",
+    "gn:country_code":"MW",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924837,
+    "gn:latitude":-12.45721,
+    "gn:longitude":33.77387,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Njakwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924837
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d4b3c252bb93233f8c1f9120e2a73cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310220181,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310220181,
+    "wof:lastmodified":1536830023,
+    "wof:name":"Njakwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.77387,
+    -12.45721,
+    33.77387,
+    -12.45721
+],
+  "geometry": {"coordinates":[33.77387,-12.45721],"type":"Point"}
+}

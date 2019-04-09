@@ -1,0 +1,64 @@
+{
+  "id": 1260114281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.94709,-14.13513,33.94709,-14.13513",
+    "geom:latitude":-14.13513,
+    "geom:longitude":33.94709,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Kalumbu",
+    "gn:country_code":"MW",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929195,
+    "gn:latitude":-14.13513,
+    "gn:longitude":33.94709,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kalumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929195
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"bdad7c521fcd9367eb139d453efcfce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1260114281,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260114281,
+    "wof:lastmodified":1536944250,
+    "wof:name":"Kalumbu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.94709,
+    -14.13513,
+    33.94709,
+    -14.13513
+],
+  "geometry": {"coordinates":[33.94709,-14.13513],"type":"Point"}
+}

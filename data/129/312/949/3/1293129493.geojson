@@ -1,0 +1,64 @@
+{
+  "id": 1293129493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.87565,-12.86788,33.87565,-12.86788",
+    "geom:latitude":-12.86788,
+    "geom:longitude":33.87565,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Msimpha",
+    "gn:country_code":"MW",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926010,
+    "gn:latitude":-12.86788,
+    "gn:longitude":33.87565,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Msimpha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926010
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"aedfd921c2f10852cdaf12e03ee6e72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293129493,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293129493,
+    "wof:lastmodified":1536806127,
+    "wof:name":"Msimpha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.87565,
+    -12.86788,
+    33.87565,
+    -12.86788
+],
+  "geometry": {"coordinates":[33.87565,-12.86788],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1343693065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66974,-14.74268,34.66974,-14.74268",
+    "geom:latitude":-14.74268,
+    "geom:longitude":34.66974,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Mphepozinai",
+    "gn:country_code":"MW",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926166,
+    "gn:latitude":-14.74268,
+    "gn:longitude":34.66974,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mphepozinai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926166
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"5056ca87d2c627c2b6fdcd0ee5e224c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343693065,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343693065,
+    "wof:lastmodified":1536908393,
+    "wof:name":"Mphepozinai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.66974,
+    -14.74268,
+    34.66974,
+    -14.74268
+],
+  "geometry": {"coordinates":[34.66974,-14.74268],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1344272321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.52309,-12.12857,33.52309,-12.12857",
+    "geom:latitude":-12.12857,
+    "geom:longitude":33.52309,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Jamu Kumwenda",
+    "gn:country_code":"MW",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929641,
+    "gn:latitude":-12.12857,
+    "gn:longitude":33.52309,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Jamu Kumwenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929641
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"5fb2b622cd8f15ff9e1d3bcbe193b4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1344272321,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344272321,
+    "wof:lastmodified":1537064087,
+    "wof:name":"Jamu Kumwenda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.52309,
+    -12.12857,
+    33.52309,
+    -12.12857
+],
+  "geometry": {"coordinates":[33.52309,-12.12857],"type":"Point"}
+}

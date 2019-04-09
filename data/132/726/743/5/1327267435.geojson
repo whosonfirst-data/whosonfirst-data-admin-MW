@@ -1,0 +1,68 @@
+{
+  "id": 1327267435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.28333,-14.4,34.28333,-14.4",
+    "geom:latitude":-14.4,
+    "geom:longitude":34.28333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Checufikeni",
+    "gn:country_code":"MW",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931335,
+    "gn:latitude":-14.4,
+    "gn:longitude":34.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Checufikeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Checufikene",
+        "Checufikeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931335
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"8aabb5f4281a2af232c00d9ffaeda3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327267435,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327267435,
+    "wof:lastmodified":1537665847,
+    "wof:name":"Checufikeni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.28333,
+    -14.4,
+    34.28333,
+    -14.4
+],
+  "geometry": {"coordinates":[34.28333,-14.4],"type":"Point"}
+}

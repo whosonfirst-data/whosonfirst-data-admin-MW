@@ -1,0 +1,64 @@
+{
+  "id": 1276804115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04738,-15.81752,35.04738,-15.81752",
+    "geom:latitude":-15.81752,
+    "geom:longitude":35.04738,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Kanjedza",
+    "gn:country_code":"MW",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928897,
+    "gn:latitude":-15.81752,
+    "gn:longitude":35.04738,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kanjedza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928897
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"1a8bcf55ffa53ce404587a0bfac04e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276804115,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276804115,
+    "wof:lastmodified":1536644398,
+    "wof:name":"Kanjedza",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04738,
+    -15.81752,
+    35.04738,
+    -15.81752
+],
+  "geometry": {"coordinates":[35.04738,-15.81752],"type":"Point"}
+}

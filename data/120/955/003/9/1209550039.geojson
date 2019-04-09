@@ -1,0 +1,62 @@
+{
+  "id": 1209550039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.7972,-13.27727,33.7972,-13.27727",
+    "geom:latitude":-13.27727,
+    "geom:longitude":33.7972,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Kamsonga",
+    "gn:country_code":"MW",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929032,
+    "gn:latitude":-13.27727,
+    "gn:longitude":33.7972,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kamsonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929032
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"a9dec3b28371ecb1c34e992e68180887",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209550039
+        }
+    ],
+    "wof:id":1209550039,
+    "wof:lastmodified":1536283724,
+    "wof:name":"Kamsonga",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7972,
+    -13.27727,
+    33.7972,
+    -13.27727
+],
+  "geometry": {"coordinates":[33.7972,-13.27727],"type":"Point"}
+}

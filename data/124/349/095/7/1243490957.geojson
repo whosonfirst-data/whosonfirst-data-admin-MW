@@ -1,0 +1,64 @@
+{
+  "id": 1243490957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.74886,-14.1782,33.74886,-14.1782",
+    "geom:latitude":-14.1782,
+    "geom:longitude":33.74886,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Mkwinda",
+    "gn:country_code":"MW",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926418,
+    "gn:latitude":-14.1782,
+    "gn:longitude":33.74886,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mkwinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926418
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"aed4c0dfda0fd1ac7f712ca02682c107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243490957,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243490957,
+    "wof:lastmodified":1536741076,
+    "wof:name":"Mkwinda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.74886,
+    -14.1782,
+    33.74886,
+    -14.1782
+],
+  "geometry": {"coordinates":[33.74886,-14.1782],"type":"Point"}
+}

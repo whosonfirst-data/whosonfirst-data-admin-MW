@@ -1,0 +1,64 @@
+{
+  "id": 1225863429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.43762,-12.07352,33.43762,-12.07352",
+    "geom:latitude":-12.07352,
+    "geom:longitude":33.43762,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Handire Ndhlovu",
+    "gn:country_code":"MW",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929703,
+    "gn:latitude":-12.07352,
+    "gn:longitude":33.43762,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Handire Ndhlovu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929703
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4dd4203cc29f08f4b6a2ee70ea3609f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1225863429,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225863429,
+    "wof:lastmodified":1536987377,
+    "wof:name":"Handire Ndhlovu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43762,
+    -12.07352,
+    33.43762,
+    -12.07352
+],
+  "geometry": {"coordinates":[33.43762,-12.07352],"type":"Point"}
+}

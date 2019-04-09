@@ -1,0 +1,64 @@
+{
+  "id": 1193031201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41245,-11.75462,33.41245,-11.75462",
+    "geom:latitude":-11.75462,
+    "geom:longitude":33.41245,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Daniel Muwowo",
+    "gn:country_code":"MW",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930036,
+    "gn:latitude":-11.75462,
+    "gn:longitude":33.41245,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Daniel Muwowo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930036
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7cd6ad75bee0cec171b4be3ce8246b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1193031201,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193031201,
+    "wof:lastmodified":1536364113,
+    "wof:name":"Daniel Muwowo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41245,
+    -11.75462,
+    33.41245,
+    -11.75462
+],
+  "geometry": {"coordinates":[33.41245,-11.75462],"type":"Point"}
+}

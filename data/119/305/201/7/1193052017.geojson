@@ -1,0 +1,64 @@
+{
+  "id": 1193052017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70048,-15.70314,35.70048,-15.70314",
+    "geom:latitude":-15.70314,
+    "geom:longitude":35.70048,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Siana",
+    "gn:country_code":"MW",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923919,
+    "gn:latitude":-15.70314,
+    "gn:longitude":35.70048,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Siana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923919
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"63c523d21f3a614e65bb04532291f751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1193052017,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193052017,
+    "wof:lastmodified":1536365422,
+    "wof:name":"Siana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70048,
+    -15.70314,
+    35.70048,
+    -15.70314
+],
+  "geometry": {"coordinates":[35.70048,-15.70314],"type":"Point"}
+}

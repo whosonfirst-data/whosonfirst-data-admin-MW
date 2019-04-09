@@ -1,0 +1,67 @@
+{
+  "id": 890430569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.08298,-12.80417,34.08298,-12.80417",
+    "geom:latitude":-12.80417,
+    "geom:longitude":34.08298,
+    "gn:country":"MW",
+    "gn:fcode":"ADM2",
+    "gn:pop":286519,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kota Kota District"
+    ],
+    "qs:name":"Nkhotakota District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924703,
+        "qs:id":83962,
+        "wd:id":"Q687248",
+        "wk:page":"Nkhotakota District"
+    },
+    "wof:country":"MW",
+    "wof:created":1469051858,
+    "wof:geomhash":"0fa7e2fcb82bb1574728622f12bb9cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890430569
+        }
+    ],
+    "wof:id":890430569,
+    "wof:lastmodified":1527729733,
+    "wof:name":"Nkhotakota District",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":286519,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.08298,
+    -12.80417,
+    34.08298,
+    -12.80417
+],
+  "geometry": {"coordinates":[34.08298,-12.80417],"type":"Point"}
+}

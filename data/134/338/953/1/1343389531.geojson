@@ -1,0 +1,64 @@
+{
+  "id": 1343389531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31667,-12.81667,33.31667,-12.81667",
+    "geom:latitude":-12.81667,
+    "geom:longitude":33.31667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Gonekeni",
+    "gn:country_code":"MW",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929766,
+    "gn:latitude":-12.81667,
+    "gn:longitude":33.31667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Gonekeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929766
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"3dd5d79a3ca5e41ca2aeeb1cba2b1fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343389531,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343389531,
+    "wof:lastmodified":1536847617,
+    "wof:name":"Gonekeni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31667,
+    -12.81667,
+    33.31667,
+    -12.81667
+],
+  "geometry": {"coordinates":[33.31667,-12.81667],"type":"Point"}
+}

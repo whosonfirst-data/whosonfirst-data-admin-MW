@@ -1,0 +1,64 @@
+{
+  "id": 1344188351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88405,-14.24143,33.88405,-14.24143",
+    "geom:latitude":-14.24143,
+    "geom:longitude":33.88405,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Nkhosa",
+    "gn:country_code":"MW",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924707,
+    "gn:latitude":-14.24143,
+    "gn:longitude":33.88405,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Nkhosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924707
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"69a5ff3f4436204a37eff50036457b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1344188351,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344188351,
+    "wof:lastmodified":1536691290,
+    "wof:name":"Nkhosa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88405,
+    -14.24143,
+    33.88405,
+    -14.24143
+],
+  "geometry": {"coordinates":[33.88405,-14.24143],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1242592563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.47992,-11.56064,33.47992,-11.56064",
+    "geom:latitude":-11.56064,
+    "geom:longitude":33.47992,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Boti Kumwenda",
+    "gn:country_code":"MW",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931725,
+    "gn:latitude":-11.56064,
+    "gn:longitude":33.47992,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Boti Kumwenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931725
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"61098424b0ed7de513ebf55e6c17a97d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242592563,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242592563,
+    "wof:lastmodified":1537040300,
+    "wof:name":"Boti Kumwenda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.47992,
+    -11.56064,
+    33.47992,
+    -11.56064
+],
+  "geometry": {"coordinates":[33.47992,-11.56064],"type":"Point"}
+}

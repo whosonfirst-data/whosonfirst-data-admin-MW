@@ -1,0 +1,68 @@
+{
+  "id": 1310042465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28333,-16.88333,35.28333,-16.88333",
+    "geom:latitude":-16.88333,
+    "geom:longitude":35.28333,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Lundu",
+    "gn:country_code":"MW",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927747,
+    "gn:latitude":-16.88333,
+    "gn:longitude":35.28333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Lundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674839,
+        1091700255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927747
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d780be83c6d7ad4dcdac21d76721a183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700255,
+            "locality_id":1310042465,
+            "region_id":85674839
+        }
+    ],
+    "wof:id":1310042465,
+    "wof:lastmodified":1537084115,
+    "wof:name":"Lundu",
+    "wof:parent_id":1091700255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28333,
+    -16.88332999999999,
+    35.28333,
+    -16.88332999999999
+],
+  "geometry": {"coordinates":[35.28333,-16.88332999999999],"type":"Point"}
+}

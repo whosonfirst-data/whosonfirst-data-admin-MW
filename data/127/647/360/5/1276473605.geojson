@@ -1,0 +1,64 @@
+{
+  "id": 1276473605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73957,-14.88196,35.73957,-14.88196",
+    "geom:latitude":-14.88196,
+    "geom:longitude":35.73957,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Mwenye",
+    "gn:country_code":"MW",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925547,
+    "gn:latitude":-14.88196,
+    "gn:longitude":35.73957,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mwenye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925547
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"1d3eb891ccc5de97b6743ec86fb802ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276473605,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276473605,
+    "wof:lastmodified":1537085013,
+    "wof:name":"Mwenye",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73957,
+    -14.88196,
+    35.73957,
+    -14.88196
+],
+  "geometry": {"coordinates":[35.73957,-14.88196],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1276801309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.13333,-12.53333,34.13333,-12.53333",
+    "geom:latitude":-12.53333,
+    "geom:longitude":34.13333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Kapunduli",
+    "gn:country_code":"MW",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928681,
+    "gn:latitude":-12.53333,
+    "gn:longitude":34.13333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kapunduli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928681
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"f4b5d55fe4c6d3bbe52e09f9133ff0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276801309,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276801309,
+    "wof:lastmodified":1536648561,
+    "wof:name":"Kapunduli",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.13333,
+    -12.53333,
+    34.13333,
+    -12.53333
+],
+  "geometry": {"coordinates":[34.13333,-12.53333],"type":"Point"}
+}

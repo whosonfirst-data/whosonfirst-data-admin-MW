@@ -1,0 +1,64 @@
+{
+  "id": 1243373529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31667,-13.63333,33.31667,-13.63333",
+    "geom:latitude":-13.63333,
+    "geom:longitude":33.31667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Mangatsa",
+    "gn:country_code":"MW",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927250,
+    "gn:latitude":-13.63333,
+    "gn:longitude":33.31667,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Mangatsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927250
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"37c6ca38c27093da976b89222b77887c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243373529,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243373529,
+    "wof:lastmodified":1536910998,
+    "wof:name":"Mangatsa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31667,
+    -13.63333,
+    33.31667,
+    -13.63333
+],
+  "geometry": {"coordinates":[33.31667,-13.63333],"type":"Point"}
+}

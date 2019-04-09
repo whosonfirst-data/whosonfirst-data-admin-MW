@@ -1,0 +1,62 @@
+{
+  "id": 1209249701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.45,-13.66667,33.45,-13.66667",
+    "geom:latitude":-13.66667,
+    "geom:longitude":33.45,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Msakli",
+    "gn:country_code":"MW",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926047,
+    "gn:latitude":-13.66667,
+    "gn:longitude":33.45,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Msakli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926047
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"837d140e6a1aa910cf243615908005f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209249701
+        }
+    ],
+    "wof:id":1209249701,
+    "wof:lastmodified":1536293045,
+    "wof:name":"Msakli",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.45,
+    -13.666670000000002,
+    33.45,
+    -13.666670000000002
+],
+  "geometry": {"coordinates":[33.45,-13.66667],"type":"Point"}
+}

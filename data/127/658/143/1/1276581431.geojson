@@ -1,0 +1,64 @@
+{
+  "id": 1276581431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.50466,-15.72302,34.50466,-15.72302",
+    "geom:latitude":-15.72302,
+    "geom:longitude":34.50466,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Chimbwinda",
+    "gn:country_code":"MW",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930926,
+    "gn:latitude":-15.72302,
+    "gn:longitude":34.50466,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Chimbwinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930926
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"77337c4135d50fd897a31f1b36f0ebad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276581431,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276581431,
+    "wof:lastmodified":1536944473,
+    "wof:name":"Chimbwinda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.50466,
+    -15.72302,
+    34.50466,
+    -15.72302
+],
+  "geometry": {"coordinates":[34.50466,-15.72302],"type":"Point"}
+}

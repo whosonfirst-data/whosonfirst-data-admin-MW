@@ -1,0 +1,64 @@
+{
+  "id": 1260218099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.38333,-12.75,33.38333,-12.75",
+    "geom:latitude":-12.75,
+    "geom:longitude":33.38333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Kapopo",
+    "gn:country_code":"MW",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928689,
+    "gn:latitude":-12.75,
+    "gn:longitude":33.38333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kapopo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928689
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4818f9a4f4c4db3cfd5f1cc7bb451ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1260218099,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260218099,
+    "wof:lastmodified":1536800763,
+    "wof:name":"Kapopo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.38333,
+    -12.75,
+    33.38333,
+    -12.75
+],
+  "geometry": {"coordinates":[33.38333,-12.75],"type":"Point"}
+}

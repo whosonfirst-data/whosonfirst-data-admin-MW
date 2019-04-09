@@ -1,0 +1,62 @@
+{
+  "id": 1209445717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1322,-14.31882,35.1322,-14.31882",
+    "geom:latitude":-14.31882,
+    "geom:longitude":35.1322,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Nkopola",
+    "gn:country_code":"MW",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7839311,
+    "gn:latitude":-14.31882,
+    "gn:longitude":35.1322,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Nkopola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7839311
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"913ea1c898af974967354a337b5cd950",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209445717
+        }
+    ],
+    "wof:id":1209445717,
+    "wof:lastmodified":1536286825,
+    "wof:name":"Nkopola",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1322,
+    -14.31882,
+    35.1322,
+    -14.31882
+],
+  "geometry": {"coordinates":[35.1322,-14.31882],"type":"Point"}
+}

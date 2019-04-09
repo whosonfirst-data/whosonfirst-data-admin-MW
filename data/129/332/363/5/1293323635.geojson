@@ -1,0 +1,64 @@
+{
+  "id": 1293323635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.35,-13.66667,33.35,-13.66667",
+    "geom:latitude":-13.66667,
+    "geom:longitude":33.35,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Ntolo",
+    "gn:country_code":"MW",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924441,
+    "gn:latitude":-13.66667,
+    "gn:longitude":33.35,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Ntolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924441
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"dc10a5d3003f81d6ca187442fc6d2cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293323635,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293323635,
+    "wof:lastmodified":1537022370,
+    "wof:name":"Ntolo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.35,
+    -13.66667,
+    33.35,
+    -13.66667
+],
+  "geometry": {"coordinates":[33.35,-13.66667],"type":"Point"}
+}

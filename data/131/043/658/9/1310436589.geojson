@@ -1,0 +1,64 @@
+{
+  "id": 1310436589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.77024,-12.94017,33.77024,-12.94017",
+    "geom:latitude":-12.94017,
+    "geom:longitude":33.77024,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Chamama",
+    "gn:country_code":"MW",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931510,
+    "gn:latitude":-12.94017,
+    "gn:longitude":33.77024,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chamama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931510
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7ca06e5201cfc6124f49dcc639d10e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310436589,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310436589,
+    "wof:lastmodified":1537015744,
+    "wof:name":"Chamama",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.77024,
+    -12.94017,
+    33.77024,
+    -12.94017
+],
+  "geometry": {"coordinates":[33.77024,-12.94017],"type":"Point"}
+}

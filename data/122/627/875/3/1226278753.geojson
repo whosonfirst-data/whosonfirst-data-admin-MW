@@ -1,0 +1,64 @@
+{
+  "id": 1226278753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.24626,-13.98408,33.24626,-13.98408",
+    "geom:latitude":-13.98408,
+    "geom:longitude":33.24626,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Njati",
+    "gn:country_code":"MW",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924820,
+    "gn:latitude":-13.98408,
+    "gn:longitude":33.24626,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Njati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924820
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"fe08cccf86403604f233adcb3072bcc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226278753,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226278753,
+    "wof:lastmodified":1536885518,
+    "wof:name":"Njati",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.24626,
+    -13.98408,
+    33.24626,
+    -13.98408
+],
+  "geometry": {"coordinates":[33.24626,-13.98408],"type":"Point"}
+}

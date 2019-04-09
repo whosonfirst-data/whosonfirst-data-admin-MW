@@ -1,0 +1,62 @@
+{
+  "id": 1209452095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.67148,-13.92858,33.67148,-13.92858",
+    "geom:latitude":-13.92858,
+    "geom:longitude":33.67148,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Mbabzi",
+    "gn:country_code":"MW",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926942,
+    "gn:latitude":-13.92858,
+    "gn:longitude":33.67148,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mbabzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926942
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"522be1fab4f90058dffb60750fcf5d89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209452095
+        }
+    ],
+    "wof:id":1209452095,
+    "wof:lastmodified":1536286641,
+    "wof:name":"Mbabzi",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.671479999999995,
+    -13.928579999999998,
+    33.671479999999995,
+    -13.928579999999998
+],
+  "geometry": {"coordinates":[33.67148,-13.92858],"type":"Point"}
+}

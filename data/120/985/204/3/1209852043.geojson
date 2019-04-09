@@ -1,0 +1,64 @@
+{
+  "id": 1209852043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.47347,-13.74457,33.47347,-13.74457",
+    "geom:latitude":-13.74457,
+    "geom:longitude":33.47347,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Muwanga",
+    "gn:country_code":"MW",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925719,
+    "gn:latitude":-13.74457,
+    "gn:longitude":33.47347,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Muwanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925719
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"39511d5199bbce455803ddbc44a49654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1209852043,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209852043,
+    "wof:lastmodified":1536387970,
+    "wof:name":"Muwanga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.47347,
+    -13.74457,
+    33.47347,
+    -13.74457
+],
+  "geometry": {"coordinates":[33.47347,-13.74457],"type":"Point"}
+}

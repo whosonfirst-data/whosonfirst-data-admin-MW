@@ -1,0 +1,62 @@
+{
+  "id": 1209136369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26227,-13.15181,34.26227,-13.15181",
+    "geom:latitude":-13.15181,
+    "geom:longitude":34.26227,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Naferanje",
+    "gn:country_code":"MW",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925448,
+    "gn:latitude":-13.15181,
+    "gn:longitude":34.26227,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Naferanje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925448
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ae8c3885cb0806af873273b606ad9590",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209136369
+        }
+    ],
+    "wof:id":1209136369,
+    "wof:lastmodified":1536296647,
+    "wof:name":"Naferanje",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26227,
+    -13.15181,
+    34.26227,
+    -13.15181
+],
+  "geometry": {"coordinates":[34.26227,-13.15181],"type":"Point"}
+}

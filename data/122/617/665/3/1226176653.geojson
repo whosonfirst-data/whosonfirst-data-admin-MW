@@ -1,0 +1,64 @@
+{
+  "id": 1226176653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75,-14.95,35.75,-14.95",
+    "geom:latitude":-14.95,
+    "geom:longitude":35.75,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Kawa",
+    "gn:country_code":"MW",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928349,
+    "gn:latitude":-14.95,
+    "gn:longitude":35.75,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928349
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"bf2d5b89cee172b5cf4a62c9d1ce2f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226176653,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226176653,
+    "wof:lastmodified":1537031771,
+    "wof:name":"Kawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75,
+    -14.95,
+    35.75,
+    -14.95
+],
+  "geometry": {"coordinates":[35.75,-14.95],"type":"Point"}
+}

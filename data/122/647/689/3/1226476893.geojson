@@ -1,0 +1,64 @@
+{
+  "id": 1226476893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3622,-13.76868,34.3622,-13.76868",
+    "geom:latitude":-13.76868,
+    "geom:longitude":34.3622,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Mtonga",
+    "gn:country_code":"MW",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925868,
+    "gn:latitude":-13.76868,
+    "gn:longitude":34.3622,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mtonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925868
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"5b0b0f66da48df343d136d5a956dc7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226476893,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226476893,
+    "wof:lastmodified":1537094035,
+    "wof:name":"Mtonga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3622,
+    -13.76868,
+    34.3622,
+    -13.76868
+],
+  "geometry": {"coordinates":[34.3622,-13.76868],"type":"Point"}
+}

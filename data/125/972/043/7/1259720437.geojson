@@ -1,0 +1,64 @@
+{
+  "id": 1259720437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.58443,-16.08151,35.58443,-16.08151",
+    "geom:latitude":-16.08151,
+    "geom:longitude":35.58443,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Mimosa",
+    "gn:country_code":"MW",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7869952,
+    "gn:latitude":-16.08151,
+    "gn:longitude":35.58443,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Mimosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7869952
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"228ecd0d97694f8fd555f9b654a73a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259720437,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259720437,
+    "wof:lastmodified":1537013016,
+    "wof:name":"Mimosa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.58443,
+    -16.08151,
+    35.58443,
+    -16.08151
+],
+  "geometry": {"coordinates":[35.58443,-16.08151],"type":"Point"}
+}

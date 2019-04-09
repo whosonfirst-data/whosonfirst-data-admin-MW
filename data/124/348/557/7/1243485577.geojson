@@ -1,0 +1,64 @@
+{
+  "id": 1243485577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.60104,-12.74038,33.60104,-12.74038",
+    "geom:latitude":-12.74038,
+    "geom:longitude":33.60104,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Mbemba",
+    "gn:country_code":"MW",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926885,
+    "gn:latitude":-12.74038,
+    "gn:longitude":33.60104,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mbemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926885
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"6144f76613524a9f9fef04963f8d0571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243485577,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243485577,
+    "wof:lastmodified":1536749010,
+    "wof:name":"Mbemba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.60104,
+    -12.74038,
+    33.60104,
+    -12.74038
+],
+  "geometry": {"coordinates":[33.60104,-12.74038],"type":"Point"}
+}

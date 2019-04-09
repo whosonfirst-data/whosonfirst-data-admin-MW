@@ -1,0 +1,70 @@
+{
+  "id": 1293902267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.28385,-11.55541,33.28385,-11.55541",
+    "geom:latitude":-11.55541,
+    "geom:longitude":33.28385,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Ndakala Chavinda",
+    "gn:country_code":"MW",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925056,
+    "gn:latitude":-11.55541,
+    "gn:longitude":33.28385,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Ndakala Chavinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ndakala Chavinda"
+    ],
+    "name:und_x_variant":[
+        "Ndakhala Chavinda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925056
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"47f0eff464b6940d6372ce170a341925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293902267,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293902267,
+    "wof:lastmodified":1537665832,
+    "wof:name":"Ndakala Chavinda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.28385,
+    -11.55541,
+    33.28385,
+    -11.55541
+],
+  "geometry": {"coordinates":[33.28385,-11.55541],"type":"Point"}
+}

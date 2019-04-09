@@ -1,0 +1,64 @@
+{
+  "id": 1226179245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36667,-14.35,34.36667,-14.35",
+    "geom:latitude":-14.35,
+    "geom:longitude":34.36667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Kudzoe",
+    "gn:country_code":"MW",
+    "gn:dem":1483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928153,
+    "gn:latitude":-14.35,
+    "gn:longitude":34.36667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kudzoe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928153
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"b4088e9932b8a137a3fd9c9f3e5b71e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226179245,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226179245,
+    "wof:lastmodified":1537028118,
+    "wof:name":"Kudzoe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36667,
+    -14.35,
+    34.36667,
+    -14.35
+],
+  "geometry": {"coordinates":[34.36667,-14.35],"type":"Point"}
+}

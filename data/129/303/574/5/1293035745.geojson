@@ -1,0 +1,64 @@
+{
+  "id": 1293035745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.71667,-13.3,33.71667,-13.3",
+    "geom:latitude":-13.3,
+    "geom:longitude":33.71667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Chipalawe",
+    "gn:country_code":"MW",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930681,
+    "gn:latitude":-13.3,
+    "gn:longitude":33.71667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Chipalawe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930681
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"0d0ba14c6df9eb4edda2ed330d01ecf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293035745,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293035745,
+    "wof:lastmodified":1536941948,
+    "wof:name":"Chipalawe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.71667,
+    -13.3,
+    33.71667,
+    -13.3
+],
+  "geometry": {"coordinates":[33.71667,-13.3],"type":"Point"}
+}

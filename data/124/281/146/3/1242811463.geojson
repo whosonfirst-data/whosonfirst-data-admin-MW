@@ -1,0 +1,64 @@
+{
+  "id": 1242811463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55176,-14.99372,35.55176,-14.99372",
+    "geom:latitude":-14.99372,
+    "geom:longitude":35.55176,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Khuzumba",
+    "gn:country_code":"MW",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928207,
+    "gn:latitude":-14.99372,
+    "gn:longitude":35.55176,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Khuzumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928207
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"e2ed60f9c5148dd0273abf037bf53da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242811463,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242811463,
+    "wof:lastmodified":1536727312,
+    "wof:name":"Khuzumba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55175999999999,
+    -14.99372,
+    35.55175999999999,
+    -14.99372
+],
+  "geometry": {"coordinates":[35.55175999999999,-14.99372],"type":"Point"}
+}

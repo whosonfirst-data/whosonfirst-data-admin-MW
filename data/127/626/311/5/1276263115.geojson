@@ -1,0 +1,64 @@
+{
+  "id": 1276263115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.91114,-12.86554,33.91114,-12.86554",
+    "geom:latitude":-12.86554,
+    "geom:longitude":33.91114,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Kajinyira",
+    "gn:country_code":"MW",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929351,
+    "gn:latitude":-12.86554,
+    "gn:longitude":33.91114,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kajinyira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929351
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ec5c5f28022e7d4f71c4cf619bb1b980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276263115,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276263115,
+    "wof:lastmodified":1536871734,
+    "wof:name":"Kajinyira",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.91114,
+    -12.86554,
+    33.91114,
+    -12.86554
+],
+  "geometry": {"coordinates":[33.91114,-12.86554],"type":"Point"}
+}

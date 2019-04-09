@@ -1,0 +1,64 @@
+{
+  "id": 1225855321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.40167,-12.01976,33.40167,-12.01976",
+    "geom:latitude":-12.01976,
+    "geom:longitude":33.40167,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Mgawa",
+    "gn:country_code":"MW",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926682,
+    "gn:latitude":-12.01976,
+    "gn:longitude":33.40167,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mgawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926682
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"5bc39f6d5869a729b6a259b8f69f7642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1225855321,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225855321,
+    "wof:lastmodified":1536999008,
+    "wof:name":"Mgawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.40167,
+    -12.01976,
+    33.40167,
+    -12.01976
+],
+  "geometry": {"coordinates":[33.40167,-12.01976],"type":"Point"}
+}

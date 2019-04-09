@@ -1,0 +1,64 @@
+{
+  "id": 1360319669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3,-15.58333,35.3,-15.58333",
+    "geom:latitude":-15.58333,
+    "geom:longitude":35.3,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Namabalu",
+    "gn:country_code":"MW",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925413,
+    "gn:latitude":-15.58333,
+    "gn:longitude":35.3,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Namabalu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925413
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"632f327aae0241a55234b49fcd89a192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1360319669,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360319669,
+    "wof:lastmodified":1536604184,
+    "wof:name":"Namabalu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3,
+    -15.58333,
+    35.3,
+    -15.58333
+],
+  "geometry": {"coordinates":[35.3,-15.58333],"type":"Point"}
+}

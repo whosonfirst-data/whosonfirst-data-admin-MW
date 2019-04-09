@@ -1,0 +1,66 @@
+{
+  "id": 1243488459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.96213,-15.82117,34.96213,-15.82117",
+    "geom:latitude":-15.82117,
+    "geom:longitude":34.96213,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Mpagaja",
+    "gn:country_code":"MW",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926276,
+    "gn:latitude":-15.82117,
+    "gn:longitude":34.96213,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Mpagaja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632383,
+        1108784761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926276
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"848860c04840f38ad719f125933c1f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":1243488459,
+            "region_id":1108784761
+        }
+    ],
+    "wof:id":1243488459,
+    "wof:lastmodified":1536744652,
+    "wof:name":"Mpagaja",
+    "wof:parent_id":1108784761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.96213,
+    -15.82117,
+    34.96213,
+    -15.82117
+],
+  "geometry": {"coordinates":[34.96213,-15.82117],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1293814529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.25,-12.96667,34.25,-12.96667",
+    "geom:latitude":-12.96667,
+    "geom:longitude":34.25,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Malenga",
+    "gn:country_code":"MW",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927366,
+    "gn:latitude":-12.96667,
+    "gn:longitude":34.25,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Malenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927366
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"f49b5cec3cb04fea0c2cee30efb543b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293814529,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293814529,
+    "wof:lastmodified":1536812225,
+    "wof:name":"Malenga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.25,
+    -12.96667,
+    34.25,
+    -12.96667
+],
+  "geometry": {"coordinates":[34.25,-12.96667],"type":"Point"}
+}

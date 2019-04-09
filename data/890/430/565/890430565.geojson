@@ -1,0 +1,67 @@
+{
+  "id": 890430565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.90798,-13.29574,33.90798,-13.29574",
+    "geom:latitude":-13.29574,
+    "geom:longitude":33.90798,
+    "gn:country":"MW",
+    "gn:fcode":"ADM2",
+    "gn:pop":199341,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Nchisi District"
+    ],
+    "qs:name":"Ntchisi District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":99,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924490,
+        "qs:id":83959,
+        "wd:id":"Q798235",
+        "wk:page":"Ntchisi District"
+    },
+    "wof:country":"MW",
+    "wof:created":1469051857,
+    "wof:geomhash":"92ad310dbab0b7ea6db1f5c2505adcd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890430565
+        }
+    ],
+    "wof:id":890430565,
+    "wof:lastmodified":1527729740,
+    "wof:name":"Ntchisi District",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":199341,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.90798,
+    -13.29574,
+    33.90798,
+    -13.29574
+],
+  "geometry": {"coordinates":[33.90798,-13.29574],"type":"Point"}
+}

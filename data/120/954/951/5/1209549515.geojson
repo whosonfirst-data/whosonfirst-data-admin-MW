@@ -1,0 +1,66 @@
+{
+  "id": 1209549515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.17876,-14.31296,34.17876,-14.31296",
+    "geom:latitude":-14.31296,
+    "geom:longitude":34.17876,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Mnyanga",
+    "gn:country_code":"MW",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926327,
+    "gn:latitude":-14.31296,
+    "gn:longitude":34.17876,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mnyanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mhyanga",
+        "Mnyanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926327
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7f6717de51f9872d72d8552d8ae906ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209549515
+        }
+    ],
+    "wof:id":1209549515,
+    "wof:lastmodified":1537665835,
+    "wof:name":"Mnyanga",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.17876,
+    -14.31296,
+    34.17876,
+    -14.31296
+],
+  "geometry": {"coordinates":[34.17876,-14.31296],"type":"Point"}
+}

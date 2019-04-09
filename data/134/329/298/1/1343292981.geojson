@@ -1,0 +1,64 @@
+{
+  "id": 1343292981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.28333,-13.55,33.28333,-13.55",
+    "geom:latitude":-13.55,
+    "geom:longitude":33.28333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Katakula",
+    "gn:country_code":"MW",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928518,
+    "gn:latitude":-13.55,
+    "gn:longitude":33.28333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Katakula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928518
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"46d748e36e26230e24b619468584bce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343292981,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343292981,
+    "wof:lastmodified":1536987237,
+    "wof:name":"Katakula",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.28333,
+    -13.55,
+    33.28333,
+    -13.55
+],
+  "geometry": {"coordinates":[33.28333,-13.55],"type":"Point"}
+}

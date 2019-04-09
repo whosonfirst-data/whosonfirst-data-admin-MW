@@ -1,0 +1,67 @@
+{
+  "id": 890438059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34658,-14.39296,35.34658,-14.39296",
+    "geom:latitude":-14.39296,
+    "geom:longitude":35.34658,
+    "gn:country":"MW",
+    "gn:fcode":"ADM2",
+    "gn:pop":674224,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Fort Johnston District"
+    ],
+    "qs:name":"Mangochi District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wd:wordcount":504,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927245,
+        "qs:id":83970,
+        "wd:id":"Q722505",
+        "wk:page":"Mangochi District"
+    },
+    "wof:country":"MW",
+    "wof:created":1469052178,
+    "wof:geomhash":"a468c7c4ec826881d68a95568f56e505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438059
+        }
+    ],
+    "wof:id":890438059,
+    "wof:lastmodified":1527735425,
+    "wof:name":"Mangochi District",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":674224,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34658,
+    -14.39296,
+    35.34658,
+    -14.39296
+],
+  "geometry": {"coordinates":[35.34658,-14.39296],"type":"Point"}
+}

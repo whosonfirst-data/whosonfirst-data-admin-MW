@@ -1,0 +1,64 @@
+{
+  "id": 1209749801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71667,-14.55,35.71667,-14.55",
+    "geom:latitude":-14.55,
+    "geom:longitude":35.71667,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Kaipa",
+    "gn:country_code":"MW",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929361,
+    "gn:latitude":-14.55,
+    "gn:longitude":35.71667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kaipa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929361
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"f0f834aaf9d2bf30ff49ab6dad7f0676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1209749801,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209749801,
+    "wof:lastmodified":1536393304,
+    "wof:name":"Kaipa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71667,
+    -14.55,
+    35.71667,
+    -14.55
+],
+  "geometry": {"coordinates":[35.71667,-14.55],"type":"Point"}
+}

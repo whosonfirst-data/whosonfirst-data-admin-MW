@@ -1,0 +1,62 @@
+{
+  "id": 1209136677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9,-13.93333,33.9,-13.93333",
+    "geom:latitude":-13.93333,
+    "geom:longitude":33.9,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Choloamakande",
+    "gn:country_code":"MW",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930284,
+    "gn:latitude":-13.93333,
+    "gn:longitude":33.9,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Choloamakande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930284
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"dd55993a0ba2361705708c79e9f14f63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209136677
+        }
+    ],
+    "wof:id":1209136677,
+    "wof:lastmodified":1536296638,
+    "wof:name":"Choloamakande",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9,
+    -13.933329999999998,
+    33.9,
+    -13.933329999999998
+],
+  "geometry": {"coordinates":[33.9,-13.93333],"type":"Point"}
+}

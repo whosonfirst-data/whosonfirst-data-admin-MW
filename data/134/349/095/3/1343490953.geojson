@@ -1,0 +1,64 @@
+{
+  "id": 1343490953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.20351,-14.37906,35.20351,-14.37906",
+    "geom:latitude":-14.37906,
+    "geom:longitude":35.20351,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Chipoka",
+    "gn:country_code":"MW",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930628,
+    "gn:latitude":-14.37906,
+    "gn:longitude":35.20351,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chipoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930628
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"6bb656cefbbba55ca979e3295a4cc12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343490953,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343490953,
+    "wof:lastmodified":1536702494,
+    "wof:name":"Chipoka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20350999999999,
+    -14.37906,
+    35.20350999999999,
+    -14.37906
+],
+  "geometry": {"coordinates":[35.20350999999999,-14.37906],"type":"Point"}
+}

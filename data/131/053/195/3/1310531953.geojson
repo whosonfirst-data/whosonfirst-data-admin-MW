@@ -1,0 +1,66 @@
+{
+  "id": 1310531953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41667,-15.38333,35.41667,-15.38333",
+    "geom:latitude":-15.38333,
+    "geom:longitude":35.41667,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Chikabwereza",
+    "gn:country_code":"MW",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931173,
+    "gn:latitude":-15.38333,
+    "gn:longitude":35.41667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Chikabwereza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632383,
+        1108784765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931173
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"fe4a996ddbc50585f210693e427a0d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":1310531953,
+            "region_id":1108784765
+        }
+    ],
+    "wof:id":1310531953,
+    "wof:lastmodified":1536878055,
+    "wof:name":"Chikabwereza",
+    "wof:parent_id":1108784765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41667,
+    -15.38333,
+    35.41667,
+    -15.38333
+],
+  "geometry": {"coordinates":[35.41667,-15.38333],"type":"Point"}
+}

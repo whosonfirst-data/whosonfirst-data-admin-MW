@@ -1,0 +1,68 @@
+{
+  "id": 1209953321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55261,-15.8352,35.55261,-15.8352",
+    "geom:latitude":-15.8352,
+    "geom:longitude":35.55261,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Chanasa",
+    "gn:country_code":"MW",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931458,
+    "gn:latitude":-15.8352,
+    "gn:longitude":35.55261,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chanasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chanza",
+        "Chanasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931458
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"701d9f0704330c541f63e704b541e2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1209953321,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209953321,
+    "wof:lastmodified":1537665847,
+    "wof:name":"Chanasa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55260999999999,
+    -15.8352,
+    35.55260999999999,
+    -15.8352
+],
+  "geometry": {"coordinates":[35.55260999999999,-15.8352],"type":"Point"}
+}

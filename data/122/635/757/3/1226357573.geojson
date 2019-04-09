@@ -1,0 +1,64 @@
+{
+  "id": 1226357573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.32691,-12.01334,33.32691,-12.01334",
+    "geom:latitude":-12.01334,
+    "geom:longitude":33.32691,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Kabalamula",
+    "gn:country_code":"MW",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929542,
+    "gn:latitude":-12.01334,
+    "gn:longitude":33.32691,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kabalamula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929542
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"0b193610ec4f47c8d47d44fa0f86fa12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226357573,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226357573,
+    "wof:lastmodified":1536773009,
+    "wof:name":"Kabalamula",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.32691,
+    -12.01334,
+    33.32691,
+    -12.01334
+],
+  "geometry": {"coordinates":[33.32691,-12.01334],"type":"Point"}
+}

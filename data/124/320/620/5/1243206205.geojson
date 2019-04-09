@@ -1,0 +1,64 @@
+{
+  "id": 1243206205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.05539,-15.91599,35.05539,-15.91599",
+    "geom:latitude":-15.91599,
+    "geom:longitude":35.05539,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Chigumula",
+    "gn:country_code":"MW",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870232,
+    "gn:latitude":-15.91599,
+    "gn:longitude":35.05539,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Chigumula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870232
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"5fc83485d08e6457e8ba12d4b2632bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243206205,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243206205,
+    "wof:lastmodified":1536655016,
+    "wof:name":"Chigumula",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05539,
+    -15.91599,
+    35.05539,
+    -15.91599
+],
+  "geometry": {"coordinates":[35.05539,-15.91599],"type":"Point"}
+}

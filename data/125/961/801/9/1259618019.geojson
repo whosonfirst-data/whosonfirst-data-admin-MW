@@ -1,0 +1,64 @@
+{
+  "id": 1259618019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78039,-15.57701,35.78039,-15.57701",
+    "geom:latitude":-15.57701,
+    "geom:longitude":35.78039,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Chiwalu",
+    "gn:country_code":"MW",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930366,
+    "gn:latitude":-15.57701,
+    "gn:longitude":35.78039,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Chiwalu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930366
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"c194ef47529d3feb5819700794f5cded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259618019,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259618019,
+    "wof:lastmodified":1536665008,
+    "wof:name":"Chiwalu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78039000000001,
+    -15.57701,
+    35.78039000000001,
+    -15.57701
+],
+  "geometry": {"coordinates":[35.78039000000001,-15.57701],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1243279185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55904,-11.93785,33.55904,-11.93785",
+    "geom:latitude":-11.93785,
+    "geom:longitude":33.55904,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Alick Ndawandawa",
+    "gn:country_code":"MW",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931903,
+    "gn:latitude":-11.93785,
+    "gn:longitude":33.55904,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Alick Ndawandawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931903
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"6343d8b58464af883b8dbab8601b0b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243279185,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243279185,
+    "wof:lastmodified":1537044697,
+    "wof:name":"Alick Ndawandawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55904,
+    -11.93785,
+    33.55904,
+    -11.93785
+],
+  "geometry": {"coordinates":[33.55904,-11.93785],"type":"Point"}
+}

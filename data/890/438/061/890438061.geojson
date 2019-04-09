@@ -1,0 +1,67 @@
+{
+  "id": 890438061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57367,-14.94583,35.57367,-14.94583",
+    "geom:latitude":-14.94583,
+    "geom:longitude":35.57367,
+    "gn:country":"MW",
+    "gn:fcode":"ADM2",
+    "gn:pop":410411,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kasupe District"
+    ],
+    "qs:name":"Machinga District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927642,
+        "qs:id":83972,
+        "wd:id":"Q198585",
+        "wk:page":"Machinga District"
+    },
+    "wof:country":"MW",
+    "wof:created":1469052178,
+    "wof:geomhash":"925eba4ca2cfba2732f75b5d95523a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438061
+        }
+    ],
+    "wof:id":890438061,
+    "wof:lastmodified":1527735425,
+    "wof:name":"Machinga District",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":410411,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57367,
+    -14.94583,
+    35.57367,
+    -14.94583
+],
+  "geometry": {"coordinates":[35.57367,-14.94583],"type":"Point"}
+}

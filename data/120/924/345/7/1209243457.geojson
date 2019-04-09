@@ -1,0 +1,62 @@
+{
+  "id": 1209243457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.81667,-13.7,33.81667,-13.7",
+    "geom:latitude":-13.7,
+    "geom:longitude":33.81667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Chinvama",
+    "gn:country_code":"MW",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930716,
+    "gn:latitude":-13.7,
+    "gn:longitude":33.81667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Chinvama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930716
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7093d7d2f400480886f84691cfb3a813",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209243457
+        }
+    ],
+    "wof:id":1209243457,
+    "wof:lastmodified":1536293243,
+    "wof:name":"Chinvama",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.81667,
+    -13.7,
+    33.81667,
+    -13.7
+],
+  "geometry": {"coordinates":[33.81667,-13.7],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1193052687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.95968,-13.7877,32.95968,-13.7877",
+    "geom:latitude":-13.7877,
+    "geom:longitude":32.95968,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Mgubo",
+    "gn:country_code":"MW",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926677,
+    "gn:latitude":-13.7877,
+    "gn:longitude":32.95968,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mgubo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mguba",
+        "Mgubo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926677
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4f957f0069c5e7a6e88280bf52c12ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1193052687,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193052687,
+    "wof:lastmodified":1537665836,
+    "wof:name":"Mgubo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95968,
+    -13.7877,
+    32.95968,
+    -13.7877
+],
+  "geometry": {"coordinates":[32.95968,-13.7877],"type":"Point"}
+}

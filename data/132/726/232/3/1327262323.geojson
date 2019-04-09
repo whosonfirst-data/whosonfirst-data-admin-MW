@@ -1,0 +1,64 @@
+{
+  "id": 1327262323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.03333,-13.65,34.03333,-13.65",
+    "geom:latitude":-13.65,
+    "geom:longitude":34.03333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Ndekwa",
+    "gn:country_code":"MW",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925020,
+    "gn:latitude":-13.65,
+    "gn:longitude":34.03333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Ndekwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925020
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"1d99757709805405d8a4bd7dca418578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327262323,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327262323,
+    "wof:lastmodified":1536927208,
+    "wof:name":"Ndekwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.03333,
+    -13.65,
+    34.03333,
+    -13.65
+],
+  "geometry": {"coordinates":[34.03333,-13.65],"type":"Point"}
+}

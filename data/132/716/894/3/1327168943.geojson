@@ -1,0 +1,64 @@
+{
+  "id": 1327168943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68012,-14.82342,35.68012,-14.82342",
+    "geom:latitude":-14.82342,
+    "geom:longitude":35.68012,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Macilinga",
+    "gn:country_code":"MW",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927634,
+    "gn:latitude":-14.82342,
+    "gn:longitude":35.68012,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Macilinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927634
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"da17cfca4c6ddf470a3c9401342d902e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327168943,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327168943,
+    "wof:lastmodified":1537058689,
+    "wof:name":"Macilinga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68012,
+    -14.82342,
+    35.68012,
+    -14.82342
+],
+  "geometry": {"coordinates":[35.68012,-14.82342],"type":"Point"}
+}

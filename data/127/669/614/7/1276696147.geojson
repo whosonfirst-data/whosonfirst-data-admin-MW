@@ -1,0 +1,68 @@
+{
+  "id": 1276696147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.4831,-15.99843,34.4831,-15.99843",
+    "geom:latitude":-15.99843,
+    "geom:longitude":34.4831,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Mikolongo",
+    "gn:country_code":"MW",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926634,
+    "gn:latitude":-15.99843,
+    "gn:longitude":34.4831,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mikolongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mikorongo",
+        "Mikolongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926634
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7dab3fadc8375e9650fcd47e149e66fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276696147,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276696147,
+    "wof:lastmodified":1537665836,
+    "wof:name":"Mikolongo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.4831,
+    -15.99843,
+    34.4831,
+    -15.99843
+],
+  "geometry": {"coordinates":[34.4831,-15.99843],"type":"Point"}
+}

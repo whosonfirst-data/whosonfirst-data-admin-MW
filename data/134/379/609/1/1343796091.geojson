@@ -1,0 +1,64 @@
+{
+  "id": 1343796091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88173,-14.30057,33.88173,-14.30057",
+    "geom:latitude":-14.30057,
+    "geom:longitude":33.88173,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Chadika",
+    "gn:country_code":"MW",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931587,
+    "gn:latitude":-14.30057,
+    "gn:longitude":33.88173,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chadika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931587
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"c1934ea7f6fd752e4c4cf7214d604460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343796091,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343796091,
+    "wof:lastmodified":1536759770,
+    "wof:name":"Chadika",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88173,
+    -14.30057,
+    33.88173,
+    -14.30057
+],
+  "geometry": {"coordinates":[33.88173,-14.30057],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1276366609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.68265,-13.74887,33.68265,-13.74887",
+    "geom:latitude":-13.74887,
+    "geom:longitude":33.68265,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Cikutu",
+    "gn:country_code":"MW",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930192,
+    "gn:latitude":-13.74887,
+    "gn:longitude":33.68265,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Cikutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930192
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"eb558993100cdeed3e933b2325a7cdc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276366609,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276366609,
+    "wof:lastmodified":1536734212,
+    "wof:name":"Cikutu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.68265,
+    -13.74887,
+    33.68265,
+    -13.74887
+],
+  "geometry": {"coordinates":[33.68265,-13.74887],"type":"Point"}
+}

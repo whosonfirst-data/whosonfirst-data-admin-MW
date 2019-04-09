@@ -1,0 +1,66 @@
+{
+  "id": 1210026993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21033,-10.45318,34.21033,-10.45318",
+    "geom:latitude":-10.45318,
+    "geom:longitude":34.21033,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Uliwa",
+    "gn:country_code":"MW",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7839997,
+    "gn:latitude":-10.45318,
+    "gn:longitude":34.21033,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Uliwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632383,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7839997
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"2c153ab970e151da74735e25d6d1b0f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":1210026993,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":1210026993,
+    "wof:lastmodified":1536390277,
+    "wof:name":"Uliwa",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21033,
+    -10.45318,
+    34.21033,
+    -10.45318
+],
+  "geometry": {"coordinates":[34.21033,-10.45318],"type":"Point"}
+}

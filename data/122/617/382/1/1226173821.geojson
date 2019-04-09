@@ -1,0 +1,64 @@
+{
+  "id": 1226173821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57199,-15.00274,35.57199,-15.00274",
+    "geom:latitude":-15.00274,
+    "geom:longitude":35.57199,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Nkotama",
+    "gn:country_code":"MW",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924658,
+    "gn:latitude":-15.00274,
+    "gn:longitude":35.57199,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Nkotama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924658
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"e7a6c56c0d3df7134f66441e40c720dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226173821,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226173821,
+    "wof:lastmodified":1537035722,
+    "wof:name":"Nkotama",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57199,
+    -15.00274,
+    35.57199,
+    -15.00274
+],
+  "geometry": {"coordinates":[35.57199,-15.00274],"type":"Point"}
+}

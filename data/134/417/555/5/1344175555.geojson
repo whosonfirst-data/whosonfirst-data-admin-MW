@@ -1,0 +1,68 @@
+{
+  "id": 1344175555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1334,-11.93226,34.1334,-11.93226",
+    "geom:latitude":-11.93226,
+    "geom:longitude":34.1334,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Malenga Mzoma",
+    "gn:country_code":"MW",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927361,
+    "gn:latitude":-11.93226,
+    "gn:longitude":34.1334,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malenga Mzoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malenga",
+        "Malenga Mzoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927361
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"3ac5274bdec84af3b9b6daf50ec20e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1344175555,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344175555,
+    "wof:lastmodified":1537665838,
+    "wof:name":"Malenga Mzoma",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1334,
+    -11.93226,
+    34.1334,
+    -11.93226
+],
+  "geometry": {"coordinates":[34.1334,-11.93226],"type":"Point"}
+}

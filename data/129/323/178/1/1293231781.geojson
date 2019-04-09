@@ -1,0 +1,64 @@
+{
+  "id": 1293231781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.38934,-12.67298,33.38934,-12.67298",
+    "geom:latitude":-12.67298,
+    "geom:longitude":33.38934,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Mseka",
+    "gn:country_code":"MW",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926029,
+    "gn:latitude":-12.67298,
+    "gn:longitude":33.38934,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mseka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926029
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"fe0ea5a6be3378c9930f6daab73f7c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293231781,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293231781,
+    "wof:lastmodified":1536658881,
+    "wof:name":"Mseka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.38934,
+    -12.67298,
+    33.38934,
+    -12.67298
+],
+  "geometry": {"coordinates":[33.38934,-12.67298],"type":"Point"}
+}

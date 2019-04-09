@@ -1,0 +1,66 @@
+{
+  "id": 1209329759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.03534,-10.75261,34.03534,-10.75261",
+    "geom:latitude":-10.75261,
+    "geom:longitude":34.03534,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Nchenachena",
+    "gn:country_code":"MW",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925083,
+    "gn:latitude":-10.75261,
+    "gn:longitude":34.03534,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nchenachena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nchenchena",
+        "Nchenachena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925083
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"8dbe0cde7c5246503660b1401cf8d6ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209329759
+        }
+    ],
+    "wof:id":1209329759,
+    "wof:lastmodified":1537665832,
+    "wof:name":"Nchenachena",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.03534000000001,
+    -10.75261,
+    34.03534000000001,
+    -10.75261
+],
+  "geometry": {"coordinates":[34.03534000000001,-10.75261],"type":"Point"}
+}

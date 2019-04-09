@@ -1,0 +1,62 @@
+{
+  "id": 1209424985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.45,-14.48333,34.45,-14.48333",
+    "geom:latitude":-14.48333,
+    "geom:longitude":34.45,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Timote",
+    "gn:country_code":"MW",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923642,
+    "gn:latitude":-14.48333,
+    "gn:longitude":34.45,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Timote",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923642
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"1a70ae7d6f2892efab346b82383a5b81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209424985
+        }
+    ],
+    "wof:id":1209424985,
+    "wof:lastmodified":1536287409,
+    "wof:name":"Timote",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.45,
+    -14.48333,
+    34.45,
+    -14.48333
+],
+  "geometry": {"coordinates":[34.45,-14.48333],"type":"Point"}
+}

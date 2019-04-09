@@ -1,0 +1,62 @@
+{
+  "id": 1209124741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.08333,-10.3,34.08333,-10.3",
+    "geom:latitude":-10.3,
+    "geom:longitude":34.08333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Muchekacheka",
+    "gn:country_code":"MW",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925826,
+    "gn:latitude":-10.3,
+    "gn:longitude":34.08333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Muchekacheka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925826
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"a8199b65401885620f22ebdabd8a5c2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209124741
+        }
+    ],
+    "wof:id":1209124741,
+    "wof:lastmodified":1536296989,
+    "wof:name":"Muchekacheka",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.08333,
+    -10.3,
+    34.08333,
+    -10.3
+],
+  "geometry": {"coordinates":[34.08333,-10.3],"type":"Point"}
+}

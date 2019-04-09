@@ -1,0 +1,64 @@
+{
+  "id": 1260095371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.69286,-12.21167,33.69286,-12.21167",
+    "geom:latitude":-12.21167,
+    "geom:longitude":33.69286,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Nchapito",
+    "gn:country_code":"MW",
+    "gn:dem":1487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925091,
+    "gn:latitude":-12.21167,
+    "gn:longitude":33.69286,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Nchapito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925091
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ca3ae49616a33148a2d0c02d4b4559b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1260095371,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260095371,
+    "wof:lastmodified":1536970520,
+    "wof:name":"Nchapito",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.69286,
+    -12.21167,
+    33.69286,
+    -12.21167
+],
+  "geometry": {"coordinates":[33.69286,-12.21167],"type":"Point"}
+}

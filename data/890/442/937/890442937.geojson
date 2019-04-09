@@ -1,0 +1,67 @@
+{
+  "id": 890442937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.18559,-14.26273,34.18559,-14.26273",
+    "geom:latitude":-14.26273,
+    "geom:longitude":34.18559,
+    "gn:country":"MW",
+    "gn:fcode":"ADM2",
+    "gn:pop":526771,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Dedza"
+    ],
+    "qs:name":"Dedza District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wd:wordcount":558,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930023,
+        "qs:id":370190,
+        "wd:id":"Q667153",
+        "wk:page":"Dedza District"
+    },
+    "wof:country":"MW",
+    "wof:created":1469052389,
+    "wof:geomhash":"7a5f177dd018beb88db6e98283ddd649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890442937
+        }
+    ],
+    "wof:id":890442937,
+    "wof:lastmodified":1527792852,
+    "wof:name":"Dedza District",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":526771,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.18559,
+    -14.26273,
+    34.18559,
+    -14.26273
+],
+  "geometry": {"coordinates":[34.18559,-14.26273],"type":"Point"}
+}

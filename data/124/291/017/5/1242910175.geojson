@@ -1,0 +1,68 @@
+{
+  "id": 1242910175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.37181,-14.53922,35.37181,-14.53922",
+    "geom:latitude":-14.53922,
+    "geom:longitude":35.37181,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Mtuwa",
+    "gn:country_code":"MW",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925837,
+    "gn:latitude":-14.53922,
+    "gn:longitude":35.37181,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mtuwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntuwa",
+        "Mtuwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925837
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"031f73a360bac8a7ae824bbed1fde552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242910175,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242910175,
+    "wof:lastmodified":1537665834,
+    "wof:name":"Mtuwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37181,
+    -14.53922,
+    35.37181,
+    -14.53922
+],
+  "geometry": {"coordinates":[35.37181,-14.53922],"type":"Point"}
+}

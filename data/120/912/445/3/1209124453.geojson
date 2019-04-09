@@ -1,0 +1,62 @@
+{
+  "id": 1209124453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59177,-11.05884,33.59177,-11.05884",
+    "geom:latitude":-11.05884,
+    "geom:longitude":33.59177,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Mtanira",
+    "gn:country_code":"MW",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925929,
+    "gn:latitude":-11.05884,
+    "gn:longitude":33.59177,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Mtanira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925929
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"eb06d14bd35231d03f479e9a3446975e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209124453
+        }
+    ],
+    "wof:id":1209124453,
+    "wof:lastmodified":1536296998,
+    "wof:name":"Mtanira",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.591770000000004,
+    -11.05884,
+    33.591770000000004,
+    -11.05884
+],
+  "geometry": {"coordinates":[33.59177,-11.05884],"type":"Point"}
+}

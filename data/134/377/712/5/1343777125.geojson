@@ -1,0 +1,64 @@
+{
+  "id": 1343777125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.28333,-12.15,33.28333,-12.15",
+    "geom:latitude":-12.15,
+    "geom:longitude":33.28333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Kambombo",
+    "gn:country_code":"MW",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929127,
+    "gn:latitude":-12.15,
+    "gn:longitude":33.28333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kambombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929127
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"9a1f905c58a55ad6d9e0db99731aebc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343777125,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343777125,
+    "wof:lastmodified":1536787300,
+    "wof:name":"Kambombo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.28333,
+    -12.15,
+    33.28333,
+    -12.15
+],
+  "geometry": {"coordinates":[33.28333,-12.15],"type":"Point"}
+}

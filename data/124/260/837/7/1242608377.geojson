@@ -1,0 +1,64 @@
+{
+  "id": 1242608377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57261,-14.68999,35.57261,-14.68999",
+    "geom:latitude":-14.68999,
+    "geom:longitude":35.57261,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Nkapa",
+    "gn:country_code":"MW",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924758,
+    "gn:latitude":-14.68999,
+    "gn:longitude":35.57261,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Nkapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924758
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"bf1c5037bfb3e56d9847c2acd0c49327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242608377,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242608377,
+    "wof:lastmodified":1537018607,
+    "wof:name":"Nkapa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57261,
+    -14.68999,
+    35.57261,
+    -14.68999
+],
+  "geometry": {"coordinates":[35.57261,-14.68999],"type":"Point"}
+}

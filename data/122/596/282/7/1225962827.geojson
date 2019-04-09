@@ -1,0 +1,70 @@
+{
+  "id": 1225962827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46787,-11.65375,33.46787,-11.65375",
+    "geom:latitude":-11.65375,
+    "geom:longitude":33.46787,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Chanamana Mwandira",
+    "gn:country_code":"MW",
+    "gn:dem":1307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931452,
+    "gn:latitude":-11.65375,
+    "gn:longitude":33.46787,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Chanamana Mwandira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chanamana Mwandira"
+    ],
+    "name:und_x_variant":[
+        "Chandamana Mwandira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931452
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"c21429a26a87d398782b9d48c34c8ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1225962827,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225962827,
+    "wof:lastmodified":1537665847,
+    "wof:name":"Chanamana Mwandira",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46787,
+    -11.65375,
+    33.46787,
+    -11.65375
+],
+  "geometry": {"coordinates":[33.46787,-11.65375],"type":"Point"}
+}

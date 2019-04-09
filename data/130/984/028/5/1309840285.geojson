@@ -1,0 +1,64 @@
+{
+  "id": 1309840285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59717,-14.1704,33.59717,-14.1704",
+    "geom:latitude":-14.1704,
+    "geom:longitude":33.59717,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Karonga",
+    "gn:country_code":"MW",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928659,
+    "gn:latitude":-14.1704,
+    "gn:longitude":33.59717,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Karonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928659
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"13d4502a156cc15d75c6bd8b00e4abd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1309840285,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309840285,
+    "wof:lastmodified":1536880704,
+    "wof:name":"Karonga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.59717,
+    -14.1704,
+    33.59717,
+    -14.1704
+],
+  "geometry": {"coordinates":[33.59717,-14.1704],"type":"Point"}
+}

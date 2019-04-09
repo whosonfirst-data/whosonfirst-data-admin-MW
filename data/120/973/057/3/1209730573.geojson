@@ -1,0 +1,64 @@
+{
+  "id": 1209730573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.78353,-11.25964,33.78353,-11.25964",
+    "geom:latitude":-11.25964,
+    "geom:longitude":33.78353,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Madisi",
+    "gn:country_code":"MW",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927619,
+    "gn:latitude":-11.25964,
+    "gn:longitude":33.78353,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Madisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927619
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"c00c24ff1a71aaf675dc83bea03f8779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1209730573,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209730573,
+    "wof:lastmodified":1536379077,
+    "wof:name":"Madisi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.78353,
+    -11.25964,
+    33.78353,
+    -11.25964
+],
+  "geometry": {"coordinates":[33.78353,-11.25964],"type":"Point"}
+}

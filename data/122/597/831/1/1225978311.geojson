@@ -1,0 +1,64 @@
+{
+  "id": 1225978311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.32443,-13.51724,33.32443,-13.51724",
+    "geom:latitude":-13.51724,
+    "geom:longitude":33.32443,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Mkhota",
+    "gn:country_code":"MW",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258554,
+    "gn:latitude":-13.51724,
+    "gn:longitude":33.32443,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Mkhota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258554
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d9a5d7b8abf8b989de00c8583b518548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1225978311,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225978311,
+    "wof:lastmodified":1536821504,
+    "wof:name":"Mkhota",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.32443,
+    -13.51724,
+    33.32443,
+    -13.51724
+],
+  "geometry": {"coordinates":[33.32443,-13.51724],"type":"Point"}
+}

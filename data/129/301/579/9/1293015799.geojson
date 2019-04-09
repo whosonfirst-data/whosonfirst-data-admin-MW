@@ -1,0 +1,64 @@
+{
+  "id": 1293015799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.71186,-11.96603,33.71186,-11.96603",
+    "geom:latitude":-11.96603,
+    "geom:longitude":33.71186,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Chibwana Mgemezulu",
+    "gn:country_code":"MW",
+    "gn:dem":1501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931266,
+    "gn:latitude":-11.96603,
+    "gn:longitude":33.71186,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chibwana Mgemezulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931266
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"810ac5f99d28413b437fe4a8fe6dff22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293015799,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293015799,
+    "wof:lastmodified":1536969667,
+    "wof:name":"Chibwana Mgemezulu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.71185999999999,
+    -11.96603,
+    33.71185999999999,
+    -11.96603
+],
+  "geometry": {"coordinates":[33.71185999999999,-11.96603],"type":"Point"}
+}

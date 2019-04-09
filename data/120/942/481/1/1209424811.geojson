@@ -1,0 +1,62 @@
+{
+  "id": 1209424811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01136,-16.54267,35.01136,-16.54267",
+    "geom:latitude":-16.54267,
+    "geom:longitude":35.01136,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Sorjin",
+    "gn:country_code":"MW",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923825,
+    "gn:latitude":-16.54267,
+    "gn:longitude":35.01136,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Sorjin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923825
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"543e929d345f6bdae3472608cfafe139",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209424811
+        }
+    ],
+    "wof:id":1209424811,
+    "wof:lastmodified":1536287414,
+    "wof:name":"Sorjin",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01136,
+    -16.54267,
+    35.01136,
+    -16.54267
+],
+  "geometry": {"coordinates":[35.01136,-16.54267],"type":"Point"}
+}

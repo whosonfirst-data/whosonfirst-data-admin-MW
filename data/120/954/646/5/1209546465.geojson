@@ -1,0 +1,62 @@
+{
+  "id": 1209546465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.68368,-12.97654,33.68368,-12.97654",
+    "geom:latitude":-12.97654,
+    "geom:longitude":33.68368,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Wimbe",
+    "gn:country_code":"MW",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923410,
+    "gn:latitude":-12.97654,
+    "gn:longitude":33.68368,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Wimbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923410
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"b9c0f25db0524e4fbf0428502f6ad91c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209546465
+        }
+    ],
+    "wof:id":1209546465,
+    "wof:lastmodified":1536283827,
+    "wof:name":"Wimbe",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.683679999999995,
+    -12.97654,
+    33.683679999999995,
+    -12.97654
+],
+  "geometry": {"coordinates":[33.68368,-12.97654],"type":"Point"}
+}

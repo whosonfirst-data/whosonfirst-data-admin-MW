@@ -1,0 +1,62 @@
+{
+  "id": 1209142191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.27613,-14.29971,34.27613,-14.29971",
+    "geom:latitude":-14.29971,
+    "geom:longitude":34.27613,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Chipasi",
+    "gn:country_code":"MW",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930662,
+    "gn:latitude":-14.29971,
+    "gn:longitude":34.27613,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chipasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930662
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"198a7405e53331f258ad4f1eef07984c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209142191
+        }
+    ],
+    "wof:id":1209142191,
+    "wof:lastmodified":1536296468,
+    "wof:name":"Chipasi",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.27613,
+    -14.29971,
+    34.27613,
+    -14.29971
+],
+  "geometry": {"coordinates":[34.27613,-14.29971],"type":"Point"}
+}

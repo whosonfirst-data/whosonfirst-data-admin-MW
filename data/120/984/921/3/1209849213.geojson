@@ -1,0 +1,64 @@
+{
+  "id": 1209849213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58859,-13.47336,33.58859,-13.47336",
+    "geom:latitude":-13.47336,
+    "geom:longitude":33.58859,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Nambamba",
+    "gn:country_code":"MW",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925354,
+    "gn:latitude":-13.47336,
+    "gn:longitude":33.58859,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Nambamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925354
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"08199d3b6e7e855fca92fbc2f60b354c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1209849213,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209849213,
+    "wof:lastmodified":1536389243,
+    "wof:name":"Nambamba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58859,
+    -13.47336,
+    33.58859,
+    -13.47336
+],
+  "geometry": {"coordinates":[33.58859,-13.47336],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1309727247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.54472,-12.19101,33.54472,-12.19101",
+    "geom:latitude":-12.19101,
+    "geom:longitude":33.54472,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Zeleza Moyo",
+    "gn:country_code":"MW",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923335,
+    "gn:latitude":-12.19101,
+    "gn:longitude":33.54472,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Zeleza Moyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923335
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"25df3bdf0855c58883f045dd5f7afd18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1309727247,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309727247,
+    "wof:lastmodified":1537042499,
+    "wof:name":"Zeleza Moyo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.54472,
+    -12.19101,
+    33.54472,
+    -12.19101
+],
+  "geometry": {"coordinates":[33.54472,-12.19101],"type":"Point"}
+}

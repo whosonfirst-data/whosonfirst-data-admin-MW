@@ -1,0 +1,64 @@
+{
+  "id": 1309834751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.76667,-16.46667,34.76667,-16.46667",
+    "geom:latitude":-16.46667,
+    "geom:longitude":34.76667,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Chambuluka",
+    "gn:country_code":"MW",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931485,
+    "gn:latitude":-16.46667,
+    "gn:longitude":34.76667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Chambuluka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931485
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"31b49954187e33df35e53715341b62eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1309834751,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309834751,
+    "wof:lastmodified":1536889114,
+    "wof:name":"Chambuluka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.76667,
+    -16.46667,
+    34.76667,
+    -16.46667
+],
+  "geometry": {"coordinates":[34.76667,-16.46667],"type":"Point"}
+}

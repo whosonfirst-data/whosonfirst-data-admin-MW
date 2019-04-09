@@ -1,0 +1,64 @@
+{
+  "id": 1310611375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.27209,-11.40141,34.27209,-11.40141",
+    "geom:latitude":-11.40141,
+    "geom:longitude":34.27209,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Kajizingi",
+    "gn:country_code":"MW",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929348,
+    "gn:latitude":-11.40141,
+    "gn:longitude":34.27209,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kajizingi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929348
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"9933b750911f17e3040c38e81062bcc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310611375,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310611375,
+    "wof:lastmodified":1536764472,
+    "wof:name":"Kajizingi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.27209000000001,
+    -11.40141,
+    34.27209000000001,
+    -11.40141
+],
+  "geometry": {"coordinates":[34.27209000000001,-11.40141],"type":"Point"}
+}

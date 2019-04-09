@@ -1,0 +1,62 @@
+{
+  "id": 1209645917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93333,-14.71667,34.93333,-14.71667",
+    "geom:latitude":-14.71667,
+    "geom:longitude":34.93333,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Bitchilipa",
+    "gn:country_code":"MW",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931765,
+    "gn:latitude":-14.71667,
+    "gn:longitude":34.93333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Bitchilipa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931765
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"bb79143f5563e30f86fd2e5a69ce6f83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209645917
+        }
+    ],
+    "wof:id":1209645917,
+    "wof:lastmodified":1536280736,
+    "wof:name":"Bitchilipa",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93333,
+    -14.71667,
+    34.93333,
+    -14.71667
+],
+  "geometry": {"coordinates":[34.93333,-14.71667],"type":"Point"}
+}

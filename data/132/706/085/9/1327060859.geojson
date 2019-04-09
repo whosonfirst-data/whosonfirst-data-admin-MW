@@ -1,0 +1,64 @@
+{
+  "id": 1327060859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.72663,-14.33312,33.72663,-14.33312",
+    "geom:latitude":-14.33312,
+    "geom:longitude":33.72663,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Simeon",
+    "gn:country_code":"MW",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923903,
+    "gn:latitude":-14.33312,
+    "gn:longitude":33.72663,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Simeon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923903
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"0fb2ef8db00c36023d556ec1e69b0650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327060859,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327060859,
+    "wof:lastmodified":1536719814,
+    "wof:name":"Simeon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.72663,
+    -14.33312,
+    33.72663,
+    -14.33312
+],
+  "geometry": {"coordinates":[33.72663,-14.33312],"type":"Point"}
+}

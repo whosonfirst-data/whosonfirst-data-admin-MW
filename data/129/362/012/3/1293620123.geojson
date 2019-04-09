@@ -1,0 +1,68 @@
+{
+  "id": 1293620123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.25645,-12.83333,34.25645,-12.83333",
+    "geom:latitude":-12.83333,
+    "geom:longitude":34.25645,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Selemani",
+    "gn:country_code":"MW",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923951,
+    "gn:latitude":-12.83333,
+    "gn:longitude":34.25645,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Selemani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seremani",
+        "Selemani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923951
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4ed3e5c1e86fd2d46cae7a8030560e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293620123,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293620123,
+    "wof:lastmodified":1537665831,
+    "wof:name":"Selemani",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.25645,
+    -12.83333,
+    34.25645,
+    -12.83333
+],
+  "geometry": {"coordinates":[34.25645,-12.83333],"type":"Point"}
+}

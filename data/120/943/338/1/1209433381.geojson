@@ -1,0 +1,62 @@
+{
+  "id": 1209433381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.66506,-12.23994,33.66506,-12.23994",
+    "geom:latitude":-12.23994,
+    "geom:longitude":33.66506,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Jona Nhlani",
+    "gn:country_code":"MW",
+    "gn:dem":1515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929579,
+    "gn:latitude":-12.23994,
+    "gn:longitude":33.66506,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Jona Nhlani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929579
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"811e3d437fdbcf2d9bc8027edc92a5b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209433381
+        }
+    ],
+    "wof:id":1209433381,
+    "wof:lastmodified":1536287172,
+    "wof:name":"Jona Nhlani",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.66506,
+    -12.23994,
+    33.66506,
+    -12.23994
+],
+  "geometry": {"coordinates":[33.66506,-12.23994],"type":"Point"}
+}

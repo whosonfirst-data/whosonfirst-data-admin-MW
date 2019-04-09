@@ -1,0 +1,64 @@
+{
+  "id": 1243207357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.98457,-13.24332,33.98457,-13.24332",
+    "geom:latitude":-13.24332,
+    "geom:longitude":33.98457,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Ntonda",
+    "gn:country_code":"MW",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924439,
+    "gn:latitude":-13.24332,
+    "gn:longitude":33.98457,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Ntonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924439
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"6a08bae9aaa2ce21e9f58c25b3035f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243207357,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243207357,
+    "wof:lastmodified":1536653214,
+    "wof:name":"Ntonda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.98457,
+    -13.24332,
+    33.98457,
+    -13.24332
+],
+  "geometry": {"coordinates":[33.98457,-13.24332],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1260295067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3,-13.66667,33.3,-13.66667",
+    "geom:latitude":-13.66667,
+    "geom:longitude":33.3,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Kakwesa",
+    "gn:country_code":"MW",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929308,
+    "gn:latitude":-13.66667,
+    "gn:longitude":33.3,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Kakwesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929308
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"74daeb9311bb8d33725898c831dd9b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1260295067,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260295067,
+    "wof:lastmodified":1536696508,
+    "wof:name":"Kakwesa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3,
+    -13.66667,
+    33.3,
+    -13.66667
+],
+  "geometry": {"coordinates":[33.3,-13.66667],"type":"Point"}
+}

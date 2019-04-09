@@ -1,0 +1,64 @@
+{
+  "id": 1293898447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55601,-12.36162,33.55601,-12.36162",
+    "geom:latitude":-12.36162,
+    "geom:longitude":33.55601,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Jenda Growth Point",
+    "gn:country_code":"MW",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7668896,
+    "gn:latitude":-12.36162,
+    "gn:longitude":33.55601,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Jenda Growth Point",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7668896
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d6003fd88f8cd3d4f3c378907e2a2831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293898447,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293898447,
+    "wof:lastmodified":1536691861,
+    "wof:name":"Jenda Growth Point",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55601,
+    -12.36162,
+    33.55601,
+    -12.36162
+],
+  "geometry": {"coordinates":[33.55601,-12.36162],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 421196735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.74008,-13.53194,33.74008,-13.53194",
+    "geom:latitude":-13.53194,
+    "geom:longitude":33.74008,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u043f\u043e\u043d\u0435\u043b\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Mponela"
+    ],
+    "name:dut_x_preferred":[
+        "Mponela"
+    ],
+    "name:eng_x_preferred":[
+        "Mponela"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u067e\u0648\u0646\u0644\u0627"
+    ],
+    "name:fre_x_preferred":[
+        "Mponela"
+    ],
+    "name:ger_x_preferred":[
+        "Mponela"
+    ],
+    "name:ita_x_preferred":[
+        "Mponela"
+    ],
+    "name:nya_x_preferred":[
+        "Mponela"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u067e\u0648\u0646\u0644\u0627"
+    ],
+    "name:swe_x_preferred":[
+        "Mponela"
+    ],
+    "name:tur_x_preferred":[
+        "Mponela"
+    ],
+    "qs:gn_country":"MW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":926087,
+    "qs:gn_pop":11222,
+    "qs:name":"Mponela",
+    "qs:name_adm0":"Malawi",
+    "qs:name_adm1":"Dowa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1297795,
+    "qs:woe_adm0":23424889,
+    "qs:woe_id":1368236,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926087,
+        "gp:id":1368236,
+        "qs:id":1297795,
+        "wd:id":"Q1253227",
+        "wk:page":"Mponela"
+    },
+    "wof:country":"MW",
+    "wof:created":1459009891,
+    "wof:geomhash":"66390246dfacd178abab2e4af47d560e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":421196735
+        }
+    ],
+    "wof:id":421196735,
+    "wof:lastmodified":1527716365,
+    "wof:name":"Mponela",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":11222,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.74008,
+    -13.53194,
+    33.74008,
+    -13.53194
+],
+  "geometry": {"coordinates":[33.74008,-13.53194],"type":"Point"}
+}

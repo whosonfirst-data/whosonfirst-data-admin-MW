@@ -1,0 +1,67 @@
+{
+  "id": 890430567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16667,-16.75,35.16667,-16.75",
+    "geom:latitude":-16.75,
+    "geom:longitude":35.16667,
+    "gn:country":"MW",
+    "gn:fcode":"ADM2",
+    "gn:pop":194768,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Lower Shire District"
+    ],
+    "qs:name":"Nsanje District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":504,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924567,
+        "qs:id":83960,
+        "wd:id":"Q198587",
+        "wk:page":"Nsanje District"
+    },
+    "wof:country":"MW",
+    "wof:created":1469051858,
+    "wof:geomhash":"3d818a76c9824a73e3c2d35161c18166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890430567
+        }
+    ],
+    "wof:id":890430567,
+    "wof:lastmodified":1527729734,
+    "wof:name":"Nsanje District",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":194768,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16667,
+    -16.75,
+    35.16667,
+    -16.75
+],
+  "geometry": {"coordinates":[35.16667,-16.75],"type":"Point"}
+}

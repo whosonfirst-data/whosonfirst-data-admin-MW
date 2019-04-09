@@ -1,0 +1,64 @@
+{
+  "id": 1293625741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15,-14.0,35.15,-14.0",
+    "geom:latitude":-14.0,
+    "geom:longitude":35.15,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Saite Mwasungu",
+    "gn:country_code":"MW",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924075,
+    "gn:latitude":-14.0,
+    "gn:longitude":35.15,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Saite Mwasungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924075
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d4bd62edd0ea11d2ccfadb88b784e707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293625741,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293625741,
+    "wof:lastmodified":1537081636,
+    "wof:name":"Saite Mwasungu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15,
+    -14.0,
+    35.15,
+    -14.0
+],
+  "geometry": {"coordinates":[35.15,-14.0],"type":"Point"}
+}

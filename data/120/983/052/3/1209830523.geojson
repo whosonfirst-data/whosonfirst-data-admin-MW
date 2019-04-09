@@ -1,0 +1,64 @@
+{
+  "id": 1209830523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.70061,-12.64859,33.70061,-12.64859",
+    "geom:latitude":-12.64859,
+    "geom:longitude":33.70061,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Kazembe",
+    "gn:country_code":"MW",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928278,
+    "gn:latitude":-12.64859,
+    "gn:longitude":33.70061,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kazembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928278
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"da235c3222f1c7f339ebd996fcc3b266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1209830523,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209830523,
+    "wof:lastmodified":1536368847,
+    "wof:name":"Kazembe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.70061,
+    -12.64859,
+    33.70061,
+    -12.64859
+],
+  "geometry": {"coordinates":[33.70061,-12.64859],"type":"Point"}
+}

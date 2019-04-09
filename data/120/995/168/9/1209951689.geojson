@@ -1,0 +1,64 @@
+{
+  "id": 1209951689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.86874,-13.69513,33.86874,-13.69513",
+    "geom:latitude":-13.69513,
+    "geom:longitude":33.86874,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Kanyambo",
+    "gn:country_code":"MW",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928854,
+    "gn:latitude":-13.69513,
+    "gn:longitude":33.86874,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kanyambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928854
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"03e0cc0b0802204adcc3b9bec0a44f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1209951689,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209951689,
+    "wof:lastmodified":1536382918,
+    "wof:name":"Kanyambo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.86874,
+    -13.69513,
+    33.86874,
+    -13.69513
+],
+  "geometry": {"coordinates":[33.86874,-13.69513],"type":"Point"}
+}

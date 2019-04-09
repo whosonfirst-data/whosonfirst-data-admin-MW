@@ -1,0 +1,68 @@
+{
+  "id": 1310039977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16409,-16.61389,35.16409,-16.61389",
+    "geom:latitude":-16.61389,
+    "geom:longitude":35.16409,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"M'nembe",
+    "gn:country_code":"MW",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926340,
+    "gn:latitude":-16.61389,
+    "gn:longitude":35.16409,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u2019nembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nembe",
+        "M\u2019nembe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926340
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"452f4e189c033d9202f3b50d5fecff60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310039977,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310039977,
+    "wof:lastmodified":1537665835,
+    "wof:name":"M'nembe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16409,
+    -16.61389,
+    35.16409,
+    -16.61389
+],
+  "geometry": {"coordinates":[35.16409,-16.61389],"type":"Point"}
+}

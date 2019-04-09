@@ -1,0 +1,64 @@
+{
+  "id": 1310340197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46667,-13.33333,33.46667,-13.33333",
+    "geom:latitude":-13.33333,
+    "geom:longitude":33.46667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Chilinkoli",
+    "gn:country_code":"MW",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931006,
+    "gn:latitude":-13.33333,
+    "gn:longitude":33.46667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Chilinkoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931006
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"6ec279d58c4b980588dda1282e0b0df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310340197,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310340197,
+    "wof:lastmodified":1536658008,
+    "wof:name":"Chilinkoli",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46667,
+    -13.33333,
+    33.46667,
+    -13.33333
+],
+  "geometry": {"coordinates":[33.46667,-13.33333],"type":"Point"}
+}

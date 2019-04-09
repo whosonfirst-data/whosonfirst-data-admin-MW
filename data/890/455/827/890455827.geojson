@@ -1,0 +1,67 @@
+{
+  "id": 890455827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.80524,-10.80292,33.80524,-10.80292",
+    "geom:latitude":-10.80292,
+    "geom:longitude":33.80524,
+    "gn:country":"MW",
+    "gn:fcode":"ADM2",
+    "gn:pop":152065,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Rumpi District"
+    ],
+    "qs:name":"Rumphi District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":173,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924100,
+        "qs:id":555016,
+        "wd:id":"Q1044312",
+        "wk:page":"Rumphi District"
+    },
+    "wof:country":"MW",
+    "wof:created":1469052977,
+    "wof:geomhash":"4afb6a9077f63abcb7ad8488c3b57658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890455827
+        }
+    ],
+    "wof:id":890455827,
+    "wof:lastmodified":1527734191,
+    "wof:name":"Rumphi District",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":152065,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.80524,
+    -10.80292,
+    33.80524,
+    -10.80292
+],
+  "geometry": {"coordinates":[33.80524,-10.80292],"type":"Point"}
+}

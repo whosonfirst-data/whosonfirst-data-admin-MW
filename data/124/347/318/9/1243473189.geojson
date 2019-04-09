@@ -1,0 +1,64 @@
+{
+  "id": 1243473189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.85,-12.4,33.85,-12.4",
+    "geom:latitude":-12.4,
+    "geom:longitude":33.85,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Khoza",
+    "gn:country_code":"MW",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928221,
+    "gn:latitude":-12.4,
+    "gn:longitude":33.85,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Khoza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928221
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"e8b511717d6be6310f1588d1e4790bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243473189,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243473189,
+    "wof:lastmodified":1536767415,
+    "wof:name":"Khoza",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.85,
+    -12.4,
+    33.85,
+    -12.4
+],
+  "geometry": {"coordinates":[33.85,-12.4],"type":"Point"}
+}

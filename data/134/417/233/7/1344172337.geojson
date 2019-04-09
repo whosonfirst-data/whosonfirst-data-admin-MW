@@ -1,0 +1,66 @@
+{
+  "id": 1344172337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.98353,-10.05281,33.98353,-10.05281",
+    "geom:latitude":-10.05281,
+    "geom:longitude":33.98353,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Lupembe",
+    "gn:country_code":"MW",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927723,
+    "gn:latitude":-10.05281,
+    "gn:longitude":33.98353,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Lupembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632383,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927723
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"04e9d2da7c2ef526a41b363c6a8346e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":1344172337,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":1344172337,
+    "wof:lastmodified":1536714386,
+    "wof:name":"Lupembe",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.98353,
+    -10.05281,
+    33.98353,
+    -10.05281
+],
+  "geometry": {"coordinates":[33.98353,-10.05281],"type":"Point"}
+}

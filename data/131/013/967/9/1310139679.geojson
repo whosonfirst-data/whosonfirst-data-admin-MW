@@ -1,0 +1,64 @@
+{
+  "id": 1310139679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.19088,-13.95248,33.19088,-13.95248",
+    "geom:latitude":-13.95248,
+    "geom:longitude":33.19088,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Mlamba",
+    "gn:country_code":"MW",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926413,
+    "gn:latitude":-13.95248,
+    "gn:longitude":33.19088,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mlamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926413
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"fecd7ecd0768374bd54ed90af0a895d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310139679,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310139679,
+    "wof:lastmodified":1536947597,
+    "wof:name":"Mlamba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.19088,
+    -13.95248,
+    33.19088,
+    -13.95248
+],
+  "geometry": {"coordinates":[33.19088,-13.95248],"type":"Point"}
+}

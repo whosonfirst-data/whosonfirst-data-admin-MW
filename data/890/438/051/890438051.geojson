@@ -1,0 +1,67 @@
+{
+  "id": 890438051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.60778,-11.85428,33.60778,-11.85428",
+    "geom:latitude":-11.85428,
+    "geom:longitude":33.60778,
+    "gn:country":"MW",
+    "gn:fcode":"ADM2",
+    "gn:pop":612086,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Mzimba"
+    ],
+    "qs:name":"Mzimba District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wd:wordcount":229,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925496,
+        "qs:id":83966,
+        "wd:id":"Q1045435",
+        "wk:page":"Mzimba District"
+    },
+    "wof:country":"MW",
+    "wof:created":1469052178,
+    "wof:geomhash":"418c6ff5e381717661da5498517f615b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438051
+        }
+    ],
+    "wof:id":890438051,
+    "wof:lastmodified":1527735426,
+    "wof:name":"Mzimba District",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":612086,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.60778,
+    -11.85428,
+    33.60778,
+    -11.85428
+],
+  "geometry": {"coordinates":[33.60778,-11.85428],"type":"Point"}
+}

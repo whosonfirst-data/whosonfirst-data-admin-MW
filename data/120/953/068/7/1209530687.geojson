@@ -1,0 +1,62 @@
+{
+  "id": 1209530687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.22149,-9.50844,33.22149,-9.50844",
+    "geom:latitude":-9.50844,
+    "geom:longitude":33.22149,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Adam",
+    "gn:country_code":"MW",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235771,
+    "gn:latitude":-9.50844,
+    "gn:longitude":33.22149,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Adam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235771
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"c20cc6853bc6f59add141689dfad53dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209530687
+        }
+    ],
+    "wof:id":1209530687,
+    "wof:lastmodified":1536284289,
+    "wof:name":"Adam",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.22149,
+    -9.50844,
+    33.22149,
+    -9.50844
+],
+  "geometry": {"coordinates":[33.22149,-9.50844],"type":"Point"}
+}

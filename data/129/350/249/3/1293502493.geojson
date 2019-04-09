@@ -1,0 +1,70 @@
+{
+  "id": 1293502493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.28739,-9.58169,33.28739,-9.58169",
+    "geom:latitude":-9.58169,
+    "geom:longitude":33.28739,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Chizimu",
+    "gn:country_code":"MW",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235754,
+    "gn:latitude":-9.58169,
+    "gn:longitude":33.28739,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Chizimu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chizimu"
+    ],
+    "name:und_x_variant":[
+        "Chishimu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235754
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"3977aef3fa6de2732a009239efea0c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293502493,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293502493,
+    "wof:lastmodified":1537665829,
+    "wof:name":"Chizimu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.28739,
+    -9.58169,
+    33.28739,
+    -9.58169
+],
+  "geometry": {"coordinates":[33.28739,-9.58169],"type":"Point"}
+}

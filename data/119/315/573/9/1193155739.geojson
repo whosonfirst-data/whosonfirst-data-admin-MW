@@ -1,0 +1,64 @@
+{
+  "id": 1193155739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.7386,-12.48506,33.7386,-12.48506",
+    "geom:latitude":-12.48506,
+    "geom:longitude":33.7386,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Kampoti",
+    "gn:country_code":"MW",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929036,
+    "gn:latitude":-12.48506,
+    "gn:longitude":33.7386,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kampoti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929036
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"47b0f30de9471b6ee7c904bc4bea322f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1193155739,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193155739,
+    "wof:lastmodified":1536373431,
+    "wof:name":"Kampoti",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7386,
+    -12.48506,
+    33.7386,
+    -12.48506
+],
+  "geometry": {"coordinates":[33.7386,-12.48506],"type":"Point"}
+}

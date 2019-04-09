@@ -1,0 +1,64 @@
+{
+  "id": 1293624753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.51576,-15.44023,34.51576,-15.44023",
+    "geom:latitude":-15.44023,
+    "geom:longitude":34.51576,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Kumpika",
+    "gn:country_code":"MW",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928132,
+    "gn:latitude":-15.44023,
+    "gn:longitude":34.51576,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kumpika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928132
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"82967a42dac01a551bb4959cf806e7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293624753,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293624753,
+    "wof:lastmodified":1537083119,
+    "wof:name":"Kumpika",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.51576,
+    -15.44023,
+    34.51576,
+    -15.44023
+],
+  "geometry": {"coordinates":[34.51576,-15.44023],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1293424453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.21667,-13.8,33.21667,-13.8",
+    "geom:latitude":-13.8,
+    "geom:longitude":33.21667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Mazon",
+    "gn:country_code":"MW",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926949,
+    "gn:latitude":-13.8,
+    "gn:longitude":33.21667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Mazon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926949
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"68964341f60e4448d6bf003f35acfa5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293424453,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293424453,
+    "wof:lastmodified":1536877080,
+    "wof:name":"Mazon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.21667,
+    -13.8,
+    33.21667,
+    -13.8
+],
+  "geometry": {"coordinates":[33.21667,-13.8],"type":"Point"}
+}

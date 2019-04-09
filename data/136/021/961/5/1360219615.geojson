@@ -1,0 +1,64 @@
+{
+  "id": 1360219615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.43333,-13.71667,33.43333,-13.71667",
+    "geom:latitude":-13.71667,
+    "geom:longitude":33.43333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Mkuwete",
+    "gn:country_code":"MW",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926437,
+    "gn:latitude":-13.71667,
+    "gn:longitude":33.43333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Mkuwete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926437
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"53282177f312d1e72157bd7a7b3e66d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1360219615,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360219615,
+    "wof:lastmodified":1536751498,
+    "wof:name":"Mkuwete",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43333,
+    -13.71667,
+    33.43333,
+    -13.71667
+],
+  "geometry": {"coordinates":[33.43333,-13.71667],"type":"Point"}
+}

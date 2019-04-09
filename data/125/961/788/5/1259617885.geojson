@@ -1,0 +1,64 @@
+{
+  "id": 1259617885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.85,-13.68333,33.85,-13.68333",
+    "geom:latitude":-13.68333,
+    "geom:longitude":33.85,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Zidunge",
+    "gn:country_code":"MW",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923325,
+    "gn:latitude":-13.68333,
+    "gn:longitude":33.85,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Zidunge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923325
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7348ad7a6ca87864d2409df499ebaae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259617885,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259617885,
+    "wof:lastmodified":1536665208,
+    "wof:name":"Zidunge",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.85,
+    -13.68333,
+    33.85,
+    -13.68333
+],
+  "geometry": {"coordinates":[33.85,-13.68333],"type":"Point"}
+}

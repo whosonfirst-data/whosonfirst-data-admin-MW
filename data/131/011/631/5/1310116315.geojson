@@ -1,0 +1,64 @@
+{
+  "id": 1310116315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.8004,-11.49116,33.8004,-11.49116",
+    "geom:latitude":-11.49116,
+    "geom:longitude":33.8004,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Mateyu Chitayo",
+    "gn:country_code":"MW",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927058,
+    "gn:latitude":-11.49116,
+    "gn:longitude":33.8004,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mateyu Chitayo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927058
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"e0656b1ce04e8e9b2ec9c0d38cd44bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310116315,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310116315,
+    "wof:lastmodified":1536980132,
+    "wof:name":"Mateyu Chitayo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.8004,
+    -11.49116,
+    33.8004,
+    -11.49116
+],
+  "geometry": {"coordinates":[33.8004,-11.49116],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1243001743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.09611,-15.02096,35.09611,-15.02096",
+    "geom:latitude":-15.02096,
+    "geom:longitude":35.09611,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Chiendausiku",
+    "gn:country_code":"MW",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931222,
+    "gn:latitude":-15.02096,
+    "gn:longitude":35.09611,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chiendausiku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931222
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ef479b950e79f48a0ffb1b30d045033f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243001743,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243001743,
+    "wof:lastmodified":1536950105,
+    "wof:name":"Chiendausiku",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09611,
+    -15.02096,
+    35.09611,
+    -15.02096
+],
+  "geometry": {"coordinates":[35.09611,-15.02096],"type":"Point"}
+}

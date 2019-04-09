@@ -1,0 +1,62 @@
+{
+  "id": 1209425473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.30357,-12.02047,33.30357,-12.02047",
+    "geom:latitude":-12.02047,
+    "geom:longitude":33.30357,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Msuku",
+    "gn:country_code":"MW",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925985,
+    "gn:latitude":-12.02047,
+    "gn:longitude":33.30357,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Msuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925985
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"dd8d67ca19a98da80c26cf95d37f647d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209425473
+        }
+    ],
+    "wof:id":1209425473,
+    "wof:lastmodified":1536287394,
+    "wof:name":"Msuku",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.30357,
+    -12.02047,
+    33.30357,
+    -12.02047
+],
+  "geometry": {"coordinates":[33.30357,-12.02047],"type":"Point"}
+}

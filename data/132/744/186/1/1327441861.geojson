@@ -1,0 +1,64 @@
+{
+  "id": 1327441861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41205,-9.89076,33.41205,-9.89076",
+    "geom:latitude":-9.89076,
+    "geom:longitude":33.41205,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Chendo",
+    "gn:country_code":"MW",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235765,
+    "gn:latitude":-9.89076,
+    "gn:longitude":33.41205,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chendo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235765
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"bf5757832c82858623c7ea38a2ebea0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327441861,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327441861,
+    "wof:lastmodified":1536667097,
+    "wof:name":"Chendo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41205,
+    -9.89076,
+    33.41205,
+    -9.89076
+],
+  "geometry": {"coordinates":[33.41205,-9.89076],"type":"Point"}
+}

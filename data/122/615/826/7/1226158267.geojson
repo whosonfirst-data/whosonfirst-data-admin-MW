@@ -1,0 +1,64 @@
+{
+  "id": 1226158267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88333,-11.13333,33.88333,-11.13333",
+    "geom:latitude":-11.13333,
+    "geom:longitude":33.88333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Mpapalika N'goma",
+    "gn:country_code":"MW",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926231,
+    "gn:latitude":-11.13333,
+    "gn:longitude":33.88333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Mpapalika N\u2019goma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926231
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"9ba19a5409a6135b11dff9505164b680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226158267,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226158267,
+    "wof:lastmodified":1537057074,
+    "wof:name":"Mpapalika N'goma",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88333,
+    -11.13333,
+    33.88333,
+    -11.13333
+],
+  "geometry": {"coordinates":[33.88333,-11.13333],"type":"Point"}
+}

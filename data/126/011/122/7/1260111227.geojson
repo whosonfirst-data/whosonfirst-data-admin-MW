@@ -1,0 +1,64 @@
+{
+  "id": 1260111227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56291,-14.94656,35.56291,-14.94656",
+    "geom:latitude":-14.94656,
+    "geom:longitude":35.56291,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Chisuse",
+    "gn:country_code":"MW",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930471,
+    "gn:latitude":-14.94656,
+    "gn:longitude":35.56291,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chisuse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930471
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"531f3d959d6a130d80c718c167e54c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1260111227,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260111227,
+    "wof:lastmodified":1536948501,
+    "wof:name":"Chisuse",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56290999999999,
+    -14.94656,
+    35.56290999999999,
+    -14.94656
+],
+  "geometry": {"coordinates":[35.56290999999999,-14.94656],"type":"Point"}
+}

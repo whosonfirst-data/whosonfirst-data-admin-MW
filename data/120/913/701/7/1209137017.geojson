@@ -1,0 +1,62 @@
+{
+  "id": 1209137017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.86611,-14.91995,34.86611,-14.91995",
+    "geom:latitude":-14.91995,
+    "geom:longitude":34.86611,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Balakas",
+    "gn:country_code":"MW",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931864,
+    "gn:latitude":-14.91995,
+    "gn:longitude":34.86611,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Balakas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931864
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"eab4746160d5d82d157c4683a35002d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209137017
+        }
+    ],
+    "wof:id":1209137017,
+    "wof:lastmodified":1536296628,
+    "wof:name":"Balakas",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.86611,
+    -14.91995,
+    34.86611,
+    -14.91995
+],
+  "geometry": {"coordinates":[34.86611,-14.91995],"type":"Point"}
+}

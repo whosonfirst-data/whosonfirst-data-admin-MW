@@ -1,0 +1,64 @@
+{
+  "id": 1226357151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96561,-13.51634,33.96561,-13.51634",
+    "geom:latitude":-13.51634,
+    "geom:longitude":33.96561,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Kashele",
+    "gn:country_code":"MW",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928594,
+    "gn:latitude":-13.51634,
+    "gn:longitude":33.96561,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Kashele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928594
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"8188d6d59ca1e0f14db6a7b6506ab131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226357151,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226357151,
+    "wof:lastmodified":1536773632,
+    "wof:name":"Kashele",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96561,
+    -13.51634,
+    33.96561,
+    -13.51634
+],
+  "geometry": {"coordinates":[33.96561,-13.51634],"type":"Point"}
+}

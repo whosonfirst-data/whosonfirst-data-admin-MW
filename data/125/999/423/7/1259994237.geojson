@@ -1,0 +1,64 @@
+{
+  "id": 1259994237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38166,-14.75953,35.38166,-14.75953",
+    "geom:latitude":-14.75953,
+    "geom:longitude":35.38166,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Chiunda",
+    "gn:country_code":"MW",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930392,
+    "gn:latitude":-14.75953,
+    "gn:longitude":35.38166,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Chiunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930392
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"98bdc50bb0f76592234663a9cacc29d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259994237,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259994237,
+    "wof:lastmodified":1536617358,
+    "wof:name":"Chiunda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38166,
+    -14.75953,
+    35.38166,
+    -14.75953
+],
+  "geometry": {"coordinates":[35.38166,-14.75953],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1193054349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.16667,-13.55,33.16667,-13.55",
+    "geom:latitude":-13.55,
+    "geom:longitude":33.16667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Katobwa",
+    "gn:country_code":"MW",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928447,
+    "gn:latitude":-13.55,
+    "gn:longitude":33.16667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Katobwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928447
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"dd3616c40edcae0335a683ed49814454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1193054349,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193054349,
+    "wof:lastmodified":1536363730,
+    "wof:name":"Katobwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.16667,
+    -13.55,
+    33.16667,
+    -13.55
+],
+  "geometry": {"coordinates":[33.16667,-13.55],"type":"Point"}
+}

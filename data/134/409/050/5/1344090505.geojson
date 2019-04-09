@@ -1,0 +1,68 @@
+{
+  "id": 1344090505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81149,-15.26484,35.81149,-15.26484",
+    "geom:latitude":-15.26484,
+    "geom:longitude":35.81149,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Pambiche",
+    "gn:country_code":"MW",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924252,
+    "gn:latitude":-15.26484,
+    "gn:longitude":35.81149,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pambiche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pambichi",
+        "Pambiche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924252
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7aa44aada7030a8096043f3d6b068ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1344090505,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344090505,
+    "wof:lastmodified":1537665831,
+    "wof:name":"Pambiche",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81149,
+    -15.26484,
+    35.81149,
+    -15.26484
+],
+  "geometry": {"coordinates":[35.81149,-15.26484],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1242607895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.05337,-14.25448,34.05337,-14.25448",
+    "geom:latitude":-14.25448,
+    "geom:longitude":34.05337,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Magwaza",
+    "gn:country_code":"MW",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927546,
+    "gn:latitude":-14.25448,
+    "gn:longitude":34.05337,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Magwaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927546
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"8a3155f3d9b4ac4319a01a4f3eb2cf7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242607895,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242607895,
+    "wof:lastmodified":1537019287,
+    "wof:name":"Magwaza",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.05337,
+    -14.25448,
+    34.05337,
+    -14.25448
+],
+  "geometry": {"coordinates":[34.05337,-14.25448],"type":"Point"}
+}

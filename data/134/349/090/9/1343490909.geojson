@@ -1,0 +1,64 @@
+{
+  "id": 1343490909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.73333,-14.0,33.73333,-14.0",
+    "geom:latitude":-14.0,
+    "geom:longitude":33.73333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Mbinzi",
+    "gn:country_code":"MW",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926852,
+    "gn:latitude":-14.0,
+    "gn:longitude":33.73333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Mbinzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926852
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"951e9866f460fcf53cc27b290f7392cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343490909,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343490909,
+    "wof:lastmodified":1536702564,
+    "wof:name":"Mbinzi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.73333,
+    -14.0,
+    33.73333,
+    -14.0
+],
+  "geometry": {"coordinates":[33.73333,-14.0],"type":"Point"}
+}

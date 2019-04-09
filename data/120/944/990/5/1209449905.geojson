@@ -1,0 +1,62 @@
+{
+  "id": 1209449905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83843,-15.5761,35.83843,-15.5761",
+    "geom:latitude":-15.5761,
+    "geom:longitude":35.83843,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Kolowika",
+    "gn:country_code":"MW",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928179,
+    "gn:latitude":-15.5761,
+    "gn:longitude":35.83843,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kolowika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928179
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"08b4c3d0e6be193fd2593eb9923a52e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209449905
+        }
+    ],
+    "wof:id":1209449905,
+    "wof:lastmodified":1536286704,
+    "wof:name":"Kolowika",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83842999999999,
+    -15.5761,
+    35.83842999999999,
+    -15.5761
+],
+  "geometry": {"coordinates":[35.83842999999999,-15.5761],"type":"Point"}
+}

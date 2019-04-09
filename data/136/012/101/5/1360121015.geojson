@@ -1,0 +1,64 @@
+{
+  "id": 1360121015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.27883,-16.74105,35.27883,-16.74105",
+    "geom:latitude":-16.74105,
+    "geom:longitude":35.27883,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Jiwa",
+    "gn:country_code":"MW",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929599,
+    "gn:latitude":-16.74105,
+    "gn:longitude":35.27883,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Jiwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929599
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"9feead951808f2253fd5a1ba008298de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1360121015,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360121015,
+    "wof:lastmodified":1536893481,
+    "wof:name":"Jiwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.27883,
+    -16.74105,
+    35.27883,
+    -16.74105
+],
+  "geometry": {"coordinates":[35.27883,-16.74105],"type":"Point"}
+}

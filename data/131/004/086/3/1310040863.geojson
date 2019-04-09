@@ -1,0 +1,64 @@
+{
+  "id": 1310040863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9,-13.33333,33.9,-13.33333",
+    "geom:latitude":-13.33333,
+    "geom:longitude":33.9,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Mzizi",
+    "gn:country_code":"MW",
+    "gn:dem":1295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925487,
+    "gn:latitude":-13.33333,
+    "gn:longitude":33.9,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Mzizi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925487
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"86a50dc495e8dda4d39d2b743e239745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310040863,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310040863,
+    "wof:lastmodified":1537086435,
+    "wof:name":"Mzizi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9,
+    -13.33333,
+    33.9,
+    -13.33333
+],
+  "geometry": {"coordinates":[33.9,-13.33333],"type":"Point"}
+}

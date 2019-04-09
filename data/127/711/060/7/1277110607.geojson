@@ -1,0 +1,64 @@
+{
+  "id": 1277110607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.43333,-12.71667,33.43333,-12.71667",
+    "geom:latitude":-12.71667,
+    "geom:longitude":33.43333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Olokani",
+    "gn:country_code":"MW",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924274,
+    "gn:latitude":-12.71667,
+    "gn:longitude":33.43333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Olokani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924274
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"f21e267d56db50277bed904bd81db2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1277110607,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277110607,
+    "wof:lastmodified":1536727861,
+    "wof:name":"Olokani",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43333,
+    -12.71667,
+    33.43333,
+    -12.71667
+],
+  "geometry": {"coordinates":[33.43333,-12.71667],"type":"Point"}
+}

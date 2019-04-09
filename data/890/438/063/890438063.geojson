@@ -1,0 +1,67 @@
+{
+  "id": 890438063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41667,-13.0,33.41667,-13.0",
+    "geom:latitude":-13.0,
+    "geom:longitude":33.41667,
+    "gn:country":"MW",
+    "gn:fcode":"ADM2",
+    "gn:pop":594371,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kasungu"
+    ],
+    "qs:name":"Kasungu District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wd:wordcount":305,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928531,
+        "qs:id":83974,
+        "wd:id":"Q868778",
+        "wk:page":"Kasungu District"
+    },
+    "wof:country":"MW",
+    "wof:created":1469052178,
+    "wof:geomhash":"eb080d371bc1cdcc7c27cb35cd64abac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438063
+        }
+    ],
+    "wof:id":890438063,
+    "wof:lastmodified":1527735422,
+    "wof:name":"Kasungu District",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":594371,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41667,
+    -13.0,
+    33.41667,
+    -13.0
+],
+  "geometry": {"coordinates":[33.41667,-13.0],"type":"Point"}
+}

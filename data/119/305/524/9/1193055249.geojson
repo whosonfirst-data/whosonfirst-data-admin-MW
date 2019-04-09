@@ -1,0 +1,64 @@
+{
+  "id": 1193055249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.82299,-14.99312,34.82299,-14.99312",
+    "geom:latitude":-14.99312,
+    "geom:longitude":34.82299,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Manjawila",
+    "gn:country_code":"MW",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927226,
+    "gn:latitude":-14.99312,
+    "gn:longitude":34.82299,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Manjawila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927226
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7bfb898833d8b139dfdebf4a75bdca3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1193055249,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193055249,
+    "wof:lastmodified":1536383521,
+    "wof:name":"Manjawila",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.82299,
+    -14.99312,
+    34.82299,
+    -14.99312
+],
+  "geometry": {"coordinates":[34.82299,-14.99312],"type":"Point"}
+}

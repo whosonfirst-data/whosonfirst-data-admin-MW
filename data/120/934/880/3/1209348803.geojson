@@ -1,0 +1,62 @@
+{
+  "id": 1209348803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36667,-13.95,34.36667,-13.95",
+    "geom:latitude":-13.95,
+    "geom:longitude":34.36667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Mkwatile",
+    "gn:country_code":"MW",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926429,
+    "gn:latitude":-13.95,
+    "gn:longitude":34.36667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Mkwatile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926429
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"8ee47484744178afe1b39b36aef3482b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209348803
+        }
+    ],
+    "wof:id":1209348803,
+    "wof:lastmodified":1536289817,
+    "wof:name":"Mkwatile",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36667,
+    -13.95,
+    34.36667,
+    -13.95
+],
+  "geometry": {"coordinates":[34.36667,-13.95],"type":"Point"}
+}

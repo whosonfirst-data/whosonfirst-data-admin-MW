@@ -1,0 +1,62 @@
+{
+  "id": 1209351345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.71667,-16.15,34.71667,-16.15",
+    "geom:latitude":-16.15,
+    "geom:longitude":34.71667,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Spooni",
+    "gn:country_code":"MW",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923814,
+    "gn:latitude":-16.15,
+    "gn:longitude":34.71667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Spooni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923814
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"19bc26232811a2b55628a170d43bd05a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209351345
+        }
+    ],
+    "wof:id":1209351345,
+    "wof:lastmodified":1536289731,
+    "wof:name":"Spooni",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.71667,
+    -16.15,
+    34.71667,
+    -16.15
+],
+  "geometry": {"coordinates":[34.71667,-16.15],"type":"Point"}
+}

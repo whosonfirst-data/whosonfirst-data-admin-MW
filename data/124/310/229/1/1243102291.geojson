@@ -1,0 +1,64 @@
+{
+  "id": 1243102291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.47717,-15.57288,34.47717,-15.57288",
+    "geom:latitude":-15.57288,
+    "geom:longitude":34.47717,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Masokosa",
+    "gn:country_code":"MW",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927106,
+    "gn:latitude":-15.57288,
+    "gn:longitude":34.47717,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Masokosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927106
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"41b748347509e4db0efd22c77c1d83b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243102291,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243102291,
+    "wof:lastmodified":1536804418,
+    "wof:name":"Masokosa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.47717,
+    -15.57288,
+    34.47717,
+    -15.57288
+],
+  "geometry": {"coordinates":[34.47717,-15.57288],"type":"Point"}
+}

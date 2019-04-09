@@ -1,0 +1,64 @@
+{
+  "id": 1260010325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59619,-12.83838,33.59619,-12.83838",
+    "geom:latitude":-12.83838,
+    "geom:longitude":33.59619,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Khungwa",
+    "gn:country_code":"MW",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928213,
+    "gn:latitude":-12.83838,
+    "gn:longitude":33.59619,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Khungwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928213
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"80690884441b7cbf93be81e268b619a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1260010325,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260010325,
+    "wof:lastmodified":1537090195,
+    "wof:name":"Khungwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.59619,
+    -12.83838,
+    33.59619,
+    -12.83838
+],
+  "geometry": {"coordinates":[33.59619,-12.83838],"type":"Point"}
+}

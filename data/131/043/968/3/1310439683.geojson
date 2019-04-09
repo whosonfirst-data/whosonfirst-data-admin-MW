@@ -1,0 +1,68 @@
+{
+  "id": 1310439683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.21031,-13.96523,33.21031,-13.96523",
+    "geom:latitude":-13.96523,
+    "geom:longitude":33.21031,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Katzenga",
+    "gn:country_code":"MW",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928394,
+    "gn:latitude":-13.96523,
+    "gn:longitude":33.21031,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Katzenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalzengo",
+        "Katzenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928394
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d740b44d9bd46c6c260e84a2e41c0754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310439683,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310439683,
+    "wof:lastmodified":1537665840,
+    "wof:name":"Katzenga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.21031,
+    -13.96523,
+    33.21031,
+    -13.96523
+],
+  "geometry": {"coordinates":[33.21031,-13.96523],"type":"Point"}
+}

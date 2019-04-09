@@ -1,0 +1,64 @@
+{
+  "id": 1226252875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.71805,-13.66227,33.71805,-13.66227",
+    "geom:latitude":-13.66227,
+    "geom:longitude":33.71805,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Kalonga",
+    "gn:country_code":"MW",
+    "gn:dem":1360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929224,
+    "gn:latitude":-13.66227,
+    "gn:longitude":33.71805,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Kalonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929224
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"5751629d67236b37953e736823c48f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226252875,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226252875,
+    "wof:lastmodified":1536923984,
+    "wof:name":"Kalonga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.71805,
+    -13.66227,
+    33.71805,
+    -13.66227
+],
+  "geometry": {"coordinates":[33.71805,-13.66227],"type":"Point"}
+}

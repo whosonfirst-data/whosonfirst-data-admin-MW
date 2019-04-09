@@ -1,0 +1,64 @@
+{
+  "id": 1327462969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.34986,-13.53444,33.34986,-13.53444",
+    "geom:latitude":-13.53444,
+    "geom:longitude":33.34986,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Katakwi",
+    "gn:country_code":"MW",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928515,
+    "gn:latitude":-13.53444,
+    "gn:longitude":33.34986,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Katakwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928515
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"a71648f87d444bf1865b3425528ebc98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327462969,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327462969,
+    "wof:lastmodified":1536635477,
+    "wof:name":"Katakwi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.34986,
+    -13.53444,
+    33.34986,
+    -13.53444
+],
+  "geometry": {"coordinates":[33.34986,-13.53444],"type":"Point"}
+}

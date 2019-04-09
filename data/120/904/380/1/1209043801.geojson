@@ -1,0 +1,62 @@
+{
+  "id": 1209043801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.03333,-13.6,34.03333,-13.6",
+    "geom:latitude":-13.6,
+    "geom:longitude":34.03333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Nyangamile",
+    "gn:country_code":"MW",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924351,
+    "gn:latitude":-13.6,
+    "gn:longitude":34.03333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Nyangamile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924351
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"9f78a5a1e21ccc5d03b5815c79dc9ad7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209043801
+        }
+    ],
+    "wof:id":1209043801,
+    "wof:lastmodified":1536299460,
+    "wof:name":"Nyangamile",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.03333,
+    -13.6,
+    34.03333,
+    -13.6
+],
+  "geometry": {"coordinates":[34.03333,-13.6],"type":"Point"}
+}

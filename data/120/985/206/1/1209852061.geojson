@@ -1,0 +1,64 @@
+{
+  "id": 1209852061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.57032,-13.12172,33.57032,-13.12172",
+    "geom:latitude":-13.12172,
+    "geom:longitude":33.57032,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Mzoweza",
+    "gn:country_code":"MW",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925482,
+    "gn:latitude":-13.12172,
+    "gn:longitude":33.57032,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mzoweza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925482
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"8eb9630cf1f7e34d9fab095d6aaaf273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1209852061,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209852061,
+    "wof:lastmodified":1536387962,
+    "wof:name":"Mzoweza",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.57032,
+    -13.12172,
+    33.57032,
+    -13.12172
+],
+  "geometry": {"coordinates":[33.57032,-13.12172],"type":"Point"}
+}

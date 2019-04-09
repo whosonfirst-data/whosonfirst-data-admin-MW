@@ -1,0 +1,116 @@
+{
+  "id": 421170755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.85746,-11.01863,33.85746,-11.01863",
+    "geom:latitude":-11.01863,
+    "geom:longitude":33.85746,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u502b\u6bd4"
+    ],
+    "name:dut_x_preferred":[
+        "Rumphi"
+    ],
+    "name:eng_x_preferred":[
+        "Rumphi"
+    ],
+    "name:fre_x_preferred":[
+        "Rumphi"
+    ],
+    "name:ger_x_preferred":[
+        "Rumphi"
+    ],
+    "name:ita_x_preferred":[
+        "Rumphi"
+    ],
+    "name:nya_x_preferred":[
+        "Rumphi"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0627\u0645\u0641\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Rumphi"
+    ],
+    "name:rum_x_preferred":[
+        "Rumphi"
+    ],
+    "name:tur_x_preferred":[
+        "Rumphi"
+    ],
+    "name:unk_x_variant":[
+        "Rumpi Boma"
+    ],
+    "qs:gn_country":"MW",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":924102,
+    "qs:gn_pop":20727,
+    "qs:name":"Rumphi",
+    "qs:name_adm0":"Malawi",
+    "qs:name_adm1":"Rumphi",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":256998,
+    "qs:woe_adm0":23424889,
+    "qs:woe_id":1369029,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-11.015278,
+    "wd:longitude":33.772222,
+    "wd:wordcount":123,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924102,
+        "gp:id":1369029,
+        "qs:id":256998,
+        "wd:id":"Q1022535",
+        "wk:page":"Rumphi"
+    },
+    "wof:country":"MW",
+    "wof:created":1459008867,
+    "wof:geomhash":"db69cde156ed29176522f7222edfce9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":421170755
+        }
+    ],
+    "wof:id":421170755,
+    "wof:lastmodified":1527716457,
+    "wof:name":"Rumphi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":20727,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.85746,
+    -11.01863,
+    33.85746,
+    -11.01863
+],
+  "geometry": {"coordinates":[33.85746,-11.01863],"type":"Point"}
+}

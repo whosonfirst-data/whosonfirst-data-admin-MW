@@ -1,0 +1,68 @@
+{
+  "id": 1226257877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41667,-11.45,33.41667,-11.45",
+    "geom:latitude":-11.45,
+    "geom:longitude":33.41667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Chinde",
+    "gn:country_code":"MW",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930823,
+    "gn:latitude":-11.45,
+    "gn:longitude":33.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chinde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chindi Jere",
+        "Chinde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930823
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4255d8036b475ef8bef172f3ebbbcc2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226257877,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226257877,
+    "wof:lastmodified":1537665846,
+    "wof:name":"Chinde",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41667,
+    -11.45,
+    33.41667,
+    -11.45
+],
+  "geometry": {"coordinates":[33.41667,-11.45],"type":"Point"}
+}

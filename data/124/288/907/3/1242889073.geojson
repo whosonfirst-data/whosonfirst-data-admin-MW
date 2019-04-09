@@ -1,0 +1,64 @@
+{
+  "id": 1242889073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.94136,-11.00522,33.94136,-11.00522",
+    "geom:latitude":-11.00522,
+    "geom:longitude":33.94136,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Chimombo",
+    "gn:country_code":"MW",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930905,
+    "gn:latitude":-11.00522,
+    "gn:longitude":33.94136,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chimombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930905
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"61988fabae70ae54d4c6f9e8f442cc83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242889073,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242889073,
+    "wof:lastmodified":1536612475,
+    "wof:name":"Chimombo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.94136,
+    -11.00522,
+    33.94136,
+    -11.00522
+],
+  "geometry": {"coordinates":[33.94136,-11.00522],"type":"Point"}
+}

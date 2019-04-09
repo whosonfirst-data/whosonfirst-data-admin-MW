@@ -1,0 +1,64 @@
+{
+  "id": 1327370363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.34038,-13.90679,34.34038,-13.90679",
+    "geom:latitude":-13.90679,
+    "geom:longitude":34.34038,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Chaseta",
+    "gn:country_code":"MW",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931387,
+    "gn:latitude":-13.90679,
+    "gn:longitude":34.34038,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chaseta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931387
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"31d1a6c9bd1dcf17aa876826b46eb2a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327370363,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327370363,
+    "wof:lastmodified":1536770829,
+    "wof:name":"Chaseta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.34038,
+    -13.90679,
+    34.34038,
+    -13.90679
+],
+  "geometry": {"coordinates":[34.34038,-13.90679],"type":"Point"}
+}

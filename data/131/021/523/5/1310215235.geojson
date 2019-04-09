@@ -1,0 +1,64 @@
+{
+  "id": 1310215235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.42181,-14.43359,34.42181,-14.43359",
+    "geom:latitude":-14.43359,
+    "geom:longitude":34.42181,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Kadambo",
+    "gn:country_code":"MW",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929438,
+    "gn:latitude":-14.43359,
+    "gn:longitude":34.42181,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Kadambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929438
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"b5caac47f7d55a712af271c950773ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310215235,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310215235,
+    "wof:lastmodified":1536837076,
+    "wof:name":"Kadambo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.42181,
+    -14.43359,
+    34.42181,
+    -14.43359
+],
+  "geometry": {"coordinates":[34.42181,-14.43359],"type":"Point"}
+}

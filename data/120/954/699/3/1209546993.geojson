@@ -1,0 +1,62 @@
+{
+  "id": 1209546993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.02822,-16.60365,35.02822,-16.60365",
+    "geom:latitude":-16.60365,
+    "geom:longitude":35.02822,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Nguluwe",
+    "gn:country_code":"MW",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924866,
+    "gn:latitude":-16.60365,
+    "gn:longitude":35.02822,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Nguluwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924866
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"6a499af80f363673b874b7fd3393e8ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209546993
+        }
+    ],
+    "wof:id":1209546993,
+    "wof:lastmodified":1536283813,
+    "wof:name":"Nguluwe",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.028220000000005,
+    -16.60365,
+    35.028220000000005,
+    -16.60365
+],
+  "geometry": {"coordinates":[35.02822,-16.60365],"type":"Point"}
+}

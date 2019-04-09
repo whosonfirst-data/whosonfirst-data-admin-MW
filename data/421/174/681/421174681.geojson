@@ -1,0 +1,72 @@
+{
+  "id": 421174681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.23243,-11.11163,34.23243,-11.11163",
+    "geom:latitude":-11.11163,
+    "geom:longitude":34.23243,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"MW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":924109,
+    "qs:gn_pop":0,
+    "qs:name":"Ruarwe",
+    "qs:name_adm0":"Malawi",
+    "qs:name_adm1":"Nkhata Bay",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":42,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894747,
+    "qs:woe_adm0":23424889,
+    "qs:woe_id":1369026,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924109,
+        "gp:id":1369026,
+        "qs:id":894747
+    },
+    "wof:country":"MW",
+    "wof:created":1459009040,
+    "wof:geomhash":"5c8e064b74f9edc29ea2fd3b323a0a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":421174681
+        }
+    ],
+    "wof:id":421174681,
+    "wof:lastmodified":1499518844,
+    "wof:name":"Ruarwe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.23243,
+    -11.11163,
+    34.23243,
+    -11.11163
+],
+  "geometry": {"coordinates":[34.23243,-11.11163],"type":"Point"}
+}

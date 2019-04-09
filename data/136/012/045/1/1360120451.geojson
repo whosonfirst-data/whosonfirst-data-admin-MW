@@ -1,0 +1,68 @@
+{
+  "id": 1360120451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.25483,-12.81814,34.25483,-12.81814",
+    "geom:latitude":-12.81814,
+    "geom:longitude":34.25483,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Chiboko",
+    "gn:country_code":"MW",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931282,
+    "gn:latitude":-12.81814,
+    "gn:longitude":34.25483,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chiboko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciboko",
+        "Chiboko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931282
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"1dbf471dab3f024c41d58b20f1708c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1360120451,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360120451,
+    "wof:lastmodified":1537665847,
+    "wof:name":"Chiboko",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.25483,
+    -12.81814,
+    34.25483,
+    -12.81814
+],
+  "geometry": {"coordinates":[34.25483,-12.81814],"type":"Point"}
+}

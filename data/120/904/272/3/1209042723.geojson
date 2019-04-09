@@ -1,0 +1,62 @@
+{
+  "id": 1209042723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.09833,-12.42453,34.09833,-12.42453",
+    "geom:latitude":-12.42453,
+    "geom:longitude":34.09833,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Mgwinti",
+    "gn:country_code":"MW",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926661,
+    "gn:latitude":-12.42453,
+    "gn:longitude":34.09833,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mgwinti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926661
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"8b73c9a648fe8ac26775f8622137e0fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209042723
+        }
+    ],
+    "wof:id":1209042723,
+    "wof:lastmodified":1536299493,
+    "wof:name":"Mgwinti",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.09833,
+    -12.42453,
+    34.09833,
+    -12.42453
+],
+  "geometry": {"coordinates":[34.09833,-12.42453],"type":"Point"}
+}

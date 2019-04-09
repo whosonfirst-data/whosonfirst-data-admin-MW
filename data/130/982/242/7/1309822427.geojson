@@ -1,0 +1,64 @@
+{
+  "id": 1309822427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.32834,-12.16249,33.32834,-12.16249",
+    "geom:latitude":-12.16249,
+    "geom:longitude":33.32834,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Bawa Banda",
+    "gn:country_code":"MW",
+    "gn:dem":1239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931812,
+    "gn:latitude":-12.16249,
+    "gn:longitude":33.32834,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Bawa Banda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931812
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"11274184b13b6ce822c6878efaab5e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1309822427,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309822427,
+    "wof:lastmodified":1536907397,
+    "wof:name":"Bawa Banda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.32834,
+    -12.16249,
+    33.32834,
+    -12.16249
+],
+  "geometry": {"coordinates":[33.32834,-12.16249],"type":"Point"}
+}

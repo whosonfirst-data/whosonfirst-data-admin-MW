@@ -1,0 +1,64 @@
+{
+  "id": 1293234971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29744,-14.37362,35.29744,-14.37362",
+    "geom:latitude":-14.37362,
+    "geom:longitude":35.29744,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Malemia",
+    "gn:country_code":"MW",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927373,
+    "gn:latitude":-14.37362,
+    "gn:longitude":35.29744,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Malemia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927373
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"e0199a5d60c3a5361a6222696fc5c633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293234971,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293234971,
+    "wof:lastmodified":1536654127,
+    "wof:name":"Malemia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29744,
+    -14.37362,
+    35.29744,
+    -14.37362
+],
+  "geometry": {"coordinates":[35.29744,-14.37362],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1276689561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.95716,-13.64047,32.95716,-13.64047",
+    "geom:latitude":-13.64047,
+    "geom:longitude":32.95716,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Poko",
+    "gn:country_code":"MW",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924142,
+    "gn:latitude":-13.64047,
+    "gn:longitude":32.95716,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Poko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924142
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ff26a1f7c441dac2bbf95304c26bb409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276689561,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276689561,
+    "wof:lastmodified":1536798602,
+    "wof:name":"Poko",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95715999999999,
+    -13.64047,
+    32.95715999999999,
+    -13.64047
+],
+  "geometry": {"coordinates":[32.95715999999999,-13.64047],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1293237581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.31667,-15.3,35.31667,-15.3",
+    "geom:latitude":-15.3,
+    "geom:longitude":35.31667,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Kumbawa",
+    "gn:country_code":"MW",
+    "gn:dem":1372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928138,
+    "gn:latitude":-15.3,
+    "gn:longitude":35.31667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kumbawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928138
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"3e59b818499896b859726f30719de128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293237581,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293237581,
+    "wof:lastmodified":1536650080,
+    "wof:name":"Kumbawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.31667,
+    -15.3,
+    35.31667,
+    -15.3
+],
+  "geometry": {"coordinates":[35.31667,-15.3],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344175769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.38154,-11.73846,33.38154,-11.73846",
+    "geom:latitude":-11.73846,
+    "geom:longitude":33.38154,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Daniel Mughogho",
+    "gn:country_code":"MW",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930037,
+    "gn:latitude":-11.73846,
+    "gn:longitude":33.38154,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Daniel Mughogho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Daniel Mughogho"
+    ],
+    "name:und_x_variant":[
+        "Daniel Muwowo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930037
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"366933d13a784df28c34aa336034b385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1344175769,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344175769,
+    "wof:lastmodified":1537665844,
+    "wof:name":"Daniel Mughogho",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.38154,
+    -11.73846,
+    33.38154,
+    -11.73846
+],
+  "geometry": {"coordinates":[33.38154,-11.73846],"type":"Point"}
+}

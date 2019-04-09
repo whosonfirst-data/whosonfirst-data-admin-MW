@@ -1,0 +1,68 @@
+{
+  "id": 1193054653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.12909,-13.66118,33.12909,-13.66118",
+    "geom:latitude":-13.66118,
+    "geom:longitude":33.12909,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Mngona",
+    "gn:country_code":"MW",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926337,
+    "gn:latitude":-13.66118,
+    "gn:longitude":33.12909,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mngona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngona",
+        "Mngona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926337
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"5cdf053e5a543589f9d060aad0cea591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1193054653,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193054653,
+    "wof:lastmodified":1537665835,
+    "wof:name":"Mngona",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.12909000000001,
+    -13.66118,
+    33.12909000000001,
+    -13.66118
+],
+  "geometry": {"coordinates":[33.12909000000001,-13.66118],"type":"Point"}
+}

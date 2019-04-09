@@ -1,0 +1,64 @@
+{
+  "id": 1242910337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.36667,-12.58333,33.36667,-12.58333",
+    "geom:latitude":-12.58333,
+    "geom:longitude":33.36667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Kapyokola",
+    "gn:country_code":"MW",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928669,
+    "gn:latitude":-12.58333,
+    "gn:longitude":33.36667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kapyokola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928669
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"a5a3487d667b141af62dceac4411418c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242910337,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242910337,
+    "wof:lastmodified":1537078211,
+    "wof:name":"Kapyokola",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.36667,
+    -12.58333,
+    33.36667,
+    -12.58333
+],
+  "geometry": {"coordinates":[33.36667,-12.58333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1226783063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41667,-13.65,33.41667,-13.65",
+    "geom:latitude":-13.65,
+    "geom:longitude":33.41667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Kansilikiza",
+    "gn:country_code":"MW",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928870,
+    "gn:latitude":-13.65,
+    "gn:longitude":33.41667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kansilikiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928870
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"44cf1d8aff818f0406d81caa97f44405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226783063,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226783063,
+    "wof:lastmodified":1536661867,
+    "wof:name":"Kansilikiza",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41667,
+    -13.65,
+    33.41667,
+    -13.65
+],
+  "geometry": {"coordinates":[33.41667,-13.65],"type":"Point"}
+}

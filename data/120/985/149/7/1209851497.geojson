@@ -1,0 +1,64 @@
+{
+  "id": 1209851497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.11383,-14.39181,34.11383,-14.39181",
+    "geom:latitude":-14.39181,
+    "geom:longitude":34.11383,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Fosa",
+    "gn:country_code":"MW",
+    "gn:dem":1307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929844,
+    "gn:latitude":-14.39181,
+    "gn:longitude":34.11383,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Fosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929844
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4ca74988907bfc58a94539df47410183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1209851497,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209851497,
+    "wof:lastmodified":1536388212,
+    "wof:name":"Fosa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.11383,
+    -14.39181,
+    34.11383,
+    -14.39181
+],
+  "geometry": {"coordinates":[34.11383,-14.39181],"type":"Point"}
+}

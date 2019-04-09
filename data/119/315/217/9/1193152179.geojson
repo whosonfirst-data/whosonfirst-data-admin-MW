@@ -1,0 +1,66 @@
+{
+  "id": 1193152179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.10682,-10.28775,34.10682,-10.28775",
+    "geom:latitude":-10.28775,
+    "geom:longitude":34.10682,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Nyungwe",
+    "gn:country_code":"MW",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924295,
+    "gn:latitude":-10.28775,
+    "gn:longitude":34.10682,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Nyungwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632383,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924295
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"da7a7b33607a40b09068172436a1c54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":1193152179,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":1193152179,
+    "wof:lastmodified":1536377052,
+    "wof:name":"Nyungwe",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.10682,
+    -10.28775,
+    34.10682,
+    -10.28775
+],
+  "geometry": {"coordinates":[34.10682,-10.28775],"type":"Point"}
+}

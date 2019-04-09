@@ -1,0 +1,76 @@
+{
+  "id": 421200717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.63333,-13.71667,34.63333,-13.71667",
+    "geom:latitude":-13.71667,
+    "geom:longitude":34.63333,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:swa_x_preferred":[
+        "Senga"
+    ],
+    "qs:gn_country":"MW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":923942,
+    "qs:gn_pop":0,
+    "qs:name":"Senga",
+    "qs:name_adm0":"Malawi",
+    "qs:name_adm1":"Salima",
+    "qs:photos":888,
+    "qs:photos_1k":180,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":888,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":892312,
+    "qs:woe_adm0":23424889,
+    "qs:woe_id":1369102,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923942,
+        "gp:id":1369102,
+        "qs:id":892312
+    },
+    "wof:country":"MW",
+    "wof:created":1459010036,
+    "wof:geomhash":"4e966239970f7a4fb98a012b460826f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":421200717
+        }
+    ],
+    "wof:id":421200717,
+    "wof:lastmodified":1527716430,
+    "wof:name":"Senga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.63333,
+    -13.71667,
+    34.63333,
+    -13.71667
+],
+  "geometry": {"coordinates":[34.63333,-13.71667],"type":"Point"}
+}

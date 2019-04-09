@@ -1,0 +1,62 @@
+{
+  "id": 1209348445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41371,-14.66292,35.41371,-14.66292",
+    "geom:latitude":-14.66292,
+    "geom:longitude":35.41371,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Misolo",
+    "gn:country_code":"MW",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926567,
+    "gn:latitude":-14.66292,
+    "gn:longitude":35.41371,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Misolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926567
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"e9b06e5a3ef045f67baa57493a5fc6a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209348445
+        }
+    ],
+    "wof:id":1209348445,
+    "wof:lastmodified":1536289829,
+    "wof:name":"Misolo",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41370999999999,
+    -14.662920000000002,
+    35.41370999999999,
+    -14.662920000000002
+],
+  "geometry": {"coordinates":[35.41370999999999,-14.66292],"type":"Point"}
+}

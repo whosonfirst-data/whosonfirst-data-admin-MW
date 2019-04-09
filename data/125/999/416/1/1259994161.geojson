@@ -1,0 +1,64 @@
+{
+  "id": 1259994161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28333,-14.8,35.28333,-14.8",
+    "geom:latitude":-14.8,
+    "geom:longitude":35.28333,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Tyaka",
+    "gn:country_code":"MW",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923541,
+    "gn:latitude":-14.8,
+    "gn:longitude":35.28333,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Tyaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923541
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4537f94b509a7308305c7b22dadc6ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259994161,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259994161,
+    "wof:lastmodified":1536617480,
+    "wof:name":"Tyaka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28333,
+    -14.8,
+    35.28333,
+    -14.8
+],
+  "geometry": {"coordinates":[35.28333,-14.8],"type":"Point"}
+}

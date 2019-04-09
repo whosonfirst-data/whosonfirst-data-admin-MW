@@ -1,0 +1,64 @@
+{
+  "id": 1243300861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.26667,-15.46667,35.26667,-15.46667",
+    "geom:latitude":-15.46667,
+    "geom:longitude":35.26667,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Msosa",
+    "gn:country_code":"MW",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925988,
+    "gn:latitude":-15.46667,
+    "gn:longitude":35.26667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Msosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925988
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"eface375d40bdddae3633c2dc1cd5036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243300861,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243300861,
+    "wof:lastmodified":1537014564,
+    "wof:name":"Msosa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.26667,
+    -15.46667,
+    35.26667,
+    -15.46667
+],
+  "geometry": {"coordinates":[35.26667,-15.46667],"type":"Point"}
+}

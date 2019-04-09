@@ -1,0 +1,64 @@
+{
+  "id": 1226679983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.43246,-13.09763,33.43246,-13.09763",
+    "geom:latitude":-13.09763,
+    "geom:longitude":33.43246,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Mphungu",
+    "gn:country_code":"MW",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926131,
+    "gn:latitude":-13.09763,
+    "gn:longitude":33.43246,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mphungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926131
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"13123fd0a217eaf3488e09e7faeb64f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226679983,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226679983,
+    "wof:lastmodified":1536809779,
+    "wof:name":"Mphungu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43246,
+    -13.09763,
+    33.43246,
+    -13.09763
+],
+  "geometry": {"coordinates":[33.43246,-13.09763],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226158153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.71667,-11.68333,33.71667,-11.68333",
+    "geom:latitude":-11.68333,
+    "geom:longitude":33.71667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Mombera",
+    "gn:country_code":"MW",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926319,
+    "gn:latitude":-11.68333,
+    "gn:longitude":33.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mombera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mombere Mission",
+        "Mombera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926319
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"cb991c27541dc7837b02c635c25c904b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226158153,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226158153,
+    "wof:lastmodified":1537665835,
+    "wof:name":"Mombera",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.71667,
+    -11.68333,
+    33.71667,
+    -11.68333
+],
+  "geometry": {"coordinates":[33.71667,-11.68333],"type":"Point"}
+}

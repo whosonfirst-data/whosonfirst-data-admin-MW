@@ -1,0 +1,123 @@
+{
+  "id": 421182029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.10628,-10.60602,34.10628,-10.60602",
+    "geom:latitude":-10.60602,
+    "geom:longitude":34.10628,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0432\u0438\u043d\u0433\u0441\u0442\u043e\u043d\u0438\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Livingstonia"
+    ],
+    "name:eng_x_preferred":[
+        "Livingstonia"
+    ],
+    "name:fre_x_preferred":[
+        "Livingstonia"
+    ],
+    "name:ger_x_preferred":[
+        "Livingstonia"
+    ],
+    "name:ita_x_preferred":[
+        "Livingstonia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30d3\u30f3\u30b0\u30b9\u30c8\u30cb\u30a2"
+    ],
+    "name:lit_x_preferred":[
+        "Livingstonija"
+    ],
+    "name:nob_x_preferred":[
+        "Livingstonia"
+    ],
+    "name:nya_x_preferred":[
+        "Livingstonia"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u06cc\u0648\u06cc\u0646\u06af\u0633\u062a\u0648\u0646\u06cc\u0627"
+    ],
+    "name:swe_x_preferred":[
+        "Livingstonia"
+    ],
+    "name:tum_x_preferred":[
+        "Livingstonia"
+    ],
+    "name:tur_x_preferred":[
+        "Livingstonia"
+    ],
+    "name:unk_x_variant":[
+        "Livingstonia Mission"
+    ],
+    "qs:gn_country":"MW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":927856,
+    "qs:gn_pop":5552,
+    "qs:name":"Livingstonia",
+    "qs:name_adm0":"Malawi",
+    "qs:name_adm1":"Rumphi",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":542366,
+    "qs:woe_adm0":23424889,
+    "qs:woe_id":56122699,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":689,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927856,
+        "gp:id":56122699,
+        "qs:id":542366,
+        "wd:id":"Q502416",
+        "wk:page":"Livingstonia, Malawi"
+    },
+    "wof:country":"MW",
+    "wof:created":1459009316,
+    "wof:geomhash":"780e4c7903b6d6095d260a3c979c01e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":421182029
+        }
+    ],
+    "wof:id":421182029,
+    "wof:lastmodified":1527726457,
+    "wof:name":"Livingstonia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":5552,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.10628,
+    -10.60602,
+    34.10628,
+    -10.60602
+],
+  "geometry": {"coordinates":[34.10628,-10.60602],"type":"Point"}
+}

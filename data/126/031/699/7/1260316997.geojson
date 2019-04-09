@@ -1,0 +1,64 @@
+{
+  "id": 1260316997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.99589,-14.39752,33.99589,-14.39752",
+    "geom:latitude":-14.39752,
+    "geom:longitude":33.99589,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Mchenga",
+    "gn:country_code":"MW",
+    "gn:dem":1278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926764,
+    "gn:latitude":-14.39752,
+    "gn:longitude":33.99589,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mchenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926764
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"c4704d51f4bdfc8d285d24c9ef5386de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1260316997,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260316997,
+    "wof:lastmodified":1536667099,
+    "wof:name":"Mchenga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.99589,
+    -14.39752,
+    33.99589,
+    -14.39752
+],
+  "geometry": {"coordinates":[33.99589,-14.39752],"type":"Point"}
+}

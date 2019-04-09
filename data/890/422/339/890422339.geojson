@@ -1,0 +1,67 @@
+{
+  "id": 890422339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.75,-16.16667,34.75,-16.16667",
+    "geom:latitude":-16.16667,
+    "geom:longitude":34.75,
+    "gn:country":"MW",
+    "gn:fcode":"ADM2",
+    "gn:pop":362918,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Lower River"
+    ],
+    "qs:name":"Chikwawa District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":124,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931067,
+        "qs:id":555020,
+        "wd:id":"Q722509",
+        "wk:page":"Chikwawa District"
+    },
+    "wof:country":"MW",
+    "wof:created":1469051438,
+    "wof:geomhash":"a266513b9f6ed25fa8fd59c98cc61675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890422339
+        }
+    ],
+    "wof:id":890422339,
+    "wof:lastmodified":1527727159,
+    "wof:name":"Chikwawa District",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":362918,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.75,
+    -16.16667,
+    34.75,
+    -16.16667
+],
+  "geometry": {"coordinates":[34.75,-16.16667],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209233289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.62122,-12.03253,34.62122,-12.03253",
+    "geom:latitude":-12.03253,
+    "geom:longitude":34.62122,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Njofu",
+    "gn:country_code":"MW",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924802,
+    "gn:latitude":-12.03253,
+    "gn:longitude":34.62122,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Njofu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924802
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"b91d6fe445c78d0cc9be11e090686e55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209233289
+        }
+    ],
+    "wof:id":1209233289,
+    "wof:lastmodified":1536293569,
+    "wof:name":"Njofu",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.62122,
+    -12.03253,
+    34.62122,
+    -12.03253
+],
+  "geometry": {"coordinates":[34.62122,-12.03253],"type":"Point"}
+}

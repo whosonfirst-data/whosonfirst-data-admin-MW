@@ -1,0 +1,68 @@
+{
+  "id": 1242788345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2751,-11.5755,33.2751,-11.5755",
+    "geom:latitude":-11.5755,
+    "geom:longitude":33.2751,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Ndakhara Chavinda",
+    "gn:country_code":"MW",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925055,
+    "gn:latitude":-11.5755,
+    "gn:longitude":33.2751,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Ndakhara Chavinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925055
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"2cb9e082637e6136378419e1a7da2683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782425,
+            "locality_id":1242788345,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1242788345,
+    "wof:lastmodified":1536760203,
+    "wof:name":"Ndakhara Chavinda",
+    "wof:parent_id":1108782425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2751,
+    -11.5755,
+    33.2751,
+    -11.5755
+],
+  "geometry": {"coordinates":[33.2751,-11.5755],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1310039589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.82337,-12.89063,33.82337,-12.89063",
+    "geom:latitude":-12.89063,
+    "geom:longitude":33.82337,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Chikunguntheni",
+    "gn:country_code":"MW",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931092,
+    "gn:latitude":-12.89063,
+    "gn:longitude":33.82337,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chikunguntheni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931092
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"1abf92fcda59f04f64a7c7d237437b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310039589,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310039589,
+    "wof:lastmodified":1537088356,
+    "wof:name":"Chikunguntheni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.82337,
+    -12.89063,
+    33.82337,
+    -12.89063
+],
+  "geometry": {"coordinates":[33.82337,-12.89063],"type":"Point"}
+}

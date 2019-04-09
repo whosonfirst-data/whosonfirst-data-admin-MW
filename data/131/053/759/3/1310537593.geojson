@@ -1,0 +1,64 @@
+{
+  "id": 1310537593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86667,-14.96667,35.86667,-14.96667",
+    "geom:latitude":-14.96667,
+    "geom:longitude":35.86667,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"28.0",
+    "gn:asciiname":"Nkisa",
+    "gn:country_code":"MW",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924687,
+    "gn:latitude":-14.96667,
+    "gn:longitude":35.86667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Nkisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924687
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"bdc79711fb5f5a18faf02cd2838825db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310537593,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310537593,
+    "wof:lastmodified":1536869430,
+    "wof:name":"Nkisa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86667,
+    -14.96667,
+    35.86667,
+    -14.96667
+],
+  "geometry": {"coordinates":[35.86667,-14.96667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1277016749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.95,-13.38333,33.95,-13.38333",
+    "geom:latitude":-13.38333,
+    "geom:longitude":33.95,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Dzoole",
+    "gn:country_code":"MW",
+    "gn:dem":1515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929921,
+    "gn:latitude":-13.38333,
+    "gn:longitude":33.95,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Dzoole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929921
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"2ab3be6524a863cdb52d1eabfd63ab4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1277016749,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277016749,
+    "wof:lastmodified":1536856438,
+    "wof:name":"Dzoole",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.95,
+    -13.38333,
+    33.95,
+    -13.38333
+],
+  "geometry": {"coordinates":[33.95,-13.38333],"type":"Point"}
+}

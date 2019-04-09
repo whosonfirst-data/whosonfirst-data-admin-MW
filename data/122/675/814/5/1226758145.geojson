@@ -1,0 +1,77 @@
+{
+  "id": 1226758145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.26131,-9.74954,33.26131,-9.74954",
+    "geom:latitude":-9.74954,
+    "geom:longitude":33.26131,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Sikana",
+    "gn:country_code":"MW",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235638,
+    "gn:latitude":-9.74954,
+    "gn:longitude":33.26131,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Sikana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sikana"
+    ],
+    "name:eng_x_variant":[
+        "Nchumbe"
+    ],
+    "name:und_x_variant":[
+        "Shikana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681087,
+        1108782429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235638
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"adef747c91d17b4499105d80cfa529e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782429,
+            "locality_id":1226758145,
+            "region_id":85681087
+        }
+    ],
+    "wof:id":1226758145,
+    "wof:lastmodified":1537665829,
+    "wof:name":"Sikana",
+    "wof:parent_id":1108782429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.26130999999999,
+    -9.74954,
+    33.26130999999999,
+    -9.74954
+],
+  "geometry": {"coordinates":[33.26130999999999,-9.74954],"type":"Point"}
+}

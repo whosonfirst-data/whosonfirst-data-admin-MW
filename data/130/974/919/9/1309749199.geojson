@@ -1,0 +1,68 @@
+{
+  "id": 1309749199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21667,-15.53333,35.21667,-15.53333",
+    "geom:latitude":-15.53333,
+    "geom:longitude":35.21667,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Mbisa",
+    "gn:country_code":"MW",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926845,
+    "gn:latitude":-15.53333,
+    "gn:longitude":35.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biza",
+        "Mbisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926845
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"b8621f226c95fc44a8a177d4e60a2781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1309749199,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309749199,
+    "wof:lastmodified":1537665837,
+    "wof:name":"Mbisa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21667,
+    -15.53333,
+    35.21667,
+    -15.53333
+],
+  "geometry": {"coordinates":[35.21667,-15.53333],"type":"Point"}
+}

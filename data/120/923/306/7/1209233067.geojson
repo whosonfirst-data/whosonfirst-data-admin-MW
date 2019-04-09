@@ -1,0 +1,62 @@
+{
+  "id": 1209233067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58333,-13.28333,33.58333,-13.28333",
+    "geom:latitude":-13.28333,
+    "geom:longitude":33.58333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Chilindira",
+    "gn:country_code":"MW",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931011,
+    "gn:latitude":-13.28333,
+    "gn:longitude":33.58333,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Chilindira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931011
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"aa3c516b5417222087a57c20d7e6ff2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209233067
+        }
+    ],
+    "wof:id":1209233067,
+    "wof:lastmodified":1536293576,
+    "wof:name":"Chilindira",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58333,
+    -13.28333,
+    33.58333,
+    -13.28333
+],
+  "geometry": {"coordinates":[33.58333,-13.28333],"type":"Point"}
+}

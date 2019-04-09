@@ -1,0 +1,62 @@
+{
+  "id": 1209451397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.0,-12.86667,34.0,-12.86667",
+    "geom:latitude":-12.86667,
+    "geom:longitude":34.0,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Mwalala",
+    "gn:country_code":"MW",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925670,
+    "gn:latitude":-12.86667,
+    "gn:longitude":34.0,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Mwalala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925670
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"cffa66f1724c8750f5c0a416f2e20ce7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209451397
+        }
+    ],
+    "wof:id":1209451397,
+    "wof:lastmodified":1536286661,
+    "wof:name":"Mwalala",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.0,
+    -12.86667,
+    34.0,
+    -12.86667
+],
+  "geometry": {"coordinates":[34.0,-12.86667],"type":"Point"}
+}

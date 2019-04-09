@@ -1,0 +1,64 @@
+{
+  "id": 1293037133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.7,-16.15,34.7,-16.15",
+    "geom:latitude":-16.15,
+    "geom:longitude":34.7,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Simbi",
+    "gn:country_code":"MW",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923906,
+    "gn:latitude":-16.15,
+    "gn:longitude":34.7,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Simbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923906
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"78c73b25d83ff70b2b45cc75617911f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293037133,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293037133,
+    "wof:lastmodified":1536940062,
+    "wof:name":"Simbi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.7,
+    -16.15,
+    34.7,
+    -16.15
+],
+  "geometry": {"coordinates":[34.7,-16.15],"type":"Point"}
+}

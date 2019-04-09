@@ -1,0 +1,64 @@
+{
+  "id": 1326449231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.61998,-11.21847,33.61998,-11.21847",
+    "geom:latitude":-11.21847,
+    "geom:longitude":33.61998,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Kamanga Dazi Makwakwa",
+    "gn:country_code":"MW",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929167,
+    "gn:latitude":-11.21847,
+    "gn:longitude":33.61998,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kamanga Dazi Makwakwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929167
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"6838bd46cf9816f1c6634e34e350f453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1326449231,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326449231,
+    "wof:lastmodified":1536603587,
+    "wof:name":"Kamanga Dazi Makwakwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.61998,
+    -11.21847,
+    33.61998,
+    -11.21847
+],
+  "geometry": {"coordinates":[33.61998,-11.21847],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209651269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.73333,-16.06667,34.73333,-16.06667",
+    "geom:latitude":-16.06667,
+    "geom:longitude":34.73333,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Fombe",
+    "gn:country_code":"MW",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929854,
+    "gn:latitude":-16.06667,
+    "gn:longitude":34.73333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Fombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929854
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"06a591485d21104d30255853334f93f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209651269
+        }
+    ],
+    "wof:id":1209651269,
+    "wof:lastmodified":1536280572,
+    "wof:name":"Fombe",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.73333,
+    -16.066670000000002,
+    34.73333,
+    -16.066670000000002
+],
+  "geometry": {"coordinates":[34.73333,-16.06667],"type":"Point"}
+}

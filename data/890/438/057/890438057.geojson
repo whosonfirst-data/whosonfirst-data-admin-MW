@@ -1,0 +1,67 @@
+{
+  "id": 890438057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.07998,-13.7623,33.07998,-13.7623",
+    "geom:latitude":-13.7623,
+    "geom:longitude":33.07998,
+    "gn:country":"MW",
+    "gn:fcode":"ADM2",
+    "gn:pop":367483,
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Fort Manning District"
+    ],
+    "qs:name":"Mchinji District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":93,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926745,
+        "qs:id":83969,
+        "wd:id":"Q868792",
+        "wk:page":"Mchinji District"
+    },
+    "wof:country":"MW",
+    "wof:created":1469052178,
+    "wof:geomhash":"4355e24ab6cba1822b7b8a78ab57cd36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "county_id":890438057
+        }
+    ],
+    "wof:id":890438057,
+    "wof:lastmodified":1527735425,
+    "wof:name":"Mchinji District",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":367483,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.07998,
+    -13.7623,
+    33.07998,
+    -13.7623
+],
+  "geometry": {"coordinates":[33.07998,-13.7623],"type":"Point"}
+}

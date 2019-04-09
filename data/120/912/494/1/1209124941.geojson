@@ -1,0 +1,68 @@
+{
+  "id": 1209124941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.40746,-11.65973,33.40746,-11.65973",
+    "geom:latitude":-11.65973,
+    "geom:longitude":33.40746,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Kamchocho",
+    "gn:country_code":"MW",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929108,
+    "gn:latitude":-11.65973,
+    "gn:longitude":33.40746,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kamchocho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kamchocho"
+    ],
+    "name:und_x_variant":[
+        "Kamchocho Banda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929108
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"af8950cef68335ca58b3a79ed0ce48d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209124941
+        }
+    ],
+    "wof:id":1209124941,
+    "wof:lastmodified":1537665842,
+    "wof:name":"Kamchocho",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.40746,
+    -11.65973,
+    33.40746,
+    -11.65973
+],
+  "geometry": {"coordinates":[33.40746,-11.65973],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1276581475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3,-13.63333,33.3,-13.63333",
+    "geom:latitude":-13.63333,
+    "geom:longitude":33.3,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Mzama",
+    "gn:country_code":"MW",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925521,
+    "gn:latitude":-13.63333,
+    "gn:longitude":33.3,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Mzama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925521
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"a5832befb0fde831e76c36e07b84f98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276581475,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276581475,
+    "wof:lastmodified":1536944416,
+    "wof:name":"Mzama",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3,
+    -13.63333,
+    33.3,
+    -13.63333
+],
+  "geometry": {"coordinates":[33.3,-13.63333],"type":"Point"}
+}

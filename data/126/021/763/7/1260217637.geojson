@@ -1,0 +1,64 @@
+{
+  "id": 1260217637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.71004,-13.72311,33.71004,-13.72311",
+    "geom:latitude":-13.72311,
+    "geom:longitude":33.71004,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Chinyama",
+    "gn:country_code":"MW",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930712,
+    "gn:latitude":-13.72311,
+    "gn:longitude":33.71004,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chinyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930712
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"0b8a584c3a45a21935f95fed394c9f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1260217637,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260217637,
+    "wof:lastmodified":1536801398,
+    "wof:name":"Chinyama",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.71004,
+    -13.72311,
+    33.71004,
+    -13.72311
+],
+  "geometry": {"coordinates":[33.71004,-13.72311],"type":"Point"}
+}

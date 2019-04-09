@@ -1,0 +1,64 @@
+{
+  "id": 1226478535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.86667,-13.4,33.86667,-13.4",
+    "geom:latitude":-13.4,
+    "geom:longitude":33.86667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Kadango",
+    "gn:country_code":"MW",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929435,
+    "gn:latitude":-13.4,
+    "gn:longitude":33.86667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kadango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929435
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"04fcf786148f43e035951c4c6416647c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226478535,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226478535,
+    "wof:lastmodified":1537091602,
+    "wof:name":"Kadango",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.86667,
+    -13.4,
+    33.86667,
+    -13.4
+],
+  "geometry": {"coordinates":[33.86667,-13.4],"type":"Point"}
+}

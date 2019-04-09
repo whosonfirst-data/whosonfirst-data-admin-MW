@@ -1,0 +1,64 @@
+{
+  "id": 1226173467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9535,-13.32716,33.9535,-13.32716",
+    "geom:latitude":-13.32716,
+    "geom:longitude":33.9535,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Kasengwa",
+    "gn:country_code":"MW",
+    "gn:dem":1285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928603,
+    "gn:latitude":-13.32716,
+    "gn:longitude":33.9535,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kasengwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928603
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"664ca702464cfc6a083cb3897ee0d6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226173467,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226173467,
+    "wof:lastmodified":1537036238,
+    "wof:name":"Kasengwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9535,
+    -13.32716,
+    33.9535,
+    -13.32716
+],
+  "geometry": {"coordinates":[33.9535,-13.32716],"type":"Point"}
+}

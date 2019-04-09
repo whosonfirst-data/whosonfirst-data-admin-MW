@@ -1,0 +1,64 @@
+{
+  "id": 1242608263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.85,-13.33333,33.85,-13.33333",
+    "geom:latitude":-13.33333,
+    "geom:longitude":33.85,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Chilonje",
+    "gn:country_code":"MW",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930992,
+    "gn:latitude":-13.33333,
+    "gn:longitude":33.85,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Chilonje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930992
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d6ef2721615e4eb06dc404f61d39e68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242608263,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242608263,
+    "wof:lastmodified":1537018762,
+    "wof:name":"Chilonje",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.85,
+    -13.33333,
+    33.85,
+    -13.33333
+],
+  "geometry": {"coordinates":[33.85,-13.33333],"type":"Point"}
+}

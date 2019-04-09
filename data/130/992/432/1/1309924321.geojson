@@ -1,0 +1,67 @@
+{
+  "id": 1309924321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.35426,-11.71319,33.35426,-11.71319",
+    "geom:latitude":-11.71319,
+    "geom:longitude":33.35426,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Kayuni Luhanga",
+    "gn:country_code":"MW",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928281,
+    "gn:latitude":-11.71319,
+    "gn:longitude":33.35426,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kayuni Luhanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kayuni Luhanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928281
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"a7884e8d5b83b8484aab912a02646574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1309924321,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309924321,
+    "wof:lastmodified":1537665840,
+    "wof:name":"Kayuni Luhanga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.35426,
+    -11.71319,
+    33.35426,
+    -11.71319
+],
+  "geometry": {"coordinates":[33.35426,-11.71319],"type":"Point"}
+}

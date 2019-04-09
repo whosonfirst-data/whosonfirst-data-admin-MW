@@ -1,0 +1,68 @@
+{
+  "id": 1326665129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.08643,-16.33155,35.08643,-16.33155",
+    "geom:latitude":-16.33155,
+    "geom:longitude":35.08643,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Masenjere",
+    "gn:country_code":"MW",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927121,
+    "gn:latitude":-16.33155,
+    "gn:longitude":35.08643,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Masenjere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masanjere",
+        "Masenjere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927121
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"3f18ca4347610dcc0e13d75d6c8c7269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1326665129,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326665129,
+    "wof:lastmodified":1537665838,
+    "wof:name":"Masenjere",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.08643,
+    -16.33155,
+    35.08643,
+    -16.33155
+],
+  "geometry": {"coordinates":[35.08643,-16.33155],"type":"Point"}
+}

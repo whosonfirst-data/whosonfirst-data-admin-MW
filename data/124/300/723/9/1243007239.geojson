@@ -1,0 +1,64 @@
+{
+  "id": 1243007239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.03336,-14.46058,34.03336,-14.46058",
+    "geom:latitude":-14.46058,
+    "geom:longitude":34.03336,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Chiculungueni",
+    "gn:country_code":"MW",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931253,
+    "gn:latitude":-14.46058,
+    "gn:longitude":34.03336,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chiculungueni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931253
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"43303427baa4ea97a8c7e43cf432ac42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243007239,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243007239,
+    "wof:lastmodified":1536942359,
+    "wof:name":"Chiculungueni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.03335999999999,
+    -14.46058,
+    34.03335999999999,
+    -14.46058
+],
+  "geometry": {"coordinates":[34.03335999999999,-14.46058],"type":"Point"}
+}

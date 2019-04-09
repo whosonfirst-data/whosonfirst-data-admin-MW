@@ -1,0 +1,64 @@
+{
+  "id": 1293898503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.32691,-11.68835,33.32691,-11.68835",
+    "geom:latitude":-11.68835,
+    "geom:longitude":33.32691,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Kasokera Kaunda",
+    "gn:country_code":"MW",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928562,
+    "gn:latitude":-11.68835,
+    "gn:longitude":33.32691,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kasokera Kaunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928562
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"2077c1506b7e3bb37311a868ff045db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293898503,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293898503,
+    "wof:lastmodified":1536691772,
+    "wof:name":"Kasokera Kaunda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.32691,
+    -11.68835,
+    33.32691,
+    -11.68835
+],
+  "geometry": {"coordinates":[33.32691,-11.68835],"type":"Point"}
+}

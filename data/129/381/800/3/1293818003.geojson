@@ -1,0 +1,64 @@
+{
+  "id": 1293818003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41667,-12.53333,33.41667,-12.53333",
+    "geom:latitude":-12.53333,
+    "geom:longitude":33.41667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Jemsi",
+    "gn:country_code":"MW",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929628,
+    "gn:latitude":-12.53333,
+    "gn:longitude":33.41667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Jemsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929628
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"a660e5d3e01e67d8fb341ac68bb01403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293818003,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293818003,
+    "wof:lastmodified":1536807405,
+    "wof:name":"Jemsi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41667,
+    -12.53333,
+    33.41667,
+    -12.53333
+],
+  "geometry": {"coordinates":[33.41667,-12.53333],"type":"Point"}
+}

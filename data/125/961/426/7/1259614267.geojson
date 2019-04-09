@@ -1,0 +1,68 @@
+{
+  "id": 1259614267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31245,-14.02572,33.31245,-14.02572",
+    "geom:latitude":-14.02572,
+    "geom:longitude":33.31245,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Chadzuka",
+    "gn:country_code":"MW",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931583,
+    "gn:latitude":-14.02572,
+    "gn:longitude":33.31245,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chadzuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casuka",
+        "Chadzuka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931583
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"226e5531cc2218a8b93c66d817a4c8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259614267,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259614267,
+    "wof:lastmodified":1537665847,
+    "wof:name":"Chadzuka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31245,
+    -14.02572,
+    33.31245,
+    -14.02572
+],
+  "geometry": {"coordinates":[33.31245,-14.02572],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1343299079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.95835,-13.12435,33.95835,-13.12435",
+    "geom:latitude":-13.12435,
+    "geom:longitude":33.95835,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Mbobo",
+    "gn:country_code":"MW",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926837,
+    "gn:latitude":-13.12435,
+    "gn:longitude":33.95835,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mbobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926837
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"c29d8f88853cb205f395aaa02bc909ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343299079,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343299079,
+    "wof:lastmodified":1536978441,
+    "wof:name":"Mbobo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.95835,
+    -13.12435,
+    33.95835,
+    -13.12435
+],
+  "geometry": {"coordinates":[33.95835,-13.12435],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1243488841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58333,-13.11667,33.58333,-13.11667",
+    "geom:latitude":-13.11667,
+    "geom:longitude":33.58333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Mnyanyu",
+    "gn:country_code":"MW",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926326,
+    "gn:latitude":-13.11667,
+    "gn:longitude":33.58333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Mnyanyu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926326
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"e74ebf8305110042df55a202a47b13a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243488841,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243488841,
+    "wof:lastmodified":1536744096,
+    "wof:name":"Mnyanyu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58333,
+    -13.11667,
+    33.58333,
+    -13.11667
+],
+  "geometry": {"coordinates":[33.58333,-13.11667],"type":"Point"}
+}

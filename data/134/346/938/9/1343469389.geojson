@@ -1,0 +1,66 @@
+{
+  "id": 1343469389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21386,-10.53855,34.21386,-10.53855",
+    "geom:latitude":-10.53855,
+    "geom:longitude":34.21386,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Chisiza",
+    "gn:country_code":"MW",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930494,
+    "gn:latitude":-10.53855,
+    "gn:longitude":34.21386,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chisiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632383,
+        1108784757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930494
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"5b9838ccbda12eacaf5928210a519117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":1343469389,
+            "region_id":1108784757
+        }
+    ],
+    "wof:id":1343469389,
+    "wof:lastmodified":1536733372,
+    "wof:name":"Chisiza",
+    "wof:parent_id":1108784757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21386,
+    -10.53855,
+    34.21386,
+    -10.53855
+],
+  "geometry": {"coordinates":[34.21386,-10.53855],"type":"Point"}
+}

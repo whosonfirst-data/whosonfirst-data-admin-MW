@@ -1,0 +1,64 @@
+{
+  "id": 1293817811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.08333,-13.41667,34.08333,-13.41667",
+    "geom:latitude":-13.41667,
+    "geom:longitude":34.08333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Msekampata",
+    "gn:country_code":"MW",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926028,
+    "gn:latitude":-13.41667,
+    "gn:longitude":34.08333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Msekampata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926028
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"1a0684f73f70774666b9c5d9d78b7f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293817811,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293817811,
+    "wof:lastmodified":1536807691,
+    "wof:name":"Msekampata",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.08333,
+    -13.41667,
+    34.08333,
+    -13.41667
+],
+  "geometry": {"coordinates":[34.08333,-13.41667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1243203071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88333,-13.7,33.88333,-13.7",
+    "geom:latitude":-13.7,
+    "geom:longitude":33.88333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Chigawa",
+    "gn:country_code":"MW",
+    "gn:dem":1288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931204,
+    "gn:latitude":-13.7,
+    "gn:longitude":33.88333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Chigawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931204
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"40b1d82aec043571b7c060e345801361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243203071,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243203071,
+    "wof:lastmodified":1536659620,
+    "wof:name":"Chigawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88333,
+    -13.7,
+    33.88333,
+    -13.7
+],
+  "geometry": {"coordinates":[33.88333,-13.7],"type":"Point"}
+}

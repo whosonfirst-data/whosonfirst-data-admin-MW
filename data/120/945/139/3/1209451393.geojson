@@ -1,0 +1,62 @@
+{
+  "id": 1209451393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46546,-12.50959,33.46546,-12.50959",
+    "geom:latitude":-12.50959,
+    "geom:longitude":33.46546,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Kamdidi",
+    "gn:country_code":"MW",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929105,
+    "gn:latitude":-12.50959,
+    "gn:longitude":33.46546,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kamdidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929105
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"8a53bfcb8192d65c0feacdf6f5051960",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209451393
+        }
+    ],
+    "wof:id":1209451393,
+    "wof:lastmodified":1536286661,
+    "wof:name":"Kamdidi",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46546,
+    -12.50959,
+    33.46546,
+    -12.50959
+],
+  "geometry": {"coordinates":[33.46546,-12.50959],"type":"Point"}
+}

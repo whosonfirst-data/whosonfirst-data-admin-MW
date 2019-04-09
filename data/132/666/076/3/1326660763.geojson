@@ -1,0 +1,64 @@
+{
+  "id": 1326660763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.81729,-13.13168,33.81729,-13.13168",
+    "geom:latitude":-13.13168,
+    "geom:longitude":33.81729,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Kapatika",
+    "gn:country_code":"MW",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928761,
+    "gn:latitude":-13.13168,
+    "gn:longitude":33.81729,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kapatika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928761
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d8b6ac5e6015c84fcd488fd9711e7c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1326660763,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326660763,
+    "wof:lastmodified":1536798916,
+    "wof:name":"Kapatika",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.81729,
+    -13.13168,
+    33.81729,
+    -13.13168
+],
+  "geometry": {"coordinates":[33.81729,-13.13168],"type":"Point"}
+}

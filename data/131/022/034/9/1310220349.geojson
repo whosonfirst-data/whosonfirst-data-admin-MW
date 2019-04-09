@@ -1,0 +1,64 @@
+{
+  "id": 1310220349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.92711,-11.69217,33.92711,-11.69217",
+    "geom:latitude":-11.69217,
+    "geom:longitude":33.92711,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Thudezi",
+    "gn:country_code":"MW",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923666,
+    "gn:latitude":-11.69217,
+    "gn:longitude":33.92711,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Thudezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923666
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"2bbdbd3faa4f4dd107bc0b713fde41b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310220349,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310220349,
+    "wof:lastmodified":1536829780,
+    "wof:name":"Thudezi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.92711,
+    -11.69217,
+    33.92711,
+    -11.69217
+],
+  "geometry": {"coordinates":[33.92711,-11.69217],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1343473823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.63922,-12.44839,33.63922,-12.44839",
+    "geom:latitude":-12.44839,
+    "geom:longitude":33.63922,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Cihepa",
+    "gn:country_code":"MW",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930211,
+    "gn:latitude":-12.44839,
+    "gn:longitude":33.63922,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Cihepa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930211
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"bdce3a7afe81daf33ca20bbc8a3f253f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343473823,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343473823,
+    "wof:lastmodified":1536727139,
+    "wof:name":"Cihepa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.63922,
+    -12.44839,
+    33.63922,
+    -12.44839
+],
+  "geometry": {"coordinates":[33.63922,-12.44839],"type":"Point"}
+}

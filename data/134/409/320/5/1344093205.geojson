@@ -1,0 +1,64 @@
+{
+  "id": 1344093205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.16758,-14.42512,34.16758,-14.42512",
+    "geom:latitude":-14.42512,
+    "geom:longitude":34.16758,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Tambolagwa",
+    "gn:country_code":"MW",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923779,
+    "gn:latitude":-14.42512,
+    "gn:longitude":34.16758,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Tambolagwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923779
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ba2119b1a0d8f011b73a8ca93cd2b3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1344093205,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344093205,
+    "wof:lastmodified":1536827369,
+    "wof:name":"Tambolagwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.16758,
+    -14.42512,
+    34.16758,
+    -14.42512
+],
+  "geometry": {"coordinates":[34.16758,-14.42512],"type":"Point"}
+}

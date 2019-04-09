@@ -1,0 +1,70 @@
+{
+  "id": 1310439371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.45,-15.3,35.45,-15.3",
+    "geom:latitude":-15.3,
+    "geom:longitude":35.45,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Kumtumanji",
+    "gn:country_code":"MW",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928131,
+    "gn:latitude":-15.3,
+    "gn:longitude":35.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kumtumanji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matimanji",
+        "Malimanji",
+        "Mtumanje Village",
+        "Kumtumanji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928131
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4fed58b2ad75ec628181cf8faab789f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310439371,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310439371,
+    "wof:lastmodified":1537665839,
+    "wof:name":"Kumtumanji",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.45,
+    -15.3,
+    35.45,
+    -15.3
+],
+  "geometry": {"coordinates":[35.45,-15.3],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1259517353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.13186,-13.68548,34.13186,-13.68548",
+    "geom:latitude":-13.68548,
+    "geom:longitude":34.13186,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Mjele",
+    "gn:country_code":"MW",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926529,
+    "gn:latitude":-13.68548,
+    "gn:longitude":34.13186,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mjele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926529
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"00f8adf91267758951743a8592c95815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259517353,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259517353,
+    "wof:lastmodified":1536809747,
+    "wof:name":"Mjele",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.13186,
+    -13.68548,
+    34.13186,
+    -13.68548
+],
+  "geometry": {"coordinates":[34.13186,-13.68548],"type":"Point"}
+}

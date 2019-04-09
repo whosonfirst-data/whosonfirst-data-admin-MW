@@ -1,0 +1,62 @@
+{
+  "id": 1209549435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9,-13.2,33.9,-13.2",
+    "geom:latitude":-13.2,
+    "geom:longitude":33.9,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Katuru",
+    "gn:country_code":"MW",
+    "gn:dem":1136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928404,
+    "gn:latitude":-13.2,
+    "gn:longitude":33.9,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Katuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928404
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"58f5e6c87b4dc9eed91a84f016613f5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209549435
+        }
+    ],
+    "wof:id":1209549435,
+    "wof:lastmodified":1536283740,
+    "wof:name":"Katuru",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9,
+    -13.2,
+    33.9,
+    -13.2
+],
+  "geometry": {"coordinates":[33.9,-13.2],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1276481503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.30818,-13.60621,33.30818,-13.60621",
+    "geom:latitude":-13.60621,
+    "geom:longitude":33.30818,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Charinda",
+    "gn:country_code":"MW",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931391,
+    "gn:latitude":-13.60621,
+    "gn:longitude":33.30818,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Charinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931391
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"25bc87ce5718c9b72f4f8203481b6480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276481503,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276481503,
+    "wof:lastmodified":1537074240,
+    "wof:name":"Charinda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.30818,
+    -13.60621,
+    33.30818,
+    -13.60621
+],
+  "geometry": {"coordinates":[33.30818,-13.60621],"type":"Point"}
+}

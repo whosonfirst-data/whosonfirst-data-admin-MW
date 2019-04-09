@@ -1,0 +1,62 @@
+{
+  "id": 1209121143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.98273,-10.91064,33.98273,-10.91064",
+    "geom:latitude":-10.91064,
+    "geom:longitude":33.98273,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Munyongo",
+    "gn:country_code":"MW",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925749,
+    "gn:latitude":-10.91064,
+    "gn:longitude":33.98273,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Munyongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925749
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"1fce8dc2b213cf3607cab75e0457aa8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209121143
+        }
+    ],
+    "wof:id":1209121143,
+    "wof:lastmodified":1536297094,
+    "wof:name":"Munyongo",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.98273,
+    -10.91064,
+    33.98273,
+    -10.91064
+],
+  "geometry": {"coordinates":[33.98273,-10.91064],"type":"Point"}
+}

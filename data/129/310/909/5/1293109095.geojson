@@ -1,0 +1,64 @@
+{
+  "id": 1293109095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.64269,-12.50175,33.64269,-12.50175",
+    "geom:latitude":-12.50175,
+    "geom:longitude":33.64269,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Kampupu",
+    "gn:country_code":"MW",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929035,
+    "gn:latitude":-12.50175,
+    "gn:longitude":33.64269,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kampupu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929035
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"f1278eb94b2bfeaa7e383d0b75d532fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293109095,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293109095,
+    "wof:lastmodified":1536834485,
+    "wof:name":"Kampupu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.64269,
+    -12.50175,
+    33.64269,
+    -12.50175
+],
+  "geometry": {"coordinates":[33.64269,-12.50175],"type":"Point"}
+}

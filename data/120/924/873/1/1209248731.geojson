@@ -1,0 +1,62 @@
+{
+  "id": 1209248731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.24259,-13.29759,33.24259,-13.29759",
+    "geom:latitude":-13.29759,
+    "geom:longitude":33.24259,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Chiderezi",
+    "gn:country_code":"MW",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931246,
+    "gn:latitude":-13.29759,
+    "gn:longitude":33.24259,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chiderezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931246
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"6a1486ecfa9084182ff0572c175d8c03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209248731
+        }
+    ],
+    "wof:id":1209248731,
+    "wof:lastmodified":1536293074,
+    "wof:name":"Chiderezi",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.24259,
+    -13.29759,
+    33.24259,
+    -13.29759
+],
+  "geometry": {"coordinates":[33.24259,-13.29759],"type":"Point"}
+}

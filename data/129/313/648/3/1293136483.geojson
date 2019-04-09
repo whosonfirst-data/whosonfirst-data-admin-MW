@@ -1,0 +1,64 @@
+{
+  "id": 1293136483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21693,-12.71472,34.21693,-12.71472",
+    "geom:latitude":-12.71472,
+    "geom:longitude":34.21693,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Kambola",
+    "gn:country_code":"MW",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929128,
+    "gn:latitude":-12.71472,
+    "gn:longitude":34.21693,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kambola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929128
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7f1546688279cd6ab9d549d524eee74d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293136483,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293136483,
+    "wof:lastmodified":1536796300,
+    "wof:name":"Kambola",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21693,
+    -12.71472,
+    34.21693,
+    -12.71472
+],
+  "geometry": {"coordinates":[34.21693,-12.71472],"type":"Point"}
+}

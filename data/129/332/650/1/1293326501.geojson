@@ -1,0 +1,64 @@
+{
+  "id": 1293326501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.06667,-16.3,35.06667,-16.3",
+    "geom:latitude":-16.3,
+    "geom:longitude":35.06667,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Chakanza",
+    "gn:country_code":"MW",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931560,
+    "gn:latitude":-16.3,
+    "gn:longitude":35.06667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Chakanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931560
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"5001365b48d71670ff0d792d94a6a90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293326501,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293326501,
+    "wof:lastmodified":1537018404,
+    "wof:name":"Chakanza",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06667,
+    -16.3,
+    35.06667,
+    -16.3
+],
+  "geometry": {"coordinates":[35.06667,-16.3],"type":"Point"}
+}

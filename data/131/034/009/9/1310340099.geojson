@@ -1,0 +1,64 @@
+{
+  "id": 1310340099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65,-13.68333,33.65,-13.68333",
+    "geom:latitude":-13.68333,
+    "geom:longitude":33.65,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Msokola",
+    "gn:country_code":"MW",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925997,
+    "gn:latitude":-13.68333,
+    "gn:longitude":33.65,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Msokola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925997
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"a2be4681ffebb8d80a50afc5663ec738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310340099,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310340099,
+    "wof:lastmodified":1536658146,
+    "wof:name":"Msokola",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65,
+    -13.68333,
+    33.65,
+    -13.68333
+],
+  "geometry": {"coordinates":[33.65,-13.68333],"type":"Point"}
+}

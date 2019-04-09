@@ -1,0 +1,64 @@
+{
+  "id": 1276263463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.18333,-13.9,35.18333,-13.9",
+    "geom:latitude":-13.9,
+    "geom:longitude":35.18333,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Baquira",
+    "gn:country_code":"MW",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931822,
+    "gn:latitude":-13.9,
+    "gn:longitude":35.18333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Baquira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931822
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"82958e42cf0d34a0ef89353f1b567c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276263463,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276263463,
+    "wof:lastmodified":1536871245,
+    "wof:name":"Baquira",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18333,
+    -13.9,
+    35.18333,
+    -13.9
+],
+  "geometry": {"coordinates":[35.18333,-13.9],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1326660677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.75481,-13.95814,33.75481,-13.95814",
+    "geom:latitude":-13.95814,
+    "geom:longitude":33.75481,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Area 47",
+    "gn:country_code":"MW",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11281453,
+    "gn:latitude":-13.95814,
+    "gn:longitude":33.75481,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Area 47",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632383,
+        1108784755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11281453
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"9e559ce7463361cc9793947d508ea200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":1326660677,
+            "region_id":1108784755
+        }
+    ],
+    "wof:id":1326660677,
+    "wof:lastmodified":1536799041,
+    "wof:name":"Area 47",
+    "wof:parent_id":1108784755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.75481,
+    -13.95814,
+    33.75481,
+    -13.95814
+],
+  "geometry": {"coordinates":[33.75481,-13.95814],"type":"Point"}
+}

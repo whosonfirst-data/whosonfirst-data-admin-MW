@@ -1,0 +1,64 @@
+{
+  "id": 1226473349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.77348,-14.61403,34.77348,-14.61403",
+    "geom:latitude":-14.61403,
+    "geom:longitude":34.77348,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"16.0",
+    "gn:asciiname":"Nhawani",
+    "gn:country_code":"MW",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924844,
+    "gn:latitude":-14.61403,
+    "gn:longitude":34.77348,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Nhawani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924844
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ea88e039c511e1b07ce3458a3c8c3db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226473349,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226473349,
+    "wof:lastmodified":1536602644,
+    "wof:name":"Nhawani",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.77348,
+    -14.61403,
+    34.77348,
+    -14.61403
+],
+  "geometry": {"coordinates":[34.77348,-14.61403],"type":"Point"}
+}

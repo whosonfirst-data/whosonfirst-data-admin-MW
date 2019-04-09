@@ -1,0 +1,64 @@
+{
+  "id": 1326861013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.47715,-15.48078,34.47715,-15.48078",
+    "geom:latitude":-15.48078,
+    "geom:longitude":34.47715,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Nkwichi",
+    "gn:country_code":"MW",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924610,
+    "gn:latitude":-15.48078,
+    "gn:longitude":34.47715,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Nkwichi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924610
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"bc3a42551ca3b4a876d715e8fc9d6990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1326861013,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326861013,
+    "wof:lastmodified":1537006634,
+    "wof:name":"Nkwichi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.47715,
+    -15.48078,
+    34.47715,
+    -15.48078
+],
+  "geometry": {"coordinates":[34.47715,-15.48078],"type":"Point"}
+}

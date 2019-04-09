@@ -1,0 +1,64 @@
+{
+  "id": 1243097945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.8984,-14.32865,33.8984,-14.32865",
+    "geom:latitude":-14.32865,
+    "geom:longitude":33.8984,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Njuci",
+    "gn:country_code":"MW",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924794,
+    "gn:latitude":-14.32865,
+    "gn:longitude":33.8984,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Njuci",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924794
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ee5f01278f056d07c4e533d62f11ad24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243097945,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243097945,
+    "wof:lastmodified":1536810489,
+    "wof:name":"Njuci",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.8984,
+    -14.32865,
+    33.8984,
+    -14.32865
+],
+  "geometry": {"coordinates":[33.8984,-14.32865],"type":"Point"}
+}

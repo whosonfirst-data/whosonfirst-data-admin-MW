@@ -1,0 +1,64 @@
+{
+  "id": 1310537549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9,-13.61667,33.9,-13.61667",
+    "geom:latitude":-13.61667,
+    "geom:longitude":33.9,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Magumbe",
+    "gn:country_code":"MW",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927551,
+    "gn:latitude":-13.61667,
+    "gn:longitude":33.9,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Magumbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927551
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7ca925b6b4ce9ccd60f9a3912ce7b0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310537549,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310537549,
+    "wof:lastmodified":1536869495,
+    "wof:name":"Magumbe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9,
+    -13.61667,
+    33.9,
+    -13.61667
+],
+  "geometry": {"coordinates":[33.9,-13.61667],"type":"Point"}
+}

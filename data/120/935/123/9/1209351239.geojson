@@ -1,0 +1,67 @@
+{
+  "id": 1209351239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96667,-14.06667,33.96667,-14.06667",
+    "geom:latitude":-14.06667,
+    "geom:longitude":33.96667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Mazengera",
+    "gn:country_code":"MW",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926953,
+    "gn:latitude":-14.06667,
+    "gn:longitude":33.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mazengera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masenjera",
+        "Masenjere",
+        "Mazengera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926953
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"4efb17241ed698f6a8f4e53fe9ee360e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209351239
+        }
+    ],
+    "wof:id":1209351239,
+    "wof:lastmodified":1537665837,
+    "wof:name":"Mazengera",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96667,
+    -14.06667,
+    33.96667,
+    -14.06667
+],
+  "geometry": {"coordinates":[33.96667,-14.06667],"type":"Point"}
+}

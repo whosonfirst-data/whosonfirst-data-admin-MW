@@ -1,0 +1,70 @@
+{
+  "id": 1259493857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.35295,-11.67801,33.35295,-11.67801",
+    "geom:latitude":-11.67801,
+    "geom:longitude":33.35295,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Katolola Mfuni",
+    "gn:country_code":"MW",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928435,
+    "gn:latitude":-11.67801,
+    "gn:longitude":33.35295,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Katolola Mfuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Katolola Mfuni"
+    ],
+    "name:und_x_variant":[
+        "Katorora Mfwuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928435
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"dc8d2fbd9a5b1ff4c5fbaf72319deac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259493857,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259493857,
+    "wof:lastmodified":1537665840,
+    "wof:name":"Katolola Mfuni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.35295,
+    -11.67801,
+    33.35295,
+    -11.67801
+],
+  "geometry": {"coordinates":[33.35295,-11.67801],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1259714275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.86862,-15.85083,34.86862,-15.85083",
+    "geom:latitude":-15.85083,
+    "geom:longitude":34.86862,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Imbwa",
+    "gn:country_code":"MW",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929676,
+    "gn:latitude":-15.85083,
+    "gn:longitude":34.86862,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Imbwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929676
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"323923ec25c9b7f29c97440e6cbba51a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259714275,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259714275,
+    "wof:lastmodified":1537021855,
+    "wof:name":"Imbwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.86862,
+    -15.85083,
+    34.86862,
+    -15.85083
+],
+  "geometry": {"coordinates":[34.86862,-15.85083],"type":"Point"}
+}

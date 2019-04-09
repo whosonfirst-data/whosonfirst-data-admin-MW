@@ -1,0 +1,64 @@
+{
+  "id": 1260217873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97705,-14.78629,34.97705,-14.78629",
+    "geom:latitude":-14.78629,
+    "geom:longitude":34.97705,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Dambolankhanga",
+    "gn:country_code":"MW",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930051,
+    "gn:latitude":-14.78629,
+    "gn:longitude":34.97705,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Dambolankhanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930051
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"16733f4506ccf0591259062faf83b401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1260217873,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260217873,
+    "wof:lastmodified":1536801070,
+    "wof:name":"Dambolankhanga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97705,
+    -14.78629,
+    34.97705,
+    -14.78629
+],
+  "geometry": {"coordinates":[34.97705,-14.78629],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1259517949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.76667,-14.03333,33.76667,-14.03333",
+    "geom:latitude":-14.03333,
+    "geom:longitude":33.76667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Mitengo",
+    "gn:country_code":"MW",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926556,
+    "gn:latitude":-14.03333,
+    "gn:longitude":33.76667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Mitengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926556
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7bbe64b34d459e09385779ff6b0f75e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259517949,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259517949,
+    "wof:lastmodified":1536808895,
+    "wof:name":"Mitengo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.76667,
+    -14.03333,
+    33.76667,
+    -14.03333
+],
+  "geometry": {"coordinates":[33.76667,-14.03333],"type":"Point"}
+}

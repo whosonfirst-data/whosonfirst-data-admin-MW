@@ -1,0 +1,62 @@
+{
+  "id": 1209136535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.84822,-13.74361,32.84822,-13.74361",
+    "geom:latitude":-13.74361,
+    "geom:longitude":32.84822,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Chisenga",
+    "gn:country_code":"MW",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930509,
+    "gn:latitude":-13.74361,
+    "gn:longitude":32.84822,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chisenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930509
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"70cb64b16f8c5765812373a4309e1217",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209136535
+        }
+    ],
+    "wof:id":1209136535,
+    "wof:lastmodified":1536296642,
+    "wof:name":"Chisenga",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.84822,
+    -13.74361,
+    32.84822,
+    -13.74361
+],
+  "geometry": {"coordinates":[32.84822,-13.74361],"type":"Point"}
+}

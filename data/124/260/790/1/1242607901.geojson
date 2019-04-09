@@ -1,0 +1,64 @@
+{
+  "id": 1242607901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.07755,-17.01317,35.07755,-17.01317",
+    "geom:latitude":-17.01317,
+    "geom:longitude":35.07755,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Manjolo",
+    "gn:country_code":"MW",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":927223,
+    "gn:latitude":-17.01317,
+    "gn:longitude":35.07755,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Manjolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":927223
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"2487bb7a076177dfc7d7504ce7d913b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242607901,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242607901,
+    "wof:lastmodified":1537019276,
+    "wof:name":"Manjolo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.07755,
+    -17.01317,
+    35.07755,
+    -17.01317
+],
+  "geometry": {"coordinates":[35.07755,-17.01317],"type":"Point"}
+}

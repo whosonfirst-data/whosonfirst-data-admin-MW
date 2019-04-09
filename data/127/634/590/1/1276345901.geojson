@@ -1,0 +1,64 @@
+{
+  "id": 1276345901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.78002,-11.3745,33.78002,-11.3745",
+    "geom:latitude":-11.3745,
+    "geom:longitude":33.78002,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Edundu",
+    "gn:country_code":"MW",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929906,
+    "gn:latitude":-11.3745,
+    "gn:longitude":33.78002,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Edundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929906
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"e651b969d0bb2d6413d5d6f099f37978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276345901,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276345901,
+    "wof:lastmodified":1536761779,
+    "wof:name":"Edundu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.78002,
+    -11.3745,
+    33.78002,
+    -11.3745
+],
+  "geometry": {"coordinates":[33.78002,-11.3745],"type":"Point"}
+}

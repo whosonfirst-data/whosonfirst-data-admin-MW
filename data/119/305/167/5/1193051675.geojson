@@ -1,0 +1,64 @@
+{
+  "id": 1193051675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55383,-12.77639,33.55383,-12.77639",
+    "geom:latitude":-12.77639,
+    "geom:longitude":33.55383,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Offisi",
+    "gn:country_code":"MW",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924279,
+    "gn:latitude":-12.77639,
+    "gn:longitude":33.55383,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Offisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924279
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"39cd5065e0f5dcc57198a0184b304525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1193051675,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193051675,
+    "wof:lastmodified":1536365661,
+    "wof:name":"Offisi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55383,
+    -12.77639,
+    33.55383,
+    -12.77639
+],
+  "geometry": {"coordinates":[33.55383,-12.77639],"type":"Point"}
+}

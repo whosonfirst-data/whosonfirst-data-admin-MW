@@ -1,0 +1,64 @@
+{
+  "id": 1309813967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.47488,-12.2,33.47488,-12.2",
+    "geom:latitude":-12.2,
+    "geom:longitude":33.47488,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Mkakenengoma",
+    "gn:country_code":"MW",
+    "gn:dem":1318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926520,
+    "gn:latitude":-12.2,
+    "gn:longitude":33.47488,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mkakenengoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926520
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"35d1cbba800e08d278431edaf46f9711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1309813967,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309813967,
+    "wof:lastmodified":1536919833,
+    "wof:name":"Mkakenengoma",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.47488,
+    -12.2,
+    33.47488,
+    -12.2
+],
+  "geometry": {"coordinates":[33.47488,-12.2],"type":"Point"}
+}

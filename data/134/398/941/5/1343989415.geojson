@@ -1,0 +1,64 @@
+{
+  "id": 1343989415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.32017,-15.76682,34.32017,-15.76682",
+    "geom:latitude":-15.76682,
+    "geom:longitude":34.32017,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Zimponje",
+    "gn:country_code":"MW",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923310,
+    "gn:latitude":-15.76682,
+    "gn:longitude":34.32017,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Zimponje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923310
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7c96999acd85e589de0d51b37aec48a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343989415,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343989415,
+    "wof:lastmodified":1536977667,
+    "wof:name":"Zimponje",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.32017,
+    -15.76682,
+    34.32017,
+    -15.76682
+],
+  "geometry": {"coordinates":[34.32017,-15.76682],"type":"Point"}
+}

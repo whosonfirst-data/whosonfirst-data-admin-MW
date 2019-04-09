@@ -1,0 +1,64 @@
+{
+  "id": 1226376391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55,-13.66667,33.55,-13.66667",
+    "geom:latitude":-13.66667,
+    "geom:longitude":33.55,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Nyonbawi",
+    "gn:country_code":"MW",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924305,
+    "gn:latitude":-13.66667,
+    "gn:longitude":33.55,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Nyonbawi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924305
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"8476fe332974adba3412ab619ff92194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226376391,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226376391,
+    "wof:lastmodified":1536745144,
+    "wof:name":"Nyonbawi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55,
+    -13.66667,
+    33.55,
+    -13.66667
+],
+  "geometry": {"coordinates":[33.55,-13.66667],"type":"Point"}
+}

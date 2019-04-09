@@ -1,0 +1,64 @@
+{
+  "id": 1242892603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.38333,-11.96667,33.38333,-11.96667",
+    "geom:latitude":-11.96667,
+    "geom:longitude":33.38333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Chiswa Mumba",
+    "gn:country_code":"MW",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930467,
+    "gn:latitude":-11.96667,
+    "gn:longitude":33.38333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Chiswa Mumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930467
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"3d0fcb7603a3897de63d5c9dfc7adeaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242892603,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242892603,
+    "wof:lastmodified":1536607094,
+    "wof:name":"Chiswa Mumba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.38333,
+    -11.96667,
+    33.38333,
+    -11.96667
+],
+  "geometry": {"coordinates":[33.38333,-11.96667],"type":"Point"}
+}

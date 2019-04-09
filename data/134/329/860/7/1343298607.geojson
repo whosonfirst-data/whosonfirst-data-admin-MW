@@ -1,0 +1,64 @@
+{
+  "id": 1343298607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.04621,-13.82921,33.04621,-13.82921",
+    "geom:latitude":-13.82921,
+    "geom:longitude":33.04621,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Kamwendo",
+    "gn:country_code":"MW",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11238553,
+    "gn:latitude":-13.82921,
+    "gn:longitude":33.04621,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Kamwendo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11238553
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"906b511847c954264705452a68f04786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343298607,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343298607,
+    "wof:lastmodified":1536979106,
+    "wof:name":"Kamwendo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.04620999999999,
+    -13.82921,
+    33.04620999999999,
+    -13.82921
+],
+  "geometry": {"coordinates":[33.04620999999999,-13.82921],"type":"Point"}
+}

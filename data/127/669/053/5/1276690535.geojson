@@ -1,0 +1,64 @@
+{
+  "id": 1276690535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51881,-12.39429,33.51881,-12.39429",
+    "geom:latitude":-12.39429,
+    "geom:longitude":33.51881,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Ciwawalo",
+    "gn:country_code":"MW",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":930092,
+    "gn:latitude":-12.39429,
+    "gn:longitude":33.51881,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Ciwawalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":930092
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"79eeb1101665a0cab1175253b40baed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276690535,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276690535,
+    "wof:lastmodified":1536797258,
+    "wof:name":"Ciwawalo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51880999999999,
+    -12.39429,
+    33.51880999999999,
+    -12.39429
+],
+  "geometry": {"coordinates":[33.51880999999999,-12.39429],"type":"Point"}
+}

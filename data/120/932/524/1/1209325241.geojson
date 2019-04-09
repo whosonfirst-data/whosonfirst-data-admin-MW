@@ -1,0 +1,65 @@
+{
+  "id": 1209325241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.40074,-11.69352,33.40074,-11.69352",
+    "geom:latitude":-11.69352,
+    "geom:longitude":33.40074,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Moses Gama",
+    "gn:country_code":"MW",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926293,
+    "gn:latitude":-11.69352,
+    "gn:longitude":33.40074,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Moses Gama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moses Gama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926293
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"34416789be1b569ab8a31614677b3834",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209325241
+        }
+    ],
+    "wof:id":1209325241,
+    "wof:lastmodified":1537665835,
+    "wof:name":"Moses Gama",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.40074,
+    -11.69352,
+    33.40074,
+    -11.69352
+],
+  "geometry": {"coordinates":[33.40074,-11.69352],"type":"Point"}
+}

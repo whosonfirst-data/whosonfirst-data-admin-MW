@@ -1,0 +1,64 @@
+{
+  "id": 1277019015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.0,-13.65,34.0,-13.65",
+    "geom:latitude":-13.65,
+    "geom:longitude":34.0,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Chamkoma",
+    "gn:country_code":"MW",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931475,
+    "gn:latitude":-13.65,
+    "gn:longitude":34.0,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Chamkoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931475
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"e0643fc99bb79747f3bcec75339b63a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1277019015,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277019015,
+    "wof:lastmodified":1536853453,
+    "wof:name":"Chamkoma",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.0,
+    -13.65,
+    34.0,
+    -13.65
+],
+  "geometry": {"coordinates":[34.0,-13.65],"type":"Point"}
+}

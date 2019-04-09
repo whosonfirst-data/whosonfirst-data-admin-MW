@@ -1,0 +1,62 @@
+{
+  "id": 1209137169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.93984,-14.47215,33.93984,-14.47215",
+    "geom:latitude":-14.47215,
+    "geom:longitude":33.93984,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Mtengoagwa",
+    "gn:country_code":"MW",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":925911,
+    "gn:latitude":-14.47215,
+    "gn:longitude":33.93984,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Mtengoagwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":925911
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"d13491810222269ebc4a0f1683f1dd7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209137169
+        }
+    ],
+    "wof:id":1209137169,
+    "wof:lastmodified":1536296623,
+    "wof:name":"Mtengoagwa",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.939840000000004,
+    -14.47215,
+    33.939840000000004,
+    -14.47215
+],
+  "geometry": {"coordinates":[33.93984,-14.47215],"type":"Point"}
+}

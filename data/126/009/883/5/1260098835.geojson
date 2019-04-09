@@ -1,0 +1,64 @@
+{
+  "id": 1260098835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58262,-12.27398,33.58262,-12.27398",
+    "geom:latitude":-12.27398,
+    "geom:longitude":33.58262,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Chigude",
+    "gn:country_code":"MW",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931194,
+    "gn:latitude":-12.27398,
+    "gn:longitude":33.58262,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Chigude",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931194
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7c28398b47f9dbae885044d4bb7c6b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1260098835,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260098835,
+    "wof:lastmodified":1536965764,
+    "wof:name":"Chigude",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58262,
+    -12.27398,
+    33.58262,
+    -12.27398
+],
+  "geometry": {"coordinates":[33.58262,-12.27398],"type":"Point"}
+}

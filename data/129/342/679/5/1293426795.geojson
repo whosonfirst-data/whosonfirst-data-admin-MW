@@ -1,0 +1,64 @@
+{
+  "id": 1293426795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.63823,-15.67938,35.63823,-15.67938",
+    "geom:latitude":-15.67938,
+    "geom:longitude":35.63823,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Nyezerera",
+    "gn:country_code":"MW",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924314,
+    "gn:latitude":-15.67938,
+    "gn:longitude":35.63823,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Nyezerera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924314
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"c162cc426375df553f51fbd6f319b26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293426795,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293426795,
+    "wof:lastmodified":1536873443,
+    "wof:name":"Nyezerera",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.63823,
+    -15.67938,
+    35.63823,
+    -15.67938
+],
+  "geometry": {"coordinates":[35.63823,-15.67938],"type":"Point"}
+}

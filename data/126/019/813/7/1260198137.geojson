@@ -1,0 +1,68 @@
+{
+  "id": 1260198137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.99702,-10.86551,33.99702,-10.86551",
+    "geom:latitude":-10.86551,
+    "geom:longitude":33.99702,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Phwangwa",
+    "gn:country_code":"MW",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924163,
+    "gn:latitude":-10.86551,
+    "gn:longitude":33.99702,
+    "gn:modification_date":"2011-06-09",
+    "gn:name":"Phwangwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phwampwa",
+        "Phwangwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924163
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"7d0cb2f6ffa7041d9740825a424f3462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1260198137,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260198137,
+    "wof:lastmodified":1537665831,
+    "wof:name":"Phwangwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.99702,
+    -10.86551,
+    33.99702,
+    -10.86551
+],
+  "geometry": {"coordinates":[33.99702,-10.86551],"type":"Point"}
+}

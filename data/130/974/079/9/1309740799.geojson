@@ -1,0 +1,64 @@
+{
+  "id": 1309740799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31667,-12.85,33.31667,-12.85",
+    "geom:latitude":-12.85,
+    "geom:longitude":33.31667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Nkhuzikuzi",
+    "gn:country_code":"MW",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":924691,
+    "gn:latitude":-12.85,
+    "gn:longitude":33.31667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Nkhuzikuzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":924691
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ddb1cdff12b391f0b90d84f56c678642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1309740799,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309740799,
+    "wof:lastmodified":1537023866,
+    "wof:name":"Nkhuzikuzi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31667,
+    -12.85,
+    33.31667,
+    -12.85
+],
+  "geometry": {"coordinates":[33.31667,-12.85],"type":"Point"}
+}

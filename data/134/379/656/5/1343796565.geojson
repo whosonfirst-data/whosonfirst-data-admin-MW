@@ -1,0 +1,64 @@
+{
+  "id": 1343796565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.37735,-13.61884,33.37735,-13.61884",
+    "geom:latitude":-13.61884,
+    "geom:longitude":33.37735,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Kawalika",
+    "gn:country_code":"MW",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":928342,
+    "gn:latitude":-13.61884,
+    "gn:longitude":33.37735,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kawalika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":928342
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"ea63c40ccdd1c3388164509ee3fab0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343796565,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343796565,
+    "wof:lastmodified":1536759044,
+    "wof:name":"Kawalika",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.37735,
+    -13.61884,
+    33.37735,
+    -13.61884
+],
+  "geometry": {"coordinates":[33.37735,-13.61884],"type":"Point"}
+}

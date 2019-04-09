@@ -1,0 +1,64 @@
+{
+  "id": 1310436409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53333,-13.66667,33.53333,-13.66667",
+    "geom:latitude":-13.66667,
+    "geom:longitude":33.53333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Mchoka",
+    "gn:country_code":"MW",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":926738,
+    "gn:latitude":-13.66667,
+    "gn:longitude":33.53333,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Mchoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":926738
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"fe03148764db1e92ece8e51443f38a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310436409,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310436409,
+    "wof:lastmodified":1537016019,
+    "wof:name":"Mchoka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53333,
+    -13.66667,
+    33.53333,
+    -13.66667
+],
+  "geometry": {"coordinates":[33.53333,-13.66667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309843055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.75683,-13.96339,33.75683,-13.96339",
+    "geom:latitude":-13.96339,
+    "geom:longitude":33.75683,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Thope",
+    "gn:country_code":"MW",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923680,
+    "gn:latitude":-13.96339,
+    "gn:longitude":33.75683,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Thope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thorpe",
+        "Thope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632383,
+        1108784755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923680
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"3e2e94582979a89de0897947df6f7263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":1309843055,
+            "region_id":1108784755
+        }
+    ],
+    "wof:id":1309843055,
+    "wof:lastmodified":1537665830,
+    "wof:name":"Thope",
+    "wof:parent_id":1108784755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.75683,
+    -13.96339,
+    33.75683,
+    -13.96339
+],
+  "geometry": {"coordinates":[33.75683,-13.96339],"type":"Point"}
+}

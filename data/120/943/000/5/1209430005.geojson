@@ -1,0 +1,62 @@
+{
+  "id": 1209430005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.16667,-11.68333,34.16667,-11.68333",
+    "geom:latitude":-11.68333,
+    "geom:longitude":34.16667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"17.0",
+    "gn:asciiname":"Gulugulu",
+    "gn:country_code":"MW",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929751,
+    "gn:latitude":-11.68333,
+    "gn:longitude":34.16667,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Gulugulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929751
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"dca8c2877b99bf9e386a0d5d519d3344",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209430005
+        }
+    ],
+    "wof:id":1209430005,
+    "wof:lastmodified":1536287263,
+    "wof:name":"Gulugulu",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.16667,
+    -11.68333,
+    34.16667,
+    -11.68333
+],
+  "geometry": {"coordinates":[34.16667,-11.68333],"type":"Point"}
+}

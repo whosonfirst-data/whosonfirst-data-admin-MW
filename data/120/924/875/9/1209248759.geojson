@@ -1,0 +1,62 @@
+{
+  "id": 1209248759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.00304,-15.77173,35.00304,-15.77173",
+    "geom:latitude":-15.77173,
+    "geom:longitude":35.00304,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Mbayani",
+    "gn:country_code":"MW",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204908,
+    "gn:latitude":-15.77173,
+    "gn:longitude":35.00304,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Mbayani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204908
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"2672437f7b1a1f871d9bad9a04d31e03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209248759
+        }
+    ],
+    "wof:id":1209248759,
+    "wof:lastmodified":1536293074,
+    "wof:name":"Mbayani",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00304000000001,
+    -15.771729999999998,
+    35.00304000000001,
+    -15.771729999999998
+],
+  "geometry": {"coordinates":[35.00304000000001,-15.77173],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1360115633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.00313,-15.8143,35.00313,-15.8143",
+    "geom:latitude":-15.8143,
+    "geom:longitude":35.00313,
+    "gn:admin1_code":"S",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Nkolokosa",
+    "gn:country_code":"MW",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429000,
+    "gn:latitude":-15.8143,
+    "gn:longitude":35.00313,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Nkolokosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429000
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"55876ac36a2e8e518b01c9a1afcb650b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1360115633,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360115633,
+    "wof:lastmodified":1536901734,
+    "wof:name":"Nkolokosa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00313,
+    -15.8143,
+    35.00313,
+    -15.8143
+],
+  "geometry": {"coordinates":[35.00313,-15.8143],"type":"Point"}
+}

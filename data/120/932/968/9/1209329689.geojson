@@ -1,0 +1,62 @@
+{
+  "id": 1209329689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56262,-12.10119,33.56262,-12.10119",
+    "geom:latitude":-12.10119,
+    "geom:longitude":33.56262,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Izaki Ngoyi",
+    "gn:country_code":"MW",
+    "gn:dem":1479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":929662,
+    "gn:latitude":-12.10119,
+    "gn:longitude":33.56262,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Izaki Ngoyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Blantyre",
+    "iso:country":"MW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":929662
+    },
+    "wof:country":"MW",
+    "wof:geomhash":"56da1d486b661e7f27101c147cb97e77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632383,
+            "locality_id":1209329689
+        }
+    ],
+    "wof:id":1209329689,
+    "wof:lastmodified":1536290412,
+    "wof:name":"Izaki Ngoyi",
+    "wof:parent_id":85632383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56262,
+    -12.10119,
+    33.56262,
+    -12.10119
+],
+  "geometry": {"coordinates":[33.56262,-12.10119],"type":"Point"}
+}
