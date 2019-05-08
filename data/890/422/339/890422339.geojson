@@ -13,8 +13,20 @@
     "gn:fcode":"ADM2",
     "gn:pop":362918,
     "iso:country":"MW",
+    "label:eng_x_preferred_longname":[
+        "Chikwawa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chikwawa"
+    ],
+    "name:eng_x_variant":[
+        "Chikwawa District"
+    ],
     "name:unk_x_variant":[
         "Lower River"
     ],
@@ -46,10 +58,11 @@
         }
     ],
     "wof:id":890422339,
-    "wof:lastmodified":1527727159,
-    "wof:name":"Chikwawa District",
+    "wof:lastmodified":1553722775,
+    "wof:name":"Chikwawa",
     "wof:parent_id":-1,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":362918,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-mw",

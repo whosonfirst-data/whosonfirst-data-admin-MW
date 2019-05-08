@@ -13,10 +13,19 @@
     "gn:fcode":"ADM2",
     "gn:pop":288028,
     "iso:country":"MW",
+    "label:eng_x_preferred_longname":[
+        "Salima District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "name:eng_x_preferred":[
         "Salima"
+    ],
+    "name:eng_x_variant":[
+        "Salima District"
     ],
     "qs:name":"Salima District",
     "qs:photos_9r":0,
@@ -46,10 +55,11 @@
         }
     ],
     "wof:id":890455825,
-    "wof:lastmodified":1527735397,
-    "wof:name":"Salima District",
+    "wof:lastmodified":1553722776,
+    "wof:name":"Salima",
     "wof:parent_id":-1,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":288028,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-mw",

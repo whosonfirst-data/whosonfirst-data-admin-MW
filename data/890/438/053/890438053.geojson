@@ -13,10 +13,19 @@
     "gn:fcode":"ADM2",
     "gn:pop":148763,
     "iso:country":"MW",
+    "label:eng_x_preferred_longname":[
+        "Mwanza District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "name:eng_x_preferred":[
         "Mwanza"
+    ],
+    "name:eng_x_variant":[
+        "Mwanza District"
     ],
     "qs:name":"Mwanza District",
     "qs:photos_9r":0,
@@ -46,10 +55,11 @@
         }
     ],
     "wof:id":890438053,
-    "wof:lastmodified":1527735421,
-    "wof:name":"Mwanza District",
+    "wof:lastmodified":1553722776,
+    "wof:name":"Mwanza",
     "wof:parent_id":-1,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":148763,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-mw",

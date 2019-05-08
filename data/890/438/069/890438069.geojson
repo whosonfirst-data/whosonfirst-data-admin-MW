@@ -13,10 +13,19 @@
     "gn:fcode":"ADM2",
     "gn:pop":462730,
     "iso:country":"MW",
+    "label:eng_x_preferred_longname":[
+        "Dowa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "name:eng_x_preferred":[
         "Dowa"
+    ],
+    "name:eng_x_variant":[
+        "Dowa District"
     ],
     "qs:name":"Dowa District",
     "qs:photos_9r":0,
@@ -46,10 +55,11 @@
         }
     ],
     "wof:id":890438069,
-    "wof:lastmodified":1527735425,
-    "wof:name":"Dowa District",
+    "wof:lastmodified":1553722776,
+    "wof:name":"Dowa",
     "wof:parent_id":-1,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":462730,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-mw",

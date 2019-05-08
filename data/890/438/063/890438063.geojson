@@ -13,10 +13,19 @@
     "gn:fcode":"ADM2",
     "gn:pop":594371,
     "iso:country":"MW",
+    "label:eng_x_preferred_longname":[
+        "Kasungu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "name:eng_x_preferred":[
         "Kasungu"
+    ],
+    "name:eng_x_variant":[
+        "Kasungu District"
     ],
     "qs:name":"Kasungu District",
     "qs:photos_9r":0,
@@ -46,10 +55,11 @@
         }
     ],
     "wof:id":890438063,
-    "wof:lastmodified":1527735422,
-    "wof:name":"Kasungu District",
+    "wof:lastmodified":1553722776,
+    "wof:name":"Kasungu",
     "wof:parent_id":-1,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":594371,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-mw",
