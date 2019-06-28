@@ -17,16 +17,10 @@
     "name:cat_x_preferred":[
         "Nkhotakota"
     ],
-    "name:chi_x_preferred":[
-        "\u6069\u79d1\u5854\u79d1\u5854"
-    ],
     "name:dan_x_preferred":[
         "Nkhotakota"
     ],
     "name:deu_x_preferred":[
-        "Nkhotakota"
-    ],
-    "name:dut_x_preferred":[
         "Nkhotakota"
     ],
     "name:eng_x_preferred":[
@@ -39,15 +33,6 @@
         "Nkhotakota"
     ],
     "name:fra_x_preferred":[
-        "Nkhotakota"
-    ],
-    "name:fre_x_preferred":[
-        "Nkhotakota"
-    ],
-    "name:ger_x_preferred":[
-        "Nkhotakota"
-    ],
-    "name:ice_x_preferred":[
         "Nkhotakota"
     ],
     "name:isl_x_preferred":[
@@ -71,16 +56,10 @@
     "name:nya_x_preferred":[
         "Nkhotakota"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u062e\u0648\u062a\u0627\u06a9\u0648\u062a\u0627"
-    ],
     "name:pol_x_preferred":[
         "Nkhotakota"
     ],
     "name:ron_x_preferred":[
-        "Nkhotakota"
-    ],
-    "name:rum_x_preferred":[
         "Nkhotakota"
     ],
     "name:swe_x_preferred":[
@@ -233,7 +212,7 @@
         }
     ],
     "wof:id":421174673,
-    "wof:lastmodified":1514485408,
+    "wof:lastmodified":1561749666,
     "wof:name":"Nkhotakota",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

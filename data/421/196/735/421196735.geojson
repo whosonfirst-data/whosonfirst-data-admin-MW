@@ -19,29 +19,23 @@
     "name:deu_x_preferred":[
         "Mponela"
     ],
-    "name:dut_x_preferred":[
-        "Mponela"
-    ],
     "name:eng_x_preferred":[
         "Mponela"
     ],
     "name:fas_x_preferred":[
         "\u0645\u067e\u0648\u0646\u0644\u0627"
     ],
-    "name:fre_x_preferred":[
-        "Mponela"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mponela"
     ],
     "name:ita_x_preferred":[
         "Mponela"
     ],
-    "name:nya_x_preferred":[
+    "name:nld_x_preferred":[
         "Mponela"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u067e\u0648\u0646\u0644\u0627"
+    "name:nya_x_preferred":[
+        "Mponela"
     ],
     "name:swe_x_preferred":[
         "Mponela"
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":421196735,
-    "wof:lastmodified":1527716365,
+    "wof:lastmodified":1561749666,
     "wof:name":"Mponela",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

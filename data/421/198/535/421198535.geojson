@@ -17,22 +17,19 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u062a\u064a\u0628\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u8482\u5e15"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chitipa"
     ],
     "name:eng_x_preferred":[
         "Chitipa"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u062a\u06cc\u067e\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Chitipa"
     ],
-    "name:ger_x_preferred":[
-        "Chitipa"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Chitipa"
     ],
     "name:ita_x_preferred":[
@@ -41,16 +38,16 @@
     "name:lit_x_preferred":[
         "\u010citipa"
     ],
-    "name:nya_x_preferred":[
+    "name:nld_x_preferred":[
         "Chitipa"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u06cc\u062a\u06cc\u067e\u0627"
+    "name:nya_x_preferred":[
+        "Chitipa"
     ],
     "name:por_x_preferred":[
         "Chitipa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chitipa"
     ],
     "name:srp_x_preferred":[
@@ -64,6 +61,9 @@
     ],
     "name:unk_x_variant":[
         "Chipita"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u8482\u5e15"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Malawi",
@@ -203,7 +203,7 @@
         }
     ],
     "wof:id":421198535,
-    "wof:lastmodified":1527716348,
+    "wof:lastmodified":1561749666,
     "wof:name":"Chitipa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

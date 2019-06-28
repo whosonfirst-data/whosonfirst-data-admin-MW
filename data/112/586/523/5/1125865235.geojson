@@ -33,35 +33,29 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043b\u043e\u043c\u0431\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u9686\u8c9d\u7e23"
-    ],
     "name:dan_x_preferred":[
         "Phalombe District"
     ],
-    "name:dut_x_preferred":[
-        "Phalombe"
+    "name:deu_x_preferred":[
+        "Distrikt Phalombe"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03bb\u03cc\u03bc\u03c0\u03b5"
     ],
     "name:eng_x_preferred":[
         "Phalombe District"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u067e\u0647\u0627\u0644\u0648\u0645\u0628\u0647"
+    ],
     "name:fin_x_preferred":[
         "Phalomben piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Phalombe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d0\u10da\u10dd\u10db\u10d1\u10d4\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Phalombe"
     ],
     "name:glg_x_preferred":[
         "Distrito de Phalombe"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b1\u03bb\u03cc\u03bc\u03c0\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0abe\u0ab2\u0acb\u0aae\u0acd\u0aac\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -81,6 +75,9 @@
     "name:kan_x_preferred":[
         "\u0cab\u0cb2\u0ccb\u0c82\u0cac\u0cc6 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10da\u10dd\u10db\u10d1\u10d4\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud314\ub86c\ubca0 \ud604"
     ],
@@ -93,8 +90,11 @@
     "name:mar_x_preferred":[
         "\u092b\u0932\u094b\u092e\u092c\u0947 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Phalombe District"
+    ],
+    "name:nld_x_preferred":[
+        "Phalombe"
     ],
     "name:nob_x_preferred":[
         "Phalombe"
@@ -102,16 +102,13 @@
     "name:nya_x_preferred":[
         "Phalombe"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u062e\u0634 \u067e\u0647\u0627\u0644\u0648\u0645\u0628\u0647"
-    ],
     "name:pol_x_preferred":[
         "Dystrykt Phalombe"
     ],
     "name:por_x_preferred":[
         "Phalombe"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Phalombe"
     ],
     "name:rus_x_preferred":[
@@ -149,6 +146,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Phalombe"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u9686\u8c9d\u7e23"
     ],
     "qs_pg:aaroncc":"MW",
     "qs_pg:gn_country":"MW",
@@ -198,7 +198,7 @@
         }
     ],
     "wof:id":1125865235,
-    "wof:lastmodified":1514485409,
+    "wof:lastmodified":1561749667,
     "wof:name":"Phalombe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

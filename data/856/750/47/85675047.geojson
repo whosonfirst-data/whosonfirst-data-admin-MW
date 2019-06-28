@@ -6,7 +6,7 @@
     "edtf:deprecated":"2016-12-15",
     "edtf:inception":"uuuu",
     "geom:area":0.506472,
-    "geom:area_square_m":6076021179.101735,
+    "geom:area_square_m":6076021179.101279,
     "geom:bbox":"33.2456526549,-14.5940389963,34.278998399,-13.4851127913",
     "geom:latitude":-14.020324,
     "geom:longitude":33.684337,
@@ -31,9 +31,6 @@
     "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
-    "name:chi_x_preferred":[
-        "\u5229\u9686\u572d"
-    ],
     "name:eng_x_preferred":[
         "Lilongwe"
     ],
@@ -42,6 +39,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9b4\ub871\uada4"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u9686\u572d"
     ],
     "qs:a0":"Malawi",
     "qs:a0_lc":"MW",
@@ -92,7 +92,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1529540338,
+    "wof:lastmodified":1561749656,
     "wof:name":"Lilongwe",
     "wof:parent_id":85632383,
     "wof:placetype":"region",
