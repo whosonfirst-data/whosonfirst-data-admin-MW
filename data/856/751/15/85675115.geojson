@@ -39,7 +39,7 @@
     "name:deu_x_preferred":[
         "Likoma"
     ],
-    "name:deu_x_variant":[],
+    "name:ell_x_preferred":[],
     "name:eng_x_colloquial":[],
     "name:eng_x_preferred":[
         "Nkhata Bay"
@@ -49,15 +49,11 @@
     "name:fra_x_preferred":[
         "Likoma"
     ],
-    "name:fra_x_variant":[],
     "name:fre_x_colloquial":[],
-    "name:fre_x_preferred":[],
     "name:fre_x_variant":[],
     "name:ger_x_colloquial":[],
-    "name:ger_x_preferred":[],
     "name:ger_x_variant":[],
     "name:gre_x_colloquial":[],
-    "name:gre_x_preferred":[],
     "name:gre_x_variant":[],
     "name:hin_x_colloquial":[],
     "name:hin_x_preferred":[],
@@ -88,7 +84,6 @@
     "name:ron_x_preferred":[
         "Likoma"
     ],
-    "name:ron_x_variant":[],
     "name:rus_x_colloquial":[],
     "name:rus_x_preferred":[],
     "name:rus_x_variant":[],
@@ -103,7 +98,6 @@
     "name:vie_x_variant":[],
     "name:zho_x_colloquial":[],
     "name:zho_x_preferred":[],
-    "name:zho_x_variant":[],
     "qs:a0":"Malawi",
     "qs:a0_lc":"MW",
     "qs:a1":"Likoma",
@@ -156,7 +150,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1553550472,
+    "wof:lastmodified":1561749656,
     "wof:name":"Likoma",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

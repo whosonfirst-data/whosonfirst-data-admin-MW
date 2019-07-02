@@ -15,19 +15,16 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5229\u7fc1\u4ee3"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Liwonde"
     ],
     "name:eng_x_preferred":[
         "Liwonde"
     ],
-    "name:fre_x_preferred":[
-        "Liwonde"
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0648\u0648\u0646\u062f\u0647"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Liwonde"
     ],
     "name:ita_x_preferred":[
@@ -42,11 +39,11 @@
     "name:lit_x_preferred":[
         "Livond\u0117"
     ],
-    "name:nya_x_preferred":[
+    "name:nld_x_preferred":[
         "Liwonde"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u0648\u0648\u0646\u062f\u0647"
+    "name:nya_x_preferred":[
+        "Liwonde"
     ],
     "name:pol_x_preferred":[
         "Liwonde"
@@ -65,6 +62,9 @@
     ],
     "name:unk_x_variant":[
         "Old Liwonde Boma"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u7fc1\u4ee3"
     ],
     "qs:name":"Liwonde",
     "qs:photos_9r":0,
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":890441735,
-    "wof:lastmodified":1527727231,
+    "wof:lastmodified":1561749667,
     "wof:name":"Liwonde",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Monkey Bay"
     ],
-    "name:dut_x_preferred":[
-        "Monkey Bay"
-    ],
     "name:eng_x_preferred":[
         "Monkey Bay"
     ],
@@ -34,16 +31,7 @@
     "name:fra_x_preferred":[
         "Monkey Bay"
     ],
-    "name:fre_x_preferred":[
-        "Monkey Bay"
-    ],
-    "name:ger_x_preferred":[
-        "Monkey Bay"
-    ],
     "name:hun_x_preferred":[
-        "Monkey Bay"
-    ],
-    "name:ice_x_preferred":[
         "Monkey Bay"
     ],
     "name:isl_x_preferred":[
@@ -63,9 +51,6 @@
     ],
     "name:nya_x_preferred":[
         "Monkey Bay"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0646\u06a9\u06cc \u0628\u0627\u06cc"
     ],
     "name:pol_x_preferred":[
         "Monkey Bay"
@@ -123,7 +108,7 @@
         }
     ],
     "wof:id":421187477,
-    "wof:lastmodified":1553816376,
+    "wof:lastmodified":1561749666,
     "wof:name":"Monkey Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016664,
-    "geom:area_square_m":199960855.37524,
+    "geom:area_square_m":199960855.375248,
     "geom:bbox":"33.7145038843,-14.0603027274,33.88308669,-13.8847886369",
     "geom:latitude":-13.966897,
     "geom:longitude":33.785858,
@@ -20,17 +20,11 @@
     "name:afr_x_preferred":[
         "Lilongwe"
     ],
-    "name:alb_x_preferred":[
-        "Lilongwe"
-    ],
     "name:amh_x_preferred":[
         "\u120a\u120e\u1295\u1314"
     ],
     "name:ara_x_preferred":[
         "\u0644\u064a\u0644\u0648\u0646\u063a\u0648\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u056c\u0578\u0576\u0563\u057e\u0565"
     ],
     "name:ast_x_preferred":[
         "Lilong\u00fce"
@@ -40,9 +34,6 @@
     ],
     "name:aze_x_preferred":[
         "Lilonqve"
-    ],
-    "name:baq_x_preferred":[
-        "Lilongwe"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0456\u043b\u043e\u043d\u0433\u0432\u044d"
@@ -68,16 +59,16 @@
     "name:cdo_x_preferred":[
         "Lilongwe"
     ],
+    "name:ces_x_preferred":[
+        "Lilongwe"
+    ],
     "name:che_x_preferred":[
         "\u041b\u0438\u043b\u043e\u043d\u0433\u0432\u0435"
-    ],
-    "name:chi_x_preferred":[
-        "\u5229\u9686\u572d"
     ],
     "name:ckb_x_preferred":[
         "\u0644\u06cc\u0644\u06c6\u0646\u06af\u0648\u06ce"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Lilongwe"
     ],
     "name:dan_x_preferred":[
@@ -87,9 +78,6 @@
         "Lilongwe"
     ],
     "name:dsb_x_preferred":[
-        "Lilongwe"
-    ],
-    "name:dut_x_preferred":[
         "Lilongwe"
     ],
     "name:ell_x_preferred":[
@@ -104,6 +92,9 @@
     "name:est_x_preferred":[
         "Lilongwe"
     ],
+    "name:eus_x_preferred":[
+        "Lilongwe"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u06cc\u0644\u0648\u0646\u06af\u0648\u0647"
     ],
@@ -113,19 +104,10 @@
     "name:fra_x_preferred":[
         "Lilongwe"
     ],
-    "name:fre_x_preferred":[
-        "Lilongwe"
-    ],
     "name:frr_x_preferred":[
         "Lilongwe"
     ],
     "name:fry_x_preferred":[
-        "Lilongwe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10da\u10dd\u10dc\u10d2\u10d5\u10d4"
-    ],
-    "name:ger_x_preferred":[
         "Lilongwe"
     ],
     "name:gla_x_preferred":[
@@ -136,9 +118,6 @@
     ],
     "name:glg_x_preferred":[
         "Lilongwe"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03bb\u03cc\u03bd\u03b3\u03ba\u03bf\u03c5\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0ab2\u0acb\u0a82\u0a97\u0acd\u0ab5\u0ac7"
@@ -169,9 +148,6 @@
     ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u056c\u0578\u0576\u0563\u057e\u0565"
-    ],
-    "name:ice_x_preferred":[
-        "L\u00edlongve"
     ],
     "name:ido_x_preferred":[
         "Lilongwe"
@@ -233,17 +209,11 @@
     "name:ltz_x_preferred":[
         "Lilongwe"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0438\u043b\u043e\u043d\u0433\u0432\u0435"
-    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3f\u0d32\u0d4b\u0d7b\u0d17\u0d4d\u0d35\u0d47"
     ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u0932\u093e\u0901\u0917\u094d\u0935\u0947"
-    ],
-    "name:may_x_preferred":[
-        "Lilongwe"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u0438\u043b\u043e\u043d\u0433\u0432\u0435"
@@ -253,6 +223,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u041b\u0438\u043b\u043e\u043d\u0433\u0432\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Lilongwe"
     ],
     "name:nah_x_preferred":[
         "Lilonhue"
@@ -293,9 +266,6 @@
     "name:pap_x_preferred":[
         "Lilongwe"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u0644\u0648\u0646\u06af\u0648\u0647"
-    ],
     "name:pms_x_preferred":[
         "Lilongwe"
     ],
@@ -308,7 +278,7 @@
     "name:por_x_preferred":[
         "Lilongwe"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lilongwe"
     ],
     "name:rus_x_preferred":[
@@ -326,9 +296,6 @@
     "name:slk_x_preferred":[
         "Lilongwe"
     ],
-    "name:slo_x_preferred":[
-        "Lilongwe"
-    ],
     "name:slv_x_preferred":[
         "Lilongwe"
     ],
@@ -343,6 +310,9 @@
     ],
     "name:spa_x_variant":[
         "Lilong\u00fce"
+    ],
+    "name:sqi_x_preferred":[
+        "Lilongwe"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u043b\u043e\u043d\u0433\u0432\u0435"
@@ -367,9 +337,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e34\u0e25\u0e2d\u0e07\u0e40\u0e27"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f63\u0f72\u0f0b\u0f63\u0f7c\u0f44\u0f0b\u0f40\u0f74\u0f60\u0f7a\u0f0d"
     ],
     "name:tum_x_preferred":[
         "Lilongwe"
@@ -402,9 +369,6 @@
         "Lilongwe"
     ],
     "name:war_x_preferred":[
-        "Lilongwe"
-    ],
-    "name:wel_x_preferred":[
         "Lilongwe"
     ],
     "name:wol_x_preferred":[
@@ -562,7 +526,7 @@
     },
     "wof:country":"MW",
     "wof:created":1459008780,
-    "wof:geomhash":"e8afda0b0430ba65d1fef042a2658e8b",
+    "wof:geomhash":"aa87de802bd4969eacf12a5f73c97ef0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -571,7 +535,7 @@
         }
     ],
     "wof:id":421168781,
-    "wof:lastmodified":1552519481,
+    "wof:lastmodified":1561749665,
     "wof:name":"Lilongwe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -584,9 +548,9 @@
 },
   "bbox": [
     33.71450388425908,
-    -14.060302727358723,
+    -14.06030272735872,
     33.88308668997008,
-    -13.884788636934104
+    -13.8847886369341
 ],
   "geometry": {"coordinates":[[[33.71818875432927,-13.96108963151146],[33.71450388425908,-13.92294228287159],[33.71450388425908,-13.91459671037084],[33.71603924678832,-13.91101994423752],[33.72033826187021,-13.90803926354663],[33.72555849446964,-13.90714505185145],[33.7366131046802,-13.90595276421587],[33.74459698983227,-13.90177970911993],[33.75135258496094,-13.90237586445424],[33.75165965746678,-13.8987989094205],[33.7611789051481,-13.89790466202732],[33.77530424041715,-13.89313528427654],[33.78850835816864,-13.89373146186641],[33.79035079320374,-13.88508673665878],[33.79434273577977,-13.8847886369341],[33.8127670861307,-13.8892600925441],[33.8247429138588,-13.92413448291962],[33.82658534889389,-13.93456597094235],[33.85759967198462,-13.95334146174517],[33.85545016444369,-13.97151944868423],[33.86804013718349,-13.97300938401462],[33.88308668997008,-13.97867105033903],[33.86189868706651,-13.98999396514571],[33.85790674449048,-13.99863476193806],[33.84961578683256,-14.00399785173577],[33.84900164182086,-14.00638140701703],[33.84040361165709,-14.00965875514142],[33.82934900144653,-14.01800088473805],[33.82382169634126,-14.03140724339468],[33.81798731873013,-14.03587585544868],[33.81553073868334,-14.03796117792601],[33.81399537615409,-14.04242966218808],[33.81123172360145,-14.04630227804485],[33.80601149100202,-14.05434519402433],[33.80171247592014,-14.06030272735872],[33.79250030074468,-14.04808961712381],[33.78912250318034,-14.0409401771175],[33.78451641559261,-14.04034438037777],[33.78021740051072,-14.03885488175019],[33.77499716791129,-14.03825907958803],[33.77192644285281,-14.03796117792601],[33.76916279030017,-14.0409401771175],[33.76824157278262,-14.04600438684212],[33.76578499273583,-14.04153597230784],[33.76424963020659,-14.03617375982145],[33.76424963020659,-14.03140724339468],[33.76210012266565,-14.0272364602274],[33.75780110758377,-14.03140724339468],[33.75258087498433,-14.0272364602274],[33.7347706696451,-14.01561745007326],[33.73262116210416,-14.01114844337263],[33.73262116210416,-14.00369990558668],[33.7234089869287,-13.98045891603741],[33.71818875432927,-13.96108963151146]]],"type":"Polygon"}
 }

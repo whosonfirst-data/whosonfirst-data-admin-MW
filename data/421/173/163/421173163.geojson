@@ -24,16 +24,10 @@
     "name:bre_x_preferred":[
         "Mzuzu"
     ],
-    "name:chi_x_preferred":[
-        "\u59c6\u7956\u7956"
-    ],
     "name:dan_x_preferred":[
         "Mzuzu"
     ],
     "name:deu_x_preferred":[
-        "Mzuzu"
-    ],
-    "name:dut_x_preferred":[
         "Mzuzu"
     ],
     "name:ell_x_preferred":[
@@ -54,29 +48,14 @@
     "name:fra_x_preferred":[
         "Mzuzu"
     ],
-    "name:fre_x_preferred":[
-        "Mzuzu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d6\u10e3\u10d6\u10e3"
-    ],
-    "name:ger_x_preferred":[
-        "Mzuzu"
-    ],
     "name:glg_x_preferred":[
         "Mzuzu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b6\u03bf\u03cd\u03b6\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0a9d\u0ac1\u0a9d\u0ac1"
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u0942 \u091c\u093c\u0942"
-    ],
-    "name:ice_x_preferred":[
-        "Mzuzu"
     ],
     "name:ind_x_preferred":[
         "Mzuzu"
@@ -108,7 +87,7 @@
     "name:mar_x_preferred":[
         "\u092e\u091d\u0942\u091d\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mzuzu"
     ],
     "name:nld_x_preferred":[
@@ -120,9 +99,6 @@
     "name:nya_x_preferred":[
         "Mzuzu"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0632\u0648\u0632\u0648"
-    ],
     "name:pol_x_preferred":[
         "Mzuzu"
     ],
@@ -130,9 +106,6 @@
         "Mzuzu"
     ],
     "name:ron_x_preferred":[
-        "Mzuzu"
-    ],
-    "name:rum_x_preferred":[
         "Mzuzu"
     ],
     "name:rus_x_preferred":[
@@ -227,7 +200,7 @@
         }
     ],
     "wof:id":421173163,
-    "wof:lastmodified":1534379381,
+    "wof:lastmodified":1561749666,
     "wof:name":"Mzuzu",
     "wof:parent_id":1108784759,
     "wof:placetype":"locality",

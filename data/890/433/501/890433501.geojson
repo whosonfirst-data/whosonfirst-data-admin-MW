@@ -24,32 +24,26 @@
     "name:ben_x_preferred":[
         "\u09a5\u09cb\u09af\u09bc\u09cb\u09b2\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u55ac\u6d1b"
-    ],
     "name:dan_x_preferred":[
         "Thyolo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Thyolo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c5\u03cc\u03bb\u03bf"
     ],
     "name:eng_x_preferred":[
         "Thyolo"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0648\u0644\u0648"
+    ],
     "name:fin_x_preferred":[
         "Thyolo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Thyolo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d8\u10dd\u10da\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Thyolo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c5\u03cc\u03bb\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aa5\u0abf\u0a93\u0ab2\u0acb"
@@ -69,6 +63,9 @@
     "name:kan_x_preferred":[
         "\u0ca5\u0cbf\u0caf\u0ccb\u0cb2\u0ccb"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d8\u10dd\u10da\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ud2f0\uc62c\ub85c"
     ],
@@ -81,7 +78,10 @@
     "name:mar_x_preferred":[
         "\u0925\u093f\u092f\u094b\u0932\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Thyolo"
+    ],
+    "name:nld_x_preferred":[
         "Thyolo"
     ],
     "name:nob_x_preferred":[
@@ -90,16 +90,13 @@
     "name:nya_x_preferred":[
         "Thyolo"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u06cc\u0648\u0644\u0648"
-    ],
     "name:pol_x_preferred":[
         "Thyolo"
     ],
     "name:por_x_preferred":[
         "Thyolo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Thyolo"
     ],
     "name:rus_x_preferred":[
@@ -138,6 +135,9 @@
     "name:vie_x_preferred":[
         "Thyolo"
     ],
+    "name:zho_x_preferred":[
+        "\u55ac\u6d1b"
+    ],
     "qs:name":"Thyolo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -169,7 +169,7 @@
         }
     ],
     "wof:id":890433501,
-    "wof:lastmodified":1527792954,
+    "wof:lastmodified":1561749667,
     "wof:name":"Thyolo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

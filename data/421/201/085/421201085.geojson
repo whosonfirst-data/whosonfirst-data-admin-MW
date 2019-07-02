@@ -17,13 +17,7 @@
     "name:ara_x_preferred":[
         "\u0645\u0634\u064a\u0646\u062c\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u59c6\u94a6\u5409"
-    ],
     "name:deu_x_preferred":[
-        "Mchinji"
-    ],
-    "name:dut_x_preferred":[
         "Mchinji"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
         "\u0645\u0686\u06cc\u0646\u062c\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Mchinji"
-    ],
-    "name:fre_x_preferred":[
-        "Mchinji"
-    ],
-    "name:ger_x_preferred":[
         "Mchinji"
     ],
     "name:ita_x_preferred":[
@@ -59,16 +47,10 @@
     "name:nya_x_preferred":[
         "Mchinji"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0686\u06cc\u0646\u062c\u06cc"
-    ],
     "name:por_x_preferred":[
         "Mchinji"
     ],
     "name:ron_x_preferred":[
-        "Mchinji"
-    ],
-    "name:rum_x_preferred":[
         "Mchinji"
     ],
     "name:swe_x_preferred":[
@@ -218,7 +200,7 @@
         }
     ],
     "wof:id":421201085,
-    "wof:lastmodified":1514485406,
+    "wof:lastmodified":1561749666,
     "wof:name":"Mchinji",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
