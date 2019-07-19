@@ -21,14 +21,131 @@
     ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u062e\u0644\u064a\u062c \u0646\u062e\u0627\u062a\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Nkhata Bay"
+    ],
+    "name:bre_x_preferred":[
+        "Nkhata Bay"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0445\u0430\u0442\u0430 \u0411\u0435\u0439"
+    ],
+    "name:ceb_x_preferred":[
+        "Nkhata Bay District"
+    ],
+    "name:dan_x_preferred":[
+        "Nkhata Bay District"
+    ],
+    "name:deu_x_preferred":[
+        "Nkhata Bay Distrikt"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u039d\u03c7\u03ac\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Nkhata Bay"
     ],
     "name:eng_x_variant":[
         "Nkhata Bay District"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0646\u06a9\u0647\u0627\u062a\u0627 \u0628\u0627\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Nkhata Bayn piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "Nkhata Bay"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0a96\u0abe\u0aa4\u0abe \u0aac\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0916\u093e\u0924\u093e \u092c\u0947 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Nkhata Bay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30bf\u30d9\u30a4\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cc6\u0c96\u0ca4\u0cbe \u0cac\u0cc7 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10ee\u10d0\u10e2\u10d0 \u10d1\u10d0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc740\uce74\ud0c0\ubca0\uc774 \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Nkhatabejas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Nkata B\u0117jaus apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u0916\u093e\u0924\u093e \u092c\u0947 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Nkhata Bay District"
+    ],
+    "name:nld_x_preferred":[
+        "Nkhata Bay"
+    ],
+    "name:nob_x_preferred":[
+        "Nkhata Bay"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Nkhata Bay"
+    ],
+    "name:por_x_preferred":[
+        "Nkhata Bay"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Nkhata Bay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043a\u0430\u0442\u0430-\u0411\u0435\u0439"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0db1\u0dca\u0d9b\u0da7\u0dcf \u0d9a\u0dbd\u0db4\u0dd4 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0445\u0430\u0442\u0430 \u0411\u0435\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Nkhata Bay"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0b95\u0bbe\u0b9f\u0bbe \u0baa\u0bc7  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c28\u0c4d\u200c\u200c\u0c16\u0c3e\u0c1f\u0c3e \u0c2c\u0c47 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e04\u0e2e\u0e32\u0e17\u0e32 \u0e40\u0e1a\u0e22\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Nkhata Bay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u041d\u0445\u0430\u0442\u0430-\u0411\u0435\u0439"
+    ],
     "name:unk_x_variant":[
         "Chinteche District"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u062e\u0627\u062a\u0627 \u0628\u06d2 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Nkhata Bay"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u5361\u5854\u7063\u7e23"
     ],
     "qs:name":"Nkhata Bay District",
     "qs:photos_9r":0,
@@ -58,7 +175,7 @@
         }
     ],
     "wof:id":890438045,
-    "wof:lastmodified":1553722776,
+    "wof:lastmodified":1563578929,
     "wof:name":"Nkhata Bay",
     "wof:parent_id":-1,
     "wof:placetype":"county",

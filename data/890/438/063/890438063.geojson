@@ -21,11 +21,131 @@
     ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u0633\u0648\u0646\u063a\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Kasungu"
+    ],
+    "name:bel_x_preferred":[
+        "\u0440\u0430\u0451\u043d \u041a\u0430\u0441\u0443\u043d\u0433\u0443"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b8\u09cb\u0997\u09c1 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Kasungu"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0441\u0443\u043d\u0433\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Kasungu District"
+    ],
+    "name:dan_x_preferred":[
+        "Kasungu District"
+    ],
+    "name:deu_x_preferred":[
+        "Kasungu-Distrikt"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd"
+    ],
     "name:eng_x_preferred":[
         "Kasungu"
     ],
     "name:eng_x_variant":[
         "Kasungu District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u06a9\u0627\u0633\u0648\u0646\u06af\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Kasungun piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "Kasungu"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abe\u0ab8\u0ac1\u0aa8\u0acd\u0a97\u0ac1 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0938\u0941\u0902\u0917\u0941 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Kasungu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b9\u30f3\u30b0\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cb8\u0ccd\u0cb8\u0c82\u0c97\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e1\u10e3\u10dc\u10d2\u10e3\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uc22d\uad6c \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Kasungu distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Kasungo apskritis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d38\u0d41\u0d19\u0d41 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u093e\u0938\u0902\u0917\u0941 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Kasungu"
+    ],
+    "name:nld_x_preferred":[
+        "Kasungu"
+    ],
+    "name:nob_x_preferred":[
+        "Kasungu"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Kasungu"
+    ],
+    "name:por_x_preferred":[
+        "Kasungu"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Kasungu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0443\u043d\u0433\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dc3\u0dd4\u0db1\u0dca\u0d9c\u0dd4 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:swe_x_preferred":[
+        "Kasungu"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c38\u0c41\u0c02\u0c17\u0c41 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e04\u0e32\u0e0b\u0e38\u0e19\u0e01\u0e39"
+    ],
+    "name:tur_x_preferred":[
+        "Kasungu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u041a\u0430\u0441\u0443\u043d\u0433\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0633\u0648\u0646\u062c\u0648 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Kasungu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u677e\u53e4\u7e23"
     ],
     "qs:name":"Kasungu District",
     "qs:photos_9r":0,
@@ -55,7 +175,7 @@
         }
     ],
     "wof:id":890438063,
-    "wof:lastmodified":1553722776,
+    "wof:lastmodified":1563578928,
     "wof:name":"Kasungu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

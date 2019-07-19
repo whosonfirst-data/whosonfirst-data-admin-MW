@@ -21,14 +21,134 @@
     ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0631\u0648\u0645\u0641\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Rumphi"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09c1\u09ae\u09cd\u09aa\u09bf \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Rumphi"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0443\u043c\u0444\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Rumphi District"
+    ],
+    "name:dan_x_preferred":[
+        "Rumphi"
+    ],
+    "name:deu_x_preferred":[
+        "Rumphi-Distrikt"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03cd\u03bc\u03c6\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Rumphi"
     ],
     "name:eng_x_variant":[
         "Rumphi District"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0631\u0627\u0645\u0641\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Rumphin piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "Rumphi"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0ac1\u0aae\u0acd\u0aab\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0941\u092e\u094d\u092b\u0940 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Rumphi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30f3\u30d4\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0c82\u0cab\u0cbf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10e3\u10db\u10e4\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8f8\ud53c \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Rumfi distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Rumfio apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u0902\u092b\u093f \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Rumphi District"
+    ],
+    "name:nld_x_preferred":[
+        "Rumphi"
+    ],
+    "name:nob_x_preferred":[
+        "Rumphi"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Rumphi"
+    ],
+    "name:por_x_preferred":[
+        "Rumphi"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Rumphi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u043c\u043f\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0db8\u0dca\u0db4\u0dca\u0dc4\u0dd2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u043c\u0444\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Rumphi"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bbe\u0bae\u0baa\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c41\u0c02\u0c2b\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e23\u0e31\u0e21\u0e1f\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Rumphi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u0420\u0443\u043c\u0444\u0456"
+    ],
     "name:unk_x_variant":[
         "Rumpi District"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0645\u067e\u062d\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Rumphi"
+    ],
+    "name:zho_x_preferred":[
+        "\u502b\u6bd4\u7e23"
     ],
     "qs:name":"Rumphi District",
     "qs:photos_9r":0,
@@ -58,7 +178,7 @@
         }
     ],
     "wof:id":890455827,
-    "wof:lastmodified":1553722776,
+    "wof:lastmodified":1563578923,
     "wof:name":"Rumphi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

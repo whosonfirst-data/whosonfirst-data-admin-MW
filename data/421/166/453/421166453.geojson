@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0686\u06cc\u0646 \u062a\u0686\u0647"
+    ],
     "name:eng_x_preferred":[
         "Chintheche"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":421166453,
-    "wof:lastmodified":1561749665,
+    "wof:lastmodified":1563578906,
     "wof:name":"Chintheche",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

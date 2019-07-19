@@ -14,16 +14,28 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mwanza"
+    ],
     "name:deu_x_preferred":[
         "Mwanza"
     ],
     "name:eng_x_preferred":[
         "Mwanza"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30ef\u30f3\u30b6"
+    ],
     "name:nld_x_preferred":[
         "Mwanza"
     ],
     "name:nya_x_preferred":[
+        "Mwanza"
+    ],
+    "name:pol_x_preferred":[
+        "Mwanza"
+    ],
+    "name:swe_x_preferred":[
         "Mwanza"
     ],
     "name:tur_x_preferred":[
@@ -165,7 +177,7 @@
         }
     ],
     "wof:id":421200259,
-    "wof:lastmodified":1561749666,
+    "wof:lastmodified":1563578915,
     "wof:name":"Mwanza",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
