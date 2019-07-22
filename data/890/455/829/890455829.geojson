@@ -21,14 +21,74 @@
     ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Thyolo"
+    ],
+    "name:bre_x_preferred":[
+        "Thyolo"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0445\u0438\u043e\u043b\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Thyolo District"
+    ],
     "name:eng_x_preferred":[
         "Thyolo"
     ],
     "name:eng_x_variant":[
         "Thyolo District"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u062a\u06cc\u0648\u0644\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Thyolon piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "Thyolo"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Thyolo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e7\u30ed\u770c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d8\u10dd\u10da\u10dd\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2f0\uc62c\ub85c \ud604"
+    ],
+    "name:nld_x_preferred":[
+        "Thyolo"
+    ],
+    "name:nob_x_preferred":[
+        "Thyolo"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Thyolo"
+    ],
+    "name:por_x_preferred":[
+        "Thyolo"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Thyolo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u043e\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Thyolo"
+    ],
+    "name:tur_x_preferred":[
+        "Thyolo"
+    ],
     "name:unk_x_variant":[
         "Cholo District"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u7d04\u7f85\u7e23"
     ],
     "qs:name":"Thyolo District",
     "qs:photos_9r":0,
@@ -58,7 +118,7 @@
         }
     ],
     "wof:id":890455829,
-    "wof:lastmodified":1553722776,
+    "wof:lastmodified":1563578924,
     "wof:name":"Thyolo",
     "wof:parent_id":-1,
     "wof:placetype":"county",

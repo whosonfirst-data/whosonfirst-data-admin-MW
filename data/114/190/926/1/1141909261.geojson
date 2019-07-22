@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0632\u0648\u0632\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0632\u0648\u0632\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u099c\u09c1"
     ],
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":1141909261,
-    "wof:lastmodified":1561749672,
+    "wof:lastmodified":1563579144,
     "wof:name":"Mzuzu",
     "wof:parent_id":85675015,
     "wof:placetype":"locality",

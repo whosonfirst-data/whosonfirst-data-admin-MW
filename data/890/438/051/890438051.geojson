@@ -21,11 +21,131 @@
     ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0632\u064a\u0645\u0628\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Mzimba"
+    ],
+    "name:bel_x_preferred":[
+        "\u0440\u0430\u0451\u043d \u041c\u0437\u0456\u043c\u0431\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09ae\u099c\u09bf\u09ae\u09cd\u09ac\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Mzimba"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0437\u0438\u043c\u0431\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Mzimba District"
+    ],
+    "name:dan_x_preferred":[
+        "Mzimba District"
+    ],
+    "name:deu_x_preferred":[
+        "Mzimba-Distrikt"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b6\u03af\u03bc\u03c0\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Mzimba"
     ],
     "name:eng_x_variant":[
         "Mzimba District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0645\u0632\u06cc\u0645\u0628\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Mzimban piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "Mzimba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0a9d\u0ac0\u0aac\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u093f\u092e\u094d\u092c\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Mzimba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30b8\u30f3\u30d0\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbf\u0c9c\u0cbf\u0c82\u0cac \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d6\u10d8\u10db\u10d1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc74c\uc9d0\ubc14 \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Mzimbas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Mzimbos apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u091d\u0940\u092c\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Mzimba District"
+    ],
+    "name:nld_x_preferred":[
+        "Mzimba"
+    ],
+    "name:nob_x_preferred":[
+        "Mzimba"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Mzimba"
+    ],
+    "name:por_x_preferred":[
+        "Mzimba"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Mzimba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0437\u0438\u043c\u0431\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dc3\u0dd2\u0db8\u0dca\u0db6\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0437\u0438\u043c\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mzimba"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c02\u0c1c\u0c3f\u0c02\u0c2c\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e40\u0e2d\u0e47\u0e21\u0e0b\u0e34\u0e21\u0e1a\u0e49\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Mzimba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u041c\u0437\u0456\u043c\u0431\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0632\u06cc\u0645\u0628\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Mzimba"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u6d25\u5df4\u7e23"
     ],
     "qs:name":"Mzimba District",
     "qs:photos_9r":0,
@@ -55,7 +175,7 @@
         }
     ],
     "wof:id":890438051,
-    "wof:lastmodified":1553722776,
+    "wof:lastmodified":1563578932,
     "wof:name":"Mzimba",
     "wof:parent_id":-1,
     "wof:placetype":"county",

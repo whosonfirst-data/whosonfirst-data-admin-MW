@@ -19,8 +19,17 @@
     "name:ara_x_preferred":[
         "\u062d\u064a \u0645\u0627\u0634\u064a\u0646\u063a\u0627\u060c \u0645\u0627\u0644\u0627\u0648\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u062d\u064a \u0645\u0627\u0634\u064a\u0646\u063a\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Machinga"
+    ],
     "name:eng_x_preferred":[
         "Machinga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c1\u30f3\u30ac"
     ],
     "name:nld_x_preferred":[
         "Machinga"
@@ -29,6 +38,9 @@
         "Machinga"
     ],
     "name:por_x_preferred":[
+        "Machinga"
+    ],
+    "name:swe_x_preferred":[
         "Machinga"
     ],
     "name:tur_x_preferred":[
@@ -153,7 +165,7 @@
         }
     ],
     "wof:id":890430545,
-    "wof:lastmodified":1561749667,
+    "wof:lastmodified":1563578921,
     "wof:name":"Machinga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

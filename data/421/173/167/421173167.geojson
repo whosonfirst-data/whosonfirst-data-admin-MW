@@ -14,6 +14,12 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0644\u0627\u0646\u062c\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Mulanje"
+    ],
     "name:deu_x_preferred":[
         "Mulanje"
     ],
@@ -32,10 +38,16 @@
     "name:ita_x_preferred":[
         "Mulanje"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30e9\u30f3\u30b8\u30a7"
+    ],
     "name:nld_x_preferred":[
         "Mulanje"
     ],
     "name:nya_x_preferred":[
+        "Mulanje"
+    ],
+    "name:pol_x_preferred":[
         "Mulanje"
     ],
     "name:ron_x_preferred":[
@@ -49,6 +61,9 @@
     ],
     "name:zho_x_preferred":[
         "\u59c6\u862d\u5091"
+    ],
+    "name:zho_x_variant":[
+        "\u5947\u6ce2\u5361"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Malawi",
@@ -188,7 +203,7 @@
         }
     ],
     "wof:id":421173167,
-    "wof:lastmodified":1561749666,
+    "wof:lastmodified":1563578911,
     "wof:name":"Mulanje",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

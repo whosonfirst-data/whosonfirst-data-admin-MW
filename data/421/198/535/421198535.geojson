@@ -17,6 +17,15 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u062a\u064a\u0628\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0686\u06cc\u062a\u06cc\u067e\u0627"
+    ],
+    "name:bre_x_preferred":[
+        "Chitipa"
+    ],
+    "name:ceb_x_preferred":[
+        "Chitipa"
+    ],
     "name:deu_x_preferred":[
         "Chitipa"
     ],
@@ -35,6 +44,9 @@
     "name:ita_x_preferred":[
         "Chitipa"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30c6\u30a3\u30d1"
+    ],
     "name:lit_x_preferred":[
         "\u010citipa"
     ],
@@ -42,6 +54,9 @@
         "Chitipa"
     ],
     "name:nya_x_preferred":[
+        "Chitipa"
+    ],
+    "name:pol_x_preferred":[
         "Chitipa"
     ],
     "name:por_x_preferred":[
@@ -203,7 +218,7 @@
         }
     ],
     "wof:id":421198535,
-    "wof:lastmodified":1561749666,
+    "wof:lastmodified":1563578913,
     "wof:name":"Chitipa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

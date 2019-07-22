@@ -17,6 +17,12 @@
     "name:ara_x_preferred":[
         "\u062d\u064a \u062f\u064a\u062f\u0632\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062f\u062f\u0632\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Dedza"
+    ],
     "name:deu_x_preferred":[
         "Dedza"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:ita_x_preferred":[
         "Dedza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30c3\u30b6"
     ],
     "name:kor_x_preferred":[
         "\ub370\uc790"
@@ -54,6 +63,9 @@
         "Dedza"
     ],
     "name:swe_x_preferred":[
+        "Dedza"
+    ],
+    "name:szl_x_preferred":[
         "Dedza"
     ],
     "name:tur_x_preferred":[
@@ -197,7 +209,7 @@
         }
     ],
     "wof:id":421166459,
-    "wof:lastmodified":1561749665,
+    "wof:lastmodified":1563578906,
     "wof:name":"Dedza",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -21,14 +21,134 @@
     ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0646\u0643\u0648\u062a\u0627\u0643\u0648\u062a\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Nkhotakota"
+    ],
+    "name:bel_x_preferred":[
+        "\u0440\u0430\u0451\u043d \u041d\u0445\u0430\u0442\u0430\u043a\u043e\u0442\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u099f\u09be\u0995\u09cb\u099f\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Nkhotakota"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0445\u043e\u0442\u0430\u043a\u043e\u0442\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Nkhotakota District"
+    ],
+    "name:dan_x_preferred":[
+        "Nkhotakota District"
+    ],
+    "name:deu_x_preferred":[
+        "Nkhotakota"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c7\u03bf\u03c4\u03b1\u03ba\u03cc\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Nkhotakota"
     ],
     "name:eng_x_variant":[
         "Nkhotakota District"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0646\u062e\u0648\u062a\u0627\u06a9\u0648\u062a\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Nkhotakotan piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "Nkhotakota"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0abe\u0a96\u0acb\u0a9f\u0abe\u0a95\u0acb\u0a9f\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0916\u094b\u0924\u093e\u0915\u094b\u0924\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Nkhotakota"
+    ],
+    "name:isl_x_preferred":[
+        "Nkhotakota"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30bf\u30b3\u30bf\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cc6\u0c95\u0cca\u0c9f\u0c95\u0ccb\u0c9f\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10ee\u10dd\u10e2\u10d0\u10d9\u10dd\u10e2\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc740\ucf54\ud0c0\ucf54\ud0c0 \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Nkhotakotas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Nkotakotos apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u0916\u094b\u091f\u093e\u0915\u094b\u091f\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Nkhotakota District"
+    ],
+    "name:nld_x_preferred":[
+        "Nkhotakota"
+    ],
+    "name:nob_x_preferred":[
+        "Nkhotakota"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Nkhotakota"
+    ],
+    "name:por_x_preferred":[
+        "Nkhotakota"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Nkhotakota"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043a\u043e\u0442\u0430-\u041a\u043e\u0442\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dca\u0d9b\u0ddd\u0da7\u0d9a\u0ddc\u0da7\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:swe_x_preferred":[
+        "Nkhotakota"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3f\u0c15\u0c4b\u0c1f\u0c3e\u0c15\u0c4b\u0c1f\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e2d\u0e36\u0e07\u0e42\u0e04\u0e17\u0e32\u0e42\u0e01\u0e15\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Nkhotakota"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u041d\u0445\u043e\u0442\u0430\u043a\u043e\u0442\u0430"
+    ],
     "name:unk_x_variant":[
         "Kota Kota District"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u062e\u0648\u062a\u0627\u06a9\u0648\u062a\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Nkhotakota"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u79d1\u5854\u79d1\u5854\u7e23"
     ],
     "qs:name":"Nkhotakota District",
     "qs:photos_9r":0,
@@ -58,7 +178,7 @@
         }
     ],
     "wof:id":890430569,
-    "wof:lastmodified":1553722776,
+    "wof:lastmodified":1563578920,
     "wof:name":"Nkhotakota",
     "wof:parent_id":-1,
     "wof:placetype":"county",
