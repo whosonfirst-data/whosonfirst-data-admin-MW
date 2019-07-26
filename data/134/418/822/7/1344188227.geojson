@@ -26,6 +26,12 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kalawa"
+    ],
+    "name:swe_x_preferred":[
+        "Kalawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1344188227,
-    "wof:lastmodified":1536691471,
+    "wof:lastmodified":1564129555,
     "wof:name":"Kalawa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

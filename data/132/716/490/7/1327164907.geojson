@@ -26,6 +26,18 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bano"
+    ],
+    "name:fra_x_preferred":[
+        "Bano"
+    ],
+    "name:slk_x_preferred":[
+        "Bano"
+    ],
+    "name:swe_x_preferred":[
+        "Bano"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1327164907,
-    "wof:lastmodified":1537064308,
+    "wof:lastmodified":1564129486,
     "wof:name":"Bano",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

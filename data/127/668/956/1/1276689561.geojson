@@ -26,6 +26,21 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Poko"
+    ],
+    "name:deu_x_preferred":[
+        "Poko"
+    ],
+    "name:ita_x_preferred":[
+        "Poko"
+    ],
+    "name:nld_x_preferred":[
+        "Poko"
+    ],
+    "name:swe_x_preferred":[
+        "Poko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1276689561,
-    "wof:lastmodified":1536798602,
+    "wof:lastmodified":1564129708,
     "wof:name":"Poko",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

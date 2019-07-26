@@ -26,6 +26,12 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mpama"
+    ],
+    "name:swe_x_preferred":[
+        "Mpama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1276905999,
-    "wof:lastmodified":1537005599,
+    "wof:lastmodified":1564129736,
     "wof:name":"Mpama",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

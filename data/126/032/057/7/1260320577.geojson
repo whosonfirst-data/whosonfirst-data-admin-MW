@@ -26,6 +26,33 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Bagrus meridionalis"
+    ],
+    "name:cat_x_preferred":[
+        "Bagrus meridionalis"
+    ],
+    "name:ceb_x_preferred":[
+        "Bagrus meridionalis"
+    ],
+    "name:eus_x_preferred":[
+        "Bagrus meridionalis"
+    ],
+    "name:nld_x_preferred":[
+        "Bagrus meridionalis"
+    ],
+    "name:spa_x_preferred":[
+        "Bagrus meridionalis"
+    ],
+    "name:swe_x_preferred":[
+        "Bagrus meridionalis"
+    ],
+    "name:vie_x_preferred":[
+        "Bagrus meridionalis"
+    ],
+    "name:war_x_preferred":[
+        "Bagrus meridionalis"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +72,7 @@
         }
     ],
     "wof:id":1260320577,
-    "wof:lastmodified":1536662216,
+    "wof:lastmodified":1564129900,
     "wof:name":"Kampango",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

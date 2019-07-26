@@ -26,10 +26,46 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mchenga"
+    ],
+    "name:ceb_x_preferred":[
+        "Mchenga"
+    ],
+    "name:deu_x_preferred":[
+        "Mchenga"
+    ],
+    "name:fra_x_preferred":[
+        "Mchenga"
+    ],
+    "name:ita_x_preferred":[
+        "Mchenga"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041c\u0447\u0435\u043d\u0433\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Mchenga"
+    ],
+    "name:pol_x_preferred":[
+        "Mchenga"
+    ],
+    "name:spa_x_preferred":[
+        "Mchenga"
+    ],
+    "name:swe_x_preferred":[
+        "Mchenga"
+    ],
+    "name:ukr_x_preferred":[
+        "Mchenga"
+    ],
     "name:und_x_variant":[
         "Nchengu",
         "Mchenga Village",
         "Nchenga",
+        "Mchenga"
+    ],
+    "name:war_x_preferred":[
         "Mchenga"
     ],
     "src:geom":"geonames",
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1293523017,
-    "wof:lastmodified":1537665837,
+    "wof:lastmodified":1564129588,
     "wof:name":"Mchenga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

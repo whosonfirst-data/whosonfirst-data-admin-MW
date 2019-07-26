@@ -26,6 +26,15 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10ee\u10dd"
+    ],
+    "name:tur_x_preferred":[
+        "Maho"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0445\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1327060585,
-    "wof:lastmodified":1536720218,
+    "wof:lastmodified":1564129407,
     "wof:name":"Makho",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

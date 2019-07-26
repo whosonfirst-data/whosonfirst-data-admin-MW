@@ -26,6 +26,42 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nabot"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03b2\u03bf\u03c5\u03b8\u03b1\u03af"
+    ],
+    "name:fra_x_preferred":[
+        "Naboth"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d1\u05d5\u05ea \u05d4\u05d9\u05d6\u05e8\u05e2\u05d0\u05dc\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u057e\u0578\u0582\u0586\u0565\u0575"
+    ],
+    "name:ind_x_preferred":[
+        "Nabot"
+    ],
+    "name:ita_x_preferred":[
+        "Nabot"
+    ],
+    "name:nld_x_preferred":[
+        "Naboth"
+    ],
+    "name:pol_x_preferred":[
+        "Nabot"
+    ],
+    "name:por_x_preferred":[
+        "Nabot"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0432\u0443\u0444\u0435\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Nabot"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +81,7 @@
         }
     ],
     "wof:id":1276246889,
-    "wof:lastmodified":1536894215,
+    "wof:lastmodified":1564129715,
     "wof:name":"Naboth",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

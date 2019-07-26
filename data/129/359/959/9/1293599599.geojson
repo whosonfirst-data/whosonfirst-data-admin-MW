@@ -26,6 +26,18 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Deni"
+    ],
+    "name:ita_x_preferred":[
+        "Deni"
+    ],
+    "name:pol_x_preferred":[
+        "Deni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043d\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1293599599,
-    "wof:lastmodified":1536623402,
+    "wof:lastmodified":1564129619,
     "wof:name":"Deni",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

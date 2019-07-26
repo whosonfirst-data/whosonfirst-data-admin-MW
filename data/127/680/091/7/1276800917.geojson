@@ -26,6 +26,24 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chana"
+    ],
+    "name:ces_x_preferred":[
+        "Chana"
+    ],
+    "name:deu_x_preferred":[
+        "Chana"
+    ],
+    "name:por_x_preferred":[
+        "Chana"
+    ],
+    "name:spa_x_preferred":[
+        "Chana"
+    ],
+    "name:swe_x_preferred":[
+        "Chana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1276800917,
-    "wof:lastmodified":1536649143,
+    "wof:lastmodified":1564129687,
     "wof:name":"Chana",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

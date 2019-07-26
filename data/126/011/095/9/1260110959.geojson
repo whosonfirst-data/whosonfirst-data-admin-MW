@@ -26,6 +26,18 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Milonga"
+    ],
+    "name:fra_x_preferred":[
+        "Milonga"
+    ],
+    "name:ita_x_preferred":[
+        "Milonga"
+    ],
+    "name:spa_x_preferred":[
+        "Milonga"
+    ],
     "name:und_x_variant":[
         "Mlonga",
         "Milonga"
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1260110959,
-    "wof:lastmodified":1537665836,
+    "wof:lastmodified":1564129888,
     "wof:name":"Milonga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

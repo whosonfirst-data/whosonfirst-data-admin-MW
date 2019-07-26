@@ -26,6 +26,12 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chilombo"
+    ],
+    "name:swe_x_preferred":[
+        "Chilombo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1293231431,
-    "wof:lastmodified":1536659398,
+    "wof:lastmodified":1564129603,
     "wof:name":"Chilombo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nyirenda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1259702489,
-    "wof:lastmodified":1537038038,
+    "wof:lastmodified":1564130129,
     "wof:name":"Nyirenda",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

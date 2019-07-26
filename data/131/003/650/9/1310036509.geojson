@@ -26,6 +26,9 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Majiri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1310036509,
-    "wof:lastmodified":1537092829,
+    "wof:lastmodified":1564129947,
     "wof:name":"Majiri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

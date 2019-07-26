@@ -26,6 +26,12 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nya_x_preferred":[
+        "Embangweni"
+    ],
+    "name:tum_x_preferred":[
+        "Embangweni"
+    ],
     "name:und_x_variant":[
         "Embangweni",
         "Ephangweni"
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1226357617,
-    "wof:lastmodified":1537665844,
+    "wof:lastmodified":1564130192,
     "wof:name":"Ephangweni",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

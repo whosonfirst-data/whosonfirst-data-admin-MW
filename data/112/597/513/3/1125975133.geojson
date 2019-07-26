@@ -18,6 +18,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Balaka"
+    ],
+    "name:fra_x_preferred":[
+        "Balaka"
+    ],
+    "name:nld_x_preferred":[
+        "Balaka"
+    ],
+    "name:swe_x_preferred":[
+        "Balaka"
+    ],
     "qs_pg:aaroncc":"MW",
     "qs_pg:gn_country":"MW",
     "qs_pg:gn_fcode":"PPLA2",
@@ -67,7 +79,7 @@
         }
     ],
     "wof:id":1125975133,
-    "wof:lastmodified":1509404318,
+    "wof:lastmodified":1564130025,
     "wof:name":"Balaka",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

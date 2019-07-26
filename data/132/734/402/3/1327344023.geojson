@@ -26,6 +26,12 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nya_x_preferred":[
+        "Chilumba"
+    ],
+    "name:tum_x_preferred":[
+        "Chilumba"
+    ],
     "name:und_x_variant":[
         "Deep Bay",
         "Chirumba",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1327344023,
-    "wof:lastmodified":1537665846,
+    "wof:lastmodified":1564129451,
     "wof:name":"Chilumba",
     "wof:parent_id":1108784757,
     "wof:placetype":"locality",

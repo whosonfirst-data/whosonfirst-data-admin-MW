@@ -26,6 +26,27 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tiwi"
+    ],
+    "name:deu_x_preferred":[
+        "Tiwi"
+    ],
+    "name:fra_x_preferred":[
+        "Tiwi"
+    ],
+    "name:hrv_x_preferred":[
+        "Tiwi"
+    ],
+    "name:ita_x_preferred":[
+        "Tiwi"
+    ],
+    "name:nld_x_preferred":[
+        "Tiwi"
+    ],
+    "name:swe_x_preferred":[
+        "Tiwi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +66,7 @@
         }
     ],
     "wof:id":1276479409,
-    "wof:lastmodified":1537077131,
+    "wof:lastmodified":1564129713,
     "wof:name":"Tiwi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

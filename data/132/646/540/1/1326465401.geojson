@@ -26,6 +26,9 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bandawe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1326465401,
-    "wof:lastmodified":1537568544,
+    "wof:lastmodified":1564129462,
     "wof:name":"Bandawe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

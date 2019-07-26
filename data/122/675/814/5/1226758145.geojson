@@ -32,8 +32,23 @@
     "name:eng_x_variant":[
         "Nchumbe"
     ],
+    "name:est_x_preferred":[
+        "Sikana"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u056f\u0561\u0576\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Sikana"
+    ],
+    "name:spa_x_preferred":[
+        "Sikana"
+    ],
     "name:und_x_variant":[
         "Shikana"
+    ],
+    "name:vol_x_preferred":[
+        "Sikana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1226758145,
-    "wof:lastmodified":1537665829,
+    "wof:lastmodified":1564130170,
     "wof:name":"Sikana",
     "wof:parent_id":1108782429,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Cape Maclear"
+    ],
+    "name:deu_x_preferred":[
+        "Cape MacLear"
+    ],
+    "name:fra_x_preferred":[
+        "Cape Maclear"
+    ],
+    "name:spa_x_preferred":[
+        "Cabo Maclear"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1260322937,
-    "wof:lastmodified":1537568544,
+    "wof:lastmodified":1564129899,
     "wof:name":"Cape Maclear",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
