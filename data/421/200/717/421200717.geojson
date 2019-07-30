@@ -13,7 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Senga"
+    ],
+    "name:ita_x_preferred":[
+        "Senga"
+    ],
     "name:swa_x_preferred":[
+        "Senga"
+    ],
+    "name:swe_x_preferred":[
         "Senga"
     ],
     "qs:gn_country":"MW",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":421200717,
-    "wof:lastmodified":1527716430,
+    "wof:lastmodified":1564130024,
     "wof:name":"Senga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

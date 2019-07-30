@@ -26,6 +26,12 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Faint"
+    ],
+    "name:ukr_x_preferred":[
+        "Faint"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1343696183,
-    "wof:lastmodified":1536903718,
+    "wof:lastmodified":1564129539,
     "wof:name":"Faint",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

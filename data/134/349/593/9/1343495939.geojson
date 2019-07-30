@@ -26,6 +26,21 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Malaza"
+    ],
+    "name:nor_x_preferred":[
+        "Malaza"
+    ],
+    "name:swe_x_preferred":[
+        "Malaza"
+    ],
+    "name:vie_x_preferred":[
+        "Malaza"
+    ],
+    "name:war_x_preferred":[
+        "Malaza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1343495939,
-    "wof:lastmodified":1536695159,
+    "wof:lastmodified":1564129522,
     "wof:name":"Malaza",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

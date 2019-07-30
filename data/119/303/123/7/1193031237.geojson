@@ -26,6 +26,12 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dawe"
+    ],
+    "name:hrv_x_preferred":[
+        "Dewe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1193031237,
-    "wof:lastmodified":1536364088,
+    "wof:lastmodified":1564129850,
     "wof:name":"Dewe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

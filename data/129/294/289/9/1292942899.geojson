@@ -26,6 +26,120 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0633\u0646\u062a\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0633\u0646\u062a\u06cc"
+    ],
+    "name:bcl_x_preferred":[
+        "Bisenti"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u0437\u0435\u043d\u0442\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Bisenti"
+    ],
+    "name:deu_x_preferred":[
+        "Bisenti"
+    ],
+    "name:epo_x_preferred":[
+        "Bisenti"
+    ],
+    "name:eus_x_preferred":[
+        "Bisenti"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0633\u0646\u062a\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Bisenti"
+    ],
+    "name:glg_x_preferred":[
+        "Bisenti"
+    ],
+    "name:hun_x_preferred":[
+        "Bisenti"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u0566\u0565\u0576\u057f\u056b"
+    ],
+    "name:ina_x_preferred":[
+        "Bisenti"
+    ],
+    "name:ita_x_preferred":[
+        "Bisenti"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30bc\u30f3\u30c6\u30a3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0438\u0437\u0435\u043d\u0442\u0438"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc13c\ud2f0"
+    ],
+    "name:lat_x_preferred":[
+        "Bixentium"
+    ],
+    "name:lmo_x_preferred":[
+        "Bisenti"
+    ],
+    "name:msa_x_preferred":[
+        "Bisenti"
+    ],
+    "name:nap_x_preferred":[
+        "Bisenti"
+    ],
+    "name:nld_x_preferred":[
+        "Bisenti"
+    ],
+    "name:pms_x_preferred":[
+        "Bisenti"
+    ],
+    "name:pol_x_preferred":[
+        "Bisenti"
+    ],
+    "name:por_x_preferred":[
+        "Bisenti"
+    ],
+    "name:ron_x_preferred":[
+        "Bisenti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0437\u0435\u043d\u0442\u0438"
+    ],
+    "name:scn_x_preferred":[
+        "Bisenti"
+    ],
+    "name:spa_x_preferred":[
+        "Bisenti"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0437\u0435\u043d\u0442\u0438"
+    ],
+    "name:tgl_x_preferred":[
+        "Bisenti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0437\u0435\u043d\u0442\u0456"
+    ],
+    "name:uzb_x_preferred":[
+        "Bisenti"
+    ],
+    "name:vie_x_preferred":[
+        "Bisenti"
+    ],
+    "name:vol_x_preferred":[
+        "Bisenti"
+    ],
+    "name:war_x_preferred":[
+        "Bisenti"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u68ee\u8482"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +159,7 @@
         }
     ],
     "wof:id":1292942899,
-    "wof:lastmodified":1537071946,
+    "wof:lastmodified":1564129593,
     "wof:name":"Bisenti",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -26,6 +26,60 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Elisa"
+    ],
+    "name:ceb_x_preferred":[
+        "Elisa"
+    ],
+    "name:deu_x_preferred":[
+        "Elisa"
+    ],
+    "name:est_x_preferred":[
+        "Elisa"
+    ],
+    "name:fin_x_preferred":[
+        "Elisa"
+    ],
+    "name:fra_x_preferred":[
+        "Elisa"
+    ],
+    "name:ita_x_preferred":[
+        "Elisa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30ea\u30b6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ub9ac\uc0ac"
+    ],
+    "name:nld_x_preferred":[
+        "Elisa"
+    ],
+    "name:por_x_preferred":[
+        "Elisa"
+    ],
+    "name:rus_x_preferred":[
+        "Elisa"
+    ],
+    "name:slv_x_preferred":[
+        "Elisa"
+    ],
+    "name:spa_x_preferred":[
+        "Elisa"
+    ],
+    "name:swe_x_preferred":[
+        "Elisa"
+    ],
+    "name:tgl_x_preferred":[
+        "Elisa"
+    ],
+    "name:tur_x_preferred":[
+        "Elisa"
+    ],
+    "name:zho_x_preferred":[
+        "Elisa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632383
@@ -43,7 +97,7 @@
         }
     ],
     "wof:id":1209142939,
-    "wof:lastmodified":1536296446,
+    "wof:lastmodified":1564129797,
     "wof:name":"Elisa",
     "wof:parent_id":85632383,
     "wof:placetype":"locality",

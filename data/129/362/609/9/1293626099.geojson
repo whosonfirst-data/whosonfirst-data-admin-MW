@@ -26,6 +26,42 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Langa"
+    ],
+    "name:deu_x_preferred":[
+        "Langa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03b3\u03ba\u03b1"
+    ],
+    "name:eus_x_preferred":[
+        "Langa"
+    ],
+    "name:fra_x_preferred":[
+        "Langa"
+    ],
+    "name:hsb_x_preferred":[
+        "Langa"
+    ],
+    "name:ita_x_preferred":[
+        "Langa"
+    ],
+    "name:pol_x_preferred":[
+        "Langa"
+    ],
+    "name:por_x_preferred":[
+        "Langa"
+    ],
+    "name:spa_x_preferred":[
+        "Langa"
+    ],
+    "name:swe_x_preferred":[
+        "Langa"
+    ],
+    "name:tur_x_preferred":[
+        "Langa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +81,7 @@
         }
     ],
     "wof:id":1293626099,
-    "wof:lastmodified":1537081133,
+    "wof:lastmodified":1564129583,
     "wof:name":"Langa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

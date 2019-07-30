@@ -26,6 +26,24 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kada"
+    ],
+    "name:deu_x_preferred":[
+        "Kada"
+    ],
+    "name:est_x_preferred":[
+        "Kada"
+    ],
+    "name:fra_x_preferred":[
+        "Kada"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1293620287,
-    "wof:lastmodified":1537089644,
+    "wof:lastmodified":1564129582,
     "wof:name":"Kada",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -26,6 +26,78 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0646\u064a\u0648\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0646\u06cc\u0648\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Maniwa-shi"
+    ],
+    "name:deu_x_preferred":[
+        "Maniwa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0646\u06cc\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Maniwa"
+    ],
+    "name:glg_x_preferred":[
+        "Maniwa"
+    ],
+    "name:ita_x_preferred":[
+        "Maniwa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u771f\u5ead\u5e02"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub2c8\uc640\uc2dc"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0627\u0646\u06cc\u0648\u0627"
+    ],
+    "name:nld_x_preferred":[
+        "Maniwa"
+    ],
+    "name:pol_x_preferred":[
+        "Maniwa"
+    ],
+    "name:por_x_preferred":[
+        "Maniwa"
+    ],
+    "name:ron_x_preferred":[
+        "Maniwa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0438\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Maniwa"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0430\u043d\u0438\u0443\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Maniwa"
+    ],
+    "name:tur_x_preferred":[
+        "Maniwa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u0456\u0432\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Maniwa"
+    ],
+    "name:war_x_preferred":[
+        "Maniwa"
+    ],
+    "name:zho_x_preferred":[
+        "\u771f\u5ead\u5e02"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +117,7 @@
         }
     ],
     "wof:id":1343598079,
-    "wof:lastmodified":1537043158,
+    "wof:lastmodified":1564129533,
     "wof:name":"Maniwa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

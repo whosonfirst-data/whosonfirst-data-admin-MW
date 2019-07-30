@@ -26,6 +26,12 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jere"
+    ],
+    "name:swe_x_preferred":[
+        "Jere"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1260221093,
-    "wof:lastmodified":1536796827,
+    "wof:lastmodified":1564129866,
     "wof:name":"Jere",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

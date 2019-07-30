@@ -26,6 +26,21 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngombe"
+    ],
+    "name:deu_x_preferred":[
+        "Ngombe"
+    ],
+    "name:fra_x_preferred":[
+        "Ngombe"
+    ],
+    "name:swa_x_preferred":[
+        "Kingombe"
+    ],
+    "name:swe_x_preferred":[
+        "Ngombe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632383
@@ -35,7 +50,7 @@
         "gn:id":924907
     },
     "wof:country":"MW",
-    "wof:geomhash":"6854f18bdaf9063f5ae6195f01f0b2ec",
+    "wof:geomhash":"eeb0741788c7cd0adef648f3beca666b",
     "wof:hierarchy":[
         {
             "country_id":85632383,
@@ -43,7 +58,7 @@
         }
     ],
     "wof:id":1209035521,
-    "wof:lastmodified":1536299714,
+    "wof:lastmodified":1564129808,
     "wof:name":"Ngombe",
     "wof:parent_id":85632383,
     "wof:placetype":"locality",
@@ -54,9 +69,9 @@
 },
   "bbox": [
     33.6,
-    -13.683329999999998,
+    -13.68333,
     33.6,
-    -13.683329999999998
+    -13.68333
 ],
   "geometry": {"coordinates":[33.6,-13.68333],"type":"Point"}
 }

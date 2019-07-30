@@ -26,6 +26,12 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chika"
+    ],
+    "name:ita_x_preferred":[
+        "Chika"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1326548415,
-    "wof:lastmodified":1536960587,
+    "wof:lastmodified":1564129475,
     "wof:name":"Chika",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

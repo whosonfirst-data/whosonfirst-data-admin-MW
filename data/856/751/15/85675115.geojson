@@ -34,7 +34,6 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u043a\u043e\u043c\u0430"
     ],
-    "name:bul_x_variant":[],
     "name:deu_x_colloquial":[],
     "name:deu_x_preferred":[
         "Likoma"
@@ -71,15 +70,15 @@
     "name:nds_x_preferred":[
         "Likoma"
     ],
-    "name:nds_x_variant":[],
     "name:pol_x_colloquial":[],
     "name:pol_x_preferred":[
         "Likoma"
     ],
-    "name:pol_x_variant":[],
     "name:por_x_colloquial":[],
     "name:por_x_preferred":[],
-    "name:por_x_variant":[],
+    "name:por_x_variant":[
+        "Likoma"
+    ],
     "name:ron_x_colloquial":[],
     "name:ron_x_preferred":[
         "Likoma"
@@ -150,7 +149,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1561749656,
+    "wof:lastmodified":1564129572,
     "wof:name":"Likoma",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

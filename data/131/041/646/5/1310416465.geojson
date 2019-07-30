@@ -26,6 +26,9 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bandawe"
+    ],
     "name:und_x_variant":[
         "Old Bandawe Church",
         "Bandawe"
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1310416465,
-    "wof:lastmodified":1537665848,
+    "wof:lastmodified":1564129911,
     "wof:name":"Bandawe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

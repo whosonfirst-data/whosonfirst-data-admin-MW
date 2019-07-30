@@ -26,6 +26,9 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Chopi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1226176577,
-    "wof:lastmodified":1537031882,
+    "wof:lastmodified":1564130172,
     "wof:name":"Chopi",
     "wof:parent_id":1108784765,
     "wof:placetype":"locality",

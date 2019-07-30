@@ -26,6 +26,12 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Buku"
+    ],
+    "name:swe_x_preferred":[
+        "Buku"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1343698253,
-    "wof:lastmodified":1536900562,
+    "wof:lastmodified":1564129542,
     "wof:name":"Buku",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

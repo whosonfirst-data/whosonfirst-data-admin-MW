@@ -26,6 +26,72 @@
     "iso:country":"MW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:als_x_preferred":[
+        "Tanga"
+    ],
+    "name:cat_x_preferred":[
+        "Tanga"
+    ],
+    "name:ceb_x_preferred":[
+        "Tanga"
+    ],
+    "name:deu_x_preferred":[
+        "Tanga"
+    ],
+    "name:eus_x_preferred":[
+        "Tanga"
+    ],
+    "name:fra_x_preferred":[
+        "Tanga"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e0\u05d2\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Tanga"
+    ],
+    "name:ita_x_preferred":[
+        "Tanga"
+    ],
+    "name:nds_x_preferred":[
+        "Tanga"
+    ],
+    "name:nld_x_preferred":[
+        "Tanga"
+    ],
+    "name:nor_x_preferred":[
+        "Tanga"
+    ],
+    "name:por_x_preferred":[
+        "Tanga"
+    ],
+    "name:ron_x_preferred":[
+        "Tanga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043d\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Tanga"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u043d\u0433\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Tanga"
+    ],
+    "name:swe_x_preferred":[
+        "Tanga"
+    ],
+    "name:tgl_x_preferred":[
+        "Tanga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043d\u0433\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Tanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632383
@@ -35,7 +101,7 @@
         "gn:id":923773
     },
     "wof:country":"MW",
-    "wof:geomhash":"3701a0f9708d1ed977a101af4f599e9b",
+    "wof:geomhash":"0bc1ca7d48105ccc789a1f1fc25feb29",
     "wof:hierarchy":[
         {
             "country_id":85632383,
@@ -43,7 +109,7 @@
         }
     ],
     "wof:id":1209244249,
-    "wof:lastmodified":1536293219,
+    "wof:lastmodified":1564129779,
     "wof:name":"Tanga",
     "wof:parent_id":85632383,
     "wof:placetype":"locality",
@@ -54,9 +120,9 @@
 },
   "bbox": [
     34.11808,
-    -13.362570000000002,
+    -13.36257,
     34.11808,
-    -13.362570000000002
+    -13.36257
 ],
   "geometry": {"coordinates":[34.11808,-13.36257],"type":"Point"}
 }
