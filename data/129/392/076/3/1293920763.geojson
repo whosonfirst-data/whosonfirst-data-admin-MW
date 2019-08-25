@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"35.10483,-16.60194,35.14483,-16.56194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bangula"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1293920763,
-    "wof:lastmodified":1564129620,
+    "wof:lastmodified":1566612300,
     "wof:name":"Bangula",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

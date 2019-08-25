@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":-15.761825,
     "lbl:longitude":34.96266,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Southern",
     "meso:dissme":"SouthernBlantyre City",
     "meso:gadm_adm1":"Blantyre",
@@ -91,7 +92,7 @@
     "ne:woe_label":"Blantyre, MW, Malawi",
     "ne:woe_name":"Blantyre",
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632383
@@ -117,7 +118,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1553631523,
+    "wof:lastmodified":1566612482,
     "wof:name":"Blantyre City",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

@@ -10,8 +10,12 @@
     "geom:latitude":-16.00693,
     "geom:longitude":35.30948,
     "iso:country":"MW",
+    "lbl:bbox":"35.28948,-16.02693,35.32948,-15.98693",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0644\u0648\u0686\u0646\u0632\u0627"
@@ -61,7 +65,7 @@
     "name:tur_x_preferred":[
         "Luchenza"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Luchenya"
     ],
     "name:zho_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":927792,
         "gp:id":1367510,
-        "qs:id":130098,
+        "qs_pg:id":130098,
         "wd:id":"Q993322",
         "wk:page":"Luchenza"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":421197379,
-    "wof:lastmodified":1563578914,
+    "wof:lastmodified":1566612565,
     "wof:name":"Luchenza",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

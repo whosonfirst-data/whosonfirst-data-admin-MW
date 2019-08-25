@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"34.21069,-10.38249,34.25069,-10.34249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nchewete",
         "Nchewere"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343477625,
-    "wof:lastmodified":1537665832,
+    "wof:lastmodified":1566612238,
     "wof:name":"Nchewere",
     "wof:parent_id":1108784757,
     "wof:placetype":"locality",

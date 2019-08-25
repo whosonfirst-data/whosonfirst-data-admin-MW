@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.50851,-9.68667,33.54851,-9.64667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Misuko",
         "Misuku"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209229707,
-    "wof:lastmodified":1537665829,
+    "wof:lastmodified":1566612410,
     "wof:name":"Misuku",
     "wof:parent_id":85632383,
     "wof:placetype":"locality",

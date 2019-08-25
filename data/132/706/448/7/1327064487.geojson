@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.30477,-12.58868,33.34477,-12.54868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1327064487,
-    "wof:lastmodified":1536714483,
+    "wof:lastmodified":1566612156,
     "wof:name":"Jwanthi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

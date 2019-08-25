@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"34.66696,-15.37452,34.70696,-15.33452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "George"
     ],
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":1293423861,
-    "wof:lastmodified":1564129650,
+    "wof:lastmodified":1566612318,
     "wof:name":"George",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

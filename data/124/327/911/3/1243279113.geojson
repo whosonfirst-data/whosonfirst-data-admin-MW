@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.56777,-12.60942,33.60777,-12.56942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1243279113,
-    "wof:lastmodified":1537044801,
+    "wof:lastmodified":1566612623,
     "wof:name":"Emfeni",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

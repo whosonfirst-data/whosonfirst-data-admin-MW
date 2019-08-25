@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.50229,-11.19912,33.54229,-11.15912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1326840815,
-    "wof:lastmodified":1537034779,
+    "wof:lastmodified":1566612199,
     "wof:name":"Kajawa Nyirenda",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

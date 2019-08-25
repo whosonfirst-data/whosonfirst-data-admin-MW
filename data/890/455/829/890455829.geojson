@@ -11,7 +11,7 @@
     "geom:longitude":35.1506,
     "gn:country":"MW",
     "gn:fcode":"ADM2",
-    "gn:pop":472144,
+    "gn:population":472144,
     "iso:country":"MW",
     "label:eng_x_preferred_longname":[
         "Thyolo District"
@@ -19,8 +19,11 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Thyolo"
     ],
@@ -84,7 +87,7 @@
     "name:tur_x_preferred":[
         "Thyolo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cholo District"
     ],
     "name:zho_x_preferred":[
@@ -103,7 +106,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":930283,
-        "qs:id":555017,
+        "qs_pg:id":555017,
         "wd:id":"Q722515",
         "wk:page":"Thyolo District"
     },
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":890455829,
-    "wof:lastmodified":1563578924,
+    "wof:lastmodified":1566612568,
     "wof:name":"Thyolo",
     "wof:parent_id":-1,
     "wof:placetype":"county",

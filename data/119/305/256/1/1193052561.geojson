@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"35.24209,-14.53501,35.28209,-14.49501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1193052561,
-    "wof:lastmodified":1536365020,
+    "wof:lastmodified":1566612449,
     "wof:name":"Kwitambo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

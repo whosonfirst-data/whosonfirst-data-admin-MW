@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"35.39117,-15.97158,35.43117,-15.93158",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632383
@@ -35,7 +39,7 @@
         "gn:id":924217
     },
     "wof:country":"MW",
-    "wof:geomhash":"e54012cd7b2c30adc6724fb078d93bd1",
+    "wof:geomhash":"19161ce6033599051bcbad69f0d92cab",
     "wof:hierarchy":[
         {
             "country_id":85632383,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209651945,
-    "wof:lastmodified":1536280551,
+    "wof:lastmodified":1566612391,
     "wof:name":"Peremwe",
     "wof:parent_id":85632383,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     35.41117,
-    -15.951579999999998,
+    -15.95158,
     35.41117,
-    -15.951579999999998
+    -15.95158
 ],
   "geometry": {"coordinates":[35.41117,-15.95158],"type":"Point"}
 }

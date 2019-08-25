@@ -10,8 +10,12 @@
     "geom:latitude":-13.71667,
     "geom:longitude":34.63333,
     "iso:country":"MW",
+    "lbl:bbox":"34.61333,-13.73667,34.65333,-13.69667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Senga"
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":923942,
         "gp:id":1369102,
-        "qs:id":892312
+        "qs_pg:id":892312
     },
     "wof:country":"MW",
     "wof:created":1459010036,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":421200717,
-    "wof:lastmodified":1564130024,
+    "wof:lastmodified":1566612565,
     "wof:name":"Senga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

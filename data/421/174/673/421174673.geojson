@@ -10,6 +10,9 @@
     "geom:latitude":-12.92744,
     "geom:longitude":34.29614,
     "iso:country":"MW",
+    "lbl:bbox":"34.27614,-12.94744,34.31614,-12.90744",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -80,7 +83,7 @@
     "name:tur_x_preferred":[
         "Nkhotakota"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kota Kota"
     ],
     "name:zho_x_preferred":[
@@ -206,7 +209,7 @@
     "wof:concordances":{
         "gn:id":924705,
         "gp:id":1368783,
-        "qs:id":894030,
+        "qs_pg:id":894030,
         "wd:id":"Q1022510",
         "wk:page":"Nkhotakota"
     },
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":421174673,
-    "wof:lastmodified":1563578909,
+    "wof:lastmodified":1566612563,
     "wof:name":"Nkhotakota",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

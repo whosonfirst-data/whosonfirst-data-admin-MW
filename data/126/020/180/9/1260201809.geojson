@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"34.07854,-10.46804,34.11854,-10.42804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1260201809,
-    "wof:lastmodified":1536821945,
+    "wof:lastmodified":1566612469,
     "wof:name":"Kapika",
     "wof:parent_id":1108784757,
     "wof:placetype":"locality",

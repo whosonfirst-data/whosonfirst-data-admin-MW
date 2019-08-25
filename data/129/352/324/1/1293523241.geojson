@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.73,-13.80333,33.77,-13.76333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bowa"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293523241,
-    "wof:lastmodified":1564129589,
+    "wof:lastmodified":1566612281,
     "wof:name":"Bowa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-9.70237,
     "geom:longitude":33.26969,
     "iso:country":"MW",
+    "lbl:bbox":"33.24969,-9.72237,33.28969,-9.68237",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u0442\u0456\u043f\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chipita"
     ],
     "name:zho_x_preferred":[
@@ -203,7 +206,7 @@
     "wof:concordances":{
         "gn:id":235751,
         "gp:id":1366274,
-        "qs:id":183490,
+        "qs_pg:id":183490,
         "wd:id":"Q1074915",
         "wk:page":"Chitipa"
     },
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":421198535,
-    "wof:lastmodified":1563578913,
+    "wof:lastmodified":1566612564,
     "wof:name":"Chitipa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

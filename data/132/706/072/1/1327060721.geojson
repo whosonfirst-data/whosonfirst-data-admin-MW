@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"35.37631,-14.79749,35.41631,-14.75749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chamba",
         "Chibwana"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327060721,
-    "wof:lastmodified":1537665846,
+    "wof:lastmodified":1566612158,
     "wof:name":"Chibwana",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

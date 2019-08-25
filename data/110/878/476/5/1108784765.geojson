@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":-15.375675,
     "lbl:longitude":35.368212,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Southern",
     "meso:dissme":"SouthernZomba City",
     "meso:gadm_adm1":"Zomba",
@@ -33,7 +34,7 @@
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632383
@@ -59,7 +60,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1553626851,
+    "wof:lastmodified":1566612482,
     "wof:name":"Zomba City",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

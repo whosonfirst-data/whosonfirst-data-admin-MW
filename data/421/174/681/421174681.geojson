@@ -10,8 +10,12 @@
     "geom:latitude":-11.11163,
     "geom:longitude":34.23243,
     "iso:country":"MW",
+    "lbl:bbox":"34.21243,-11.13163,34.25243,-11.09163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"MW",
     "qs:gn_fcode":"PPL",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":924109,
         "gp:id":1369026,
-        "qs:id":894747
+        "qs_pg:id":894747
     },
     "wof:country":"MW",
     "wof:created":1459009040,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":421174681,
-    "wof:lastmodified":1499518844,
+    "wof:lastmodified":1566612563,
     "wof:name":"Ruarwe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.69667,-13.77,33.73667,-13.73",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632383
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209451177,
-    "wof:lastmodified":1536286667,
+    "wof:lastmodified":1566612435,
     "wof:name":"Ciseko",
     "wof:parent_id":85632383,
     "wof:placetype":"locality",
