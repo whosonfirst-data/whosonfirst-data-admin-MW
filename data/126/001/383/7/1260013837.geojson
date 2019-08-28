@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.88094,-14.45396,33.92094,-14.41396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Komakule",
         "Kamakule"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1260013837,
-    "wof:lastmodified":1537665842,
+    "wof:lastmodified":1566612466,
     "wof:name":"Kamakule",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

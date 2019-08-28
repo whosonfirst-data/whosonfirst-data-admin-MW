@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.30709,-11.99905,33.34709,-11.95905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632383
@@ -35,7 +39,7 @@
         "gn:id":929522
     },
     "wof:country":"MW",
-    "wof:geomhash":"9c0f4bbb1c102d4e3e99bb0f61a6a38e",
+    "wof:geomhash":"0ca831060f9f02acb086352a37c7b4f9",
     "wof:hierarchy":[
         {
             "country_id":85632383,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209225169,
-    "wof:lastmodified":1536293821,
+    "wof:lastmodified":1566612410,
     "wof:name":"Kabukhu Phiri",
     "wof:parent_id":85632383,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.327090000000005,
+    33.32709000000001,
     -11.97905,
-    33.327090000000005,
+    33.32709000000001,
     -11.97905
 ],
   "geometry": {"coordinates":[33.32709000000001,-11.97905],"type":"Point"}

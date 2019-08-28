@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.61922,-12.46839,33.65922,-12.42839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1343473823,
-    "wof:lastmodified":1536727139,
+    "wof:lastmodified":1566612238,
     "wof:name":"Cihepa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":33.88151,
     "gn:country":"MW",
     "gn:fcode":"ADM2",
-    "gn:pop":224948,
+    "gn:population":224948,
     "iso:country":"MW",
     "label:eng_x_preferred_longname":[
         "Karonga District"
@@ -19,8 +19,11 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Karonga"
     ],
@@ -87,7 +90,7 @@
     "name:tur_x_preferred":[
         "Karonga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "North Nyasa District"
     ],
     "name:zho_x_preferred":[
@@ -107,7 +110,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":928657,
-        "qs:id":83975,
+        "qs_pg:id":83975,
         "wd:id":"Q868819",
         "wk:page":"Karonga District"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":890438065,
-    "wof:lastmodified":1563578926,
+    "wof:lastmodified":1566612568,
     "wof:name":"Karonga",
     "wof:parent_id":1108784757,
     "wof:placetype":"county",

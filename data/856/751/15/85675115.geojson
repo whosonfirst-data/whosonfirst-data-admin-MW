@@ -16,6 +16,7 @@
     ],
     "lbl:latitude":-12.0637,
     "lbl:longitude":34.708408,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-12.0637,
     "mps:longitude":34.708408,
     "mz:categories":[],
@@ -113,7 +114,7 @@
     "reversegeo:longitude":34.708408,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"MW-LK",
     "wd:wordcount":48,
     "wof:belongsto":[
@@ -125,7 +126,7 @@
     ],
     "wof:concordances":{
         "gp:id":20070147,
-        "qs:id":236296,
+        "qs_pg:id":236296,
         "unlc:id":"MW-LK"
     },
     "wof:country":"MW",
@@ -138,9 +139,6 @@
         }
     ],
     "wof:id":85675115,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "nya",
         "eng"
@@ -149,7 +147,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1564129572,
+    "wof:lastmodified":1566612267,
     "wof:name":"Likoma",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

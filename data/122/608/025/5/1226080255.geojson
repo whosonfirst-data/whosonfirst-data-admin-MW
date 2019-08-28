@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.35098,-12.89012,33.39098,-12.85012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1226080255,
-    "wof:lastmodified":1536675382,
+    "wof:lastmodified":1566612707,
     "wof:name":"Ciseka",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

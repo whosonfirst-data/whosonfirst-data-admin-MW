@@ -11,7 +11,7 @@
     "geom:longitude":35.0591,
     "gn:country":"MW",
     "gn:fcode":"ADM2",
-    "gn:pop":277072,
+    "gn:population":277072,
     "iso:country":"MW",
     "label:eng_x_preferred_longname":[
         "Balaka District"
@@ -19,8 +19,11 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0627\u0644\u0627\u0643\u0627"
     ],
@@ -163,7 +166,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1105840,
-        "qs:id":555110,
+        "qs_pg:id":555110,
         "wd:id":"Q870044",
         "wk:page":"Balaka District"
     },
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":890435513,
-    "wof:lastmodified":1563578935,
+    "wof:lastmodified":1566612571,
     "wof:name":"Balaka",
     "wof:parent_id":-1,
     "wof:placetype":"county",

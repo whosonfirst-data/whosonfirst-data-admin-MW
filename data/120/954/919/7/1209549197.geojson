@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.56022,-13.78952,33.60022,-13.74952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632383
@@ -35,7 +39,7 @@
         "gn:id":929223
     },
     "wof:country":"MW",
-    "wof:geomhash":"fafcf5c5279e1cf17e176df070d8da20",
+    "wof:geomhash":"5b49905242195fae1342e9f57ce1e0a7",
     "wof:hierarchy":[
         {
             "country_id":85632383,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209549197,
-    "wof:lastmodified":1536283747,
+    "wof:lastmodified":1566612390,
     "wof:name":"Kalonga",
     "wof:parent_id":85632383,
     "wof:placetype":"locality",
@@ -53,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.580220000000004,
-    -13.769520000000002,
-    33.580220000000004,
-    -13.769520000000002
+    33.58022,
+    -13.76952,
+    33.58022,
+    -13.76952
 ],
   "geometry": {"coordinates":[33.58022,-13.76952],"type":"Point"}
 }

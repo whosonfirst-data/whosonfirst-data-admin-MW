@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"35.56443,-16.10151,35.60443,-16.06151",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0645\u0648\u0632\u0627"
     ],
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":1259720437,
-    "wof:lastmodified":1564130168,
+    "wof:lastmodified":1566612662,
     "wof:name":"Mimosa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

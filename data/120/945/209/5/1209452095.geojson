@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.65148,-13.94858,33.69148,-13.90858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632383
@@ -35,7 +39,7 @@
         "gn:id":926942
     },
     "wof:country":"MW",
-    "wof:geomhash":"522be1fab4f90058dffb60750fcf5d89",
+    "wof:geomhash":"d0eb312401e43f5e8db8067d0a817bcb",
     "wof:hierarchy":[
         {
             "country_id":85632383,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209452095,
-    "wof:lastmodified":1536286641,
+    "wof:lastmodified":1566612437,
     "wof:name":"Mbabzi",
     "wof:parent_id":85632383,
     "wof:placetype":"locality",
@@ -53,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.671479999999995,
-    -13.928579999999998,
-    33.671479999999995,
-    -13.928579999999998
+    33.67148,
+    -13.92858,
+    33.67148,
+    -13.92858
 ],
   "geometry": {"coordinates":[33.67148,-13.92858],"type":"Point"}
 }

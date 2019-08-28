@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"35.00822,-16.62365,35.04822,-16.58365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632383
@@ -35,7 +39,7 @@
         "gn:id":924866
     },
     "wof:country":"MW",
-    "wof:geomhash":"6a499af80f363673b874b7fd3393e8ab",
+    "wof:geomhash":"6f5006c189badc759129de9701ad6f08",
     "wof:hierarchy":[
         {
             "country_id":85632383,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209546993,
-    "wof:lastmodified":1536283813,
+    "wof:lastmodified":1566612389,
     "wof:name":"Nguluwe",
     "wof:parent_id":85632383,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.028220000000005,
+    35.02822,
     -16.60365,
-    35.028220000000005,
+    35.02822,
     -16.60365
 ],
   "geometry": {"coordinates":[35.02822,-16.60365],"type":"Point"}

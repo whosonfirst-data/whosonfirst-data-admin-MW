@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.28714,-13.65656,33.32714,-13.61656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632383
@@ -35,7 +39,7 @@
         "gn:id":929293
     },
     "wof:country":"MW",
-    "wof:geomhash":"942574a2abf8c78a36f9d10cd8a659ca",
+    "wof:geomhash":"6c5839658816d6c9e0e9e7e8ac3f63fa",
     "wof:hierarchy":[
         {
             "country_id":85632383,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209140707,
-    "wof:lastmodified":1536296514,
+    "wof:lastmodified":1566612414,
     "wof:name":"Kalambwe",
     "wof:parent_id":85632383,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.307140000000004,
+    33.30714,
     -13.63656,
-    33.307140000000004,
+    33.30714,
     -13.63656
 ],
   "geometry": {"coordinates":[33.30714,-13.63656],"type":"Point"}

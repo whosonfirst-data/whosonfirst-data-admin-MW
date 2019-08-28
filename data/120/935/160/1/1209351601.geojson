@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"34.06333,-13.33667,34.10333,-13.29667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632383
@@ -35,7 +39,7 @@
         "gn:id":930958
     },
     "wof:country":"MW",
-    "wof:geomhash":"5c47cee59b7fb341112c988777807613",
+    "wof:geomhash":"4c2d19ae7bad4150d2586abb8991cace",
     "wof:hierarchy":[
         {
             "country_id":85632383,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209351601,
-    "wof:lastmodified":1536289723,
+    "wof:lastmodified":1566612421,
     "wof:name":"Chimbalanga",
     "wof:parent_id":85632383,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     34.08333,
-    -13.316670000000002,
+    -13.31667,
     34.08333,
-    -13.316670000000002
+    -13.31667
 ],
   "geometry": {"coordinates":[34.08333,-13.31667],"type":"Point"}
 }

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"34.41333,-13.85333,34.45333,-13.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632383
@@ -35,7 +39,7 @@
         "gn:id":924917
     },
     "wof:country":"MW",
-    "wof:geomhash":"10514049f80f3198b63445e70b9b0d9d",
+    "wof:geomhash":"367b70c81f13c5ee156e22e5fec738e0",
     "wof:hierarchy":[
         {
             "country_id":85632383,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209140621,
-    "wof:lastmodified":1536296517,
+    "wof:lastmodified":1566612415,
     "wof:name":"Ngolomi",
     "wof:parent_id":85632383,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     34.43333,
-    -13.833329999999998,
+    -13.83333,
     34.43333,
-    -13.833329999999998
+    -13.83333
 ],
   "geometry": {"coordinates":[34.43333,-13.83333],"type":"Point"}
 }

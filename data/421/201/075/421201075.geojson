@@ -10,6 +10,9 @@
     "geom:latitude":-13.7804,
     "geom:longitude":34.4587,
     "iso:country":"MW",
+    "lbl:bbox":"34.4387,-13.8004,34.4787,-13.7604",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -191,7 +194,7 @@
     "wof:concordances":{
         "gn:id":924055,
         "gp:id":1369046,
-        "qs:id":910718,
+        "qs_pg:id":910718,
         "wd:id":"Q979028",
         "wk:page":"Salima (township)"
     },
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":421201075,
-    "wof:lastmodified":1563578917,
+    "wof:lastmodified":1566612566,
     "wof:name":"Salima",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

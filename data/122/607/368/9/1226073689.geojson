@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.68,-13.47,33.72,-13.43",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0646\u062a\u062f\u0627\u0628"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1226073689,
-    "wof:lastmodified":1564130249,
+    "wof:lastmodified":1566612710,
     "wof:name":"Mandate",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"34.97572,-15.78984,35.01572,-15.74984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swa_x_preferred":[
         "Kabula"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360022365,
-    "wof:lastmodified":1564129996,
+    "wof:lastmodified":1566612543,
     "wof:name":"Kabula",
     "wof:parent_id":1108784761,
     "wof:placetype":"locality",

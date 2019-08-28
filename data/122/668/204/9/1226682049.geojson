@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"35.80206,-15.31575,35.84206,-15.27575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Burnett"
     ],
@@ -60,8 +64,7 @@
         "\u0411\u0435\u0440\u043d\u0435\u0442\u0442"
     ],
     "name:und_x_variant":[
-        "Gotangota",
-        "Burnett"
+        "Gotangota"
     ],
     "name:vol_x_preferred":[
         "Burnett"
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1226682049,
-    "wof:lastmodified":1564130194,
+    "wof:lastmodified":1566612678,
     "wof:name":"Burnett",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

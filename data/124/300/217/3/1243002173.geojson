@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"33.61333,-13.13667,33.65333,-13.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u062b\u0627"
     ],
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":1243002173,
-    "wof:lastmodified":1564130028,
+    "wof:lastmodified":1566612574,
     "wof:name":"Leza",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

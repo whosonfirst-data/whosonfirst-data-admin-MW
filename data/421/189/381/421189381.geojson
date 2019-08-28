@@ -10,10 +10,14 @@
     "geom:latitude":-11.23434,
     "geom:longitude":34.21365,
     "iso:country":"MW",
+    "lbl:bbox":"34.19365,-11.25434,34.23365,-11.21434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Usiska"
     ],
     "qs:gn_country":"MW",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":923508,
         "gp:id":1369302,
-        "qs:id":44291
+        "qs_pg:id":44291
     },
     "wof:country":"MW",
     "wof:created":1459009623,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421189381,
-    "wof:lastmodified":1501216397,
+    "wof:lastmodified":1566612564,
     "wof:name":"Usisya",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

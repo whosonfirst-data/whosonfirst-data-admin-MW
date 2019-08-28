@@ -10,6 +10,9 @@
     "geom:latitude":-14.82027,
     "geom:longitude":34.63586,
     "iso:country":"MW",
+    "lbl:bbox":"34.61586,-14.84027,34.65586,-14.80027",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -65,7 +68,7 @@
     "name:tur_x_preferred":[
         "Ntcheu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ncheu"
     ],
     "name:zho_x_preferred":[
@@ -191,7 +194,7 @@
     "wof:concordances":{
         "gn:id":924492,
         "gp:id":1368874,
-        "qs:id":183497,
+        "qs_pg:id":183497,
         "wd:id":"Q1022517",
         "wk:page":"Ntcheu"
     },
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":421198537,
-    "wof:lastmodified":1563578914,
+    "wof:lastmodified":1566612565,
     "wof:name":"Ntcheu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

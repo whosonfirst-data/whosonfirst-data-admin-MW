@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Blantyre",
     "iso:country":"MW",
+    "lbl:bbox":"34.64667,-14.58667,34.68667,-14.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632383
@@ -35,7 +39,7 @@
         "gn:id":924271
     },
     "wof:country":"MW",
-    "wof:geomhash":"6caf0fad134d8796ba9537bf6d11f5e8",
+    "wof:geomhash":"799644dc58cbe53ed5a1c59b8de31c3f",
     "wof:hierarchy":[
         {
             "country_id":85632383,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209348271,
-    "wof:lastmodified":1536289835,
+    "wof:lastmodified":1566612428,
     "wof:name":"Ondwe",
     "wof:parent_id":85632383,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     34.66667,
-    -14.566670000000002,
+    -14.56667,
     34.66667,
-    -14.566670000000002
+    -14.56667
 ],
   "geometry": {"coordinates":[34.66667,-14.56667],"type":"Point"}
 }

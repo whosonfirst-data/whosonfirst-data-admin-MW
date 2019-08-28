@@ -10,8 +10,12 @@
     "geom:latitude":-11.01863,
     "geom:longitude":33.85746,
     "iso:country":"MW",
+    "lbl:bbox":"33.83746,-11.03863,33.87746,-10.99863",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0631\u0627\u0645\u0641\u06cc"
@@ -55,7 +59,7 @@
     "name:tur_x_preferred":[
         "Rumphi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rumpi Boma"
     ],
     "name:zho_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":924102,
         "gp:id":1369029,
-        "qs:id":256998,
+        "qs_pg:id":256998,
         "wd:id":"Q1022535",
         "wk:page":"Rumphi"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421170755,
-    "wof:lastmodified":1563578918,
+    "wof:lastmodified":1566612566,
     "wof:name":"Rumphi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
