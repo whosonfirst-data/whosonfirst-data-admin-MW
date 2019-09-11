@@ -9,7 +9,6 @@
     "geom:bbox":"34.5417981365,-12.1245301312,34.7623531505,-11.9705343627",
     "geom:latitude":-12.044347,
     "geom:longitude":34.662309,
-    "gn:id":"",
     "iso:country":"MW",
     "label:eng_x_preferred_longname":[
         "Likoma District"
@@ -19,85 +18,34 @@
     "lbl:min_zoom":8.0,
     "mps:latitude":-12.0637,
     "mps:longitude":34.708408,
-    "mz:categories":[],
     "mz:hierarchy_label":1,
-    "mz:hours":[],
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
-    "name:ara_x_colloquial":[],
-    "name:ara_x_preferred":[],
-    "name:ara_x_variant":[],
-    "name:ben_x_colloquial":[],
-    "name:ben_x_preferred":[],
-    "name:ben_x_variant":[],
-    "name:bul_x_colloquial":[],
     "name:bul_x_preferred":[
         "\u041b\u0438\u043a\u043e\u043c\u0430"
     ],
-    "name:deu_x_colloquial":[],
     "name:deu_x_preferred":[
         "Likoma"
     ],
-    "name:ell_x_preferred":[],
-    "name:eng_x_colloquial":[],
     "name:eng_x_preferred":[
         "Nkhata Bay"
     ],
-    "name:eng_x_variant":[],
-    "name:fra_x_colloquial":[],
     "name:fra_x_preferred":[
         "Likoma"
     ],
-    "name:fre_x_colloquial":[],
-    "name:fre_x_variant":[],
-    "name:ger_x_colloquial":[],
-    "name:ger_x_variant":[],
-    "name:gre_x_colloquial":[],
-    "name:gre_x_variant":[],
-    "name:hin_x_colloquial":[],
-    "name:hin_x_preferred":[],
-    "name:hin_x_variant":[],
-    "name:ita_x_colloquial":[],
-    "name:ita_x_preferred":[],
-    "name:ita_x_variant":[],
-    "name:jap_x_colloquial":[],
-    "name:jap_x_preferred":[],
-    "name:jap_x_variant":[],
-    "name:kor_x_colloquial":[],
-    "name:kor_x_preferred":[],
-    "name:kor_x_variant":[],
-    "name:nds_x_colloquial":[],
     "name:nds_x_preferred":[
         "Likoma"
     ],
-    "name:pol_x_colloquial":[],
     "name:pol_x_preferred":[
         "Likoma"
     ],
-    "name:por_x_colloquial":[],
-    "name:por_x_preferred":[],
-    "name:por_x_variant":[
+    "name:por_x_preferred":[
         "Likoma"
     ],
-    "name:ron_x_colloquial":[],
     "name:ron_x_preferred":[
         "Likoma"
     ],
-    "name:rus_x_colloquial":[],
-    "name:rus_x_preferred":[],
-    "name:rus_x_variant":[],
-    "name:spa_x_colloquial":[],
-    "name:spa_x_preferred":[],
-    "name:spa_x_variant":[],
-    "name:tur_x_colloquial":[],
-    "name:tur_x_preferred":[],
-    "name:tur_x_variant":[],
-    "name:vie_x_colloquial":[],
-    "name:vie_x_preferred":[],
-    "name:vie_x_variant":[],
-    "name:zho_x_colloquial":[],
-    "name:zho_x_preferred":[],
     "qs:a0":"Malawi",
     "qs:a0_lc":"MW",
     "qs:a1":"Likoma",
@@ -147,7 +95,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1566612267,
+    "wof:lastmodified":1568233903,
     "wof:name":"Likoma",
     "wof:parent_id":85632383,
     "wof:placetype":"region",
