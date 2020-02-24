@@ -543,6 +543,9 @@
     },
     "wof:country":"MW",
     "wof:created":1459008780,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aa87de802bd4969eacf12a5f73c97ef0",
     "wof:hierarchy":[
         {
@@ -552,7 +555,7 @@
         }
     ],
     "wof:id":421168781,
-    "wof:lastmodified":1566612562,
+    "wof:lastmodified":1582331736,
     "wof:name":"Lilongwe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

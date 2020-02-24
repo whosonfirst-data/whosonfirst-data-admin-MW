@@ -72,6 +72,9 @@
         "unlc:id":"MW-LI"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3745b40c42b1b596a753da7df8aad619",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1561749656,
+    "wof:lastmodified":1582331731,
     "wof:name":"Lilongwe",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

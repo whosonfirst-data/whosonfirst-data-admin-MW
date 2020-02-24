@@ -65,6 +65,9 @@
         "wd:id":"Q1022517"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0708c0bf51f08c05e02433b37e431d18",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1529540359,
+    "wof:lastmodified":1582331730,
     "wof:name":"Ntcheu",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

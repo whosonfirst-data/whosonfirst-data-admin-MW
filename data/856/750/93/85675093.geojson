@@ -92,6 +92,9 @@
         "wd:id":"Q219100"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"641c84f33c4ff4e54e6e532af2d3bb21",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1529540333,
+    "wof:lastmodified":1582331730,
     "wof:name":"Zomba",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

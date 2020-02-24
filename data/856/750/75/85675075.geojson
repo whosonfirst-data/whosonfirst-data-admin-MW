@@ -63,6 +63,9 @@
         "unlc:id":"MW-CK"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"12849b6c8a70973f096c13982bbd5c3b",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1529540364,
+    "wof:lastmodified":1582331731,
     "wof:name":"Chikwawa",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

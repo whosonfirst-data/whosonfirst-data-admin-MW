@@ -61,6 +61,9 @@
         "unlc:id":"MW-MH"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2093b6d59964d081aa8040cf994b2643",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1529540337,
+    "wof:lastmodified":1582331730,
     "wof:name":"Machinga",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

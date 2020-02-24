@@ -83,6 +83,9 @@
         "wd:id":"Q3208475"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7cbbe3901e9a324bd0ed1d2e131dfa64",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1529540362,
+    "wof:lastmodified":1582331731,
     "wof:name":"Balaka",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

@@ -65,6 +65,9 @@
         "wd:id":"Q1666876"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d70f6efe50fb44ee35dee56804cab5ed",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1529540366,
+    "wof:lastmodified":1582331731,
     "wof:name":"Mzimba",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

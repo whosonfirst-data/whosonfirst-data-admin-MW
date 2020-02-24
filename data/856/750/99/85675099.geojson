@@ -63,6 +63,9 @@
         "unlc:id":"MW-BL"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ff37500d30ded802e052f6a1476dd951",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1529540333,
+    "wof:lastmodified":1582331731,
     "wof:name":"Blantyre",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

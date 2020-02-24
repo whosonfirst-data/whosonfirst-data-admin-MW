@@ -71,6 +71,9 @@
         "wd:id":"Q526053"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9bdc26487aa23b85978bcca25476dd19",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1529540362,
+    "wof:lastmodified":1582331730,
     "wof:name":"Salima",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

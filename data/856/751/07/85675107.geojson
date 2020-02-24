@@ -63,6 +63,9 @@
         "unlc:id":"MW-MU"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"65129c7ec769eb53f00f309da1706ad7",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1529540334,
+    "wof:lastmodified":1582331730,
     "wof:name":"Mulanje",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

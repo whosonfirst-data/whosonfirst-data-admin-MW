@@ -901,6 +901,10 @@
     },
     "wof:country":"MW",
     "wof:country_alpha3":"MWI",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"8e34ffe4400307584143030831fb7862",
     "wof:hierarchy":[
         {
@@ -917,7 +921,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1566612266,
+    "wof:lastmodified":1582331729,
     "wof:name":"Malawi",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
