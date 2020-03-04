@@ -102,6 +102,9 @@
         "wk:page":"Phalombe"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4160a0949e7621738bb81f22492ca259",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1529540335,
+    "wof:lastmodified":1582331730,
     "wof:name":"Phalombe",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

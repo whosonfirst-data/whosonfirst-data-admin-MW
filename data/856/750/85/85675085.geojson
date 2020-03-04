@@ -97,6 +97,9 @@
         "wd:id":"Q2144010"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3a687a5d72a99c67b9ae556d13e967ad",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1529540332,
+    "wof:lastmodified":1582331731,
     "wof:name":"Thyolo",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

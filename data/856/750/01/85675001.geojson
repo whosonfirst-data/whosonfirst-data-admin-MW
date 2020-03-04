@@ -54,6 +54,9 @@
         "gp:id":20070125
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"70eaad21ce3078112c6278c4c9de474b",
     "wof:hierarchy":[
         {
@@ -71,7 +74,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1529540333,
+    "wof:lastmodified":1582331731,
     "wof:name":"Chitipa",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

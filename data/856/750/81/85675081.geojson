@@ -63,6 +63,9 @@
         "unlc:id":"MW-CR"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ceb806e77719ca7da3ce02158806e269",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1529540332,
+    "wof:lastmodified":1582331731,
     "wof:name":"Chiradzulu",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

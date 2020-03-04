@@ -63,6 +63,9 @@
         "unlc:id":"MW-NS"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4dc1658ea762ae7c501c99b3e1866c94",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1529540333,
+    "wof:lastmodified":1582331730,
     "wof:name":"Nsanje",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

@@ -68,6 +68,9 @@
         "wd:id":"Q3038288"
     },
     "wof:country":"MW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3026253d29548d3eaf5f7e2fffb9357f",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1529540337,
+    "wof:lastmodified":1582331730,
     "wof:name":"Dowa",
     "wof:parent_id":85632383,
     "wof:placetype":"region",
