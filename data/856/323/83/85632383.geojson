@@ -877,9 +877,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Malawi",
-        "digitalenvoy:country_code":[
-            454
-        ],
+        "digitalenvoy:country_code":454,
         "fb:id":"en.malawi",
         "fifa:id":"MWI",
         "fips:code":"MI",
@@ -924,7 +922,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1583529189,
+    "wof:lastmodified":1583797397,
     "wof:name":"Malawi",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
