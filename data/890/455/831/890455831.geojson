@@ -63,6 +63,9 @@
     "name:fin_x_preferred":[
         "Chiradzulun piirikunta"
     ],
+    "name:fra_x_preferred":[
+        "Chiradzulu"
+    ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abf\u0ab0\u0abe\u0aa1\u0a9d\u0ac1\u0ab2\u0ac1 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":890455831,
-    "wof:lastmodified":1566612568,
+    "wof:lastmodified":1627522384,
     "wof:name":"Chiradzulu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

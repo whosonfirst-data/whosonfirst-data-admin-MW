@@ -63,6 +63,9 @@
     "name:fin_x_preferred":[
         "Ntchisin piirikunta"
     ],
+    "name:fra_x_preferred":[
+        "Ntchisi"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acd\u0a9f\u0a9a\u0ac0\u0ab8\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":890430565,
-    "wof:lastmodified":1566612567,
+    "wof:lastmodified":1627522384,
     "wof:name":"Ntchisi",
     "wof:parent_id":-1,
     "wof:placetype":"county",
