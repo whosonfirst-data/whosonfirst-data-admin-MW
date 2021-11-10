@@ -17,17 +17,26 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u064a\u0645\u0629"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0627\u0644\u06cc\u0645\u0627"
     ],
     "name:aze_x_preferred":[
         "Salima"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09b2\u09bf\u09ae\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Salima"
     ],
     "name:deu_x_preferred":[
         "Salima"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bb\u03af\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Salima"
@@ -38,6 +47,15 @@
     "name:fra_x_preferred":[
         "Salima"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05dc\u05d9\u05de\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0932\u093f\u092e\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Salima"
+    ],
     "name:ind_x_preferred":[
         "Salima"
     ],
@@ -46,6 +64,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30ea\u30de"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b4\ub9ac\ub9c8"
     ],
     "name:lit_x_preferred":[
         "Salima"
@@ -59,16 +80,31 @@
     "name:pol_x_preferred":[
         "Salima"
     ],
+    "name:por_x_preferred":[
+        "Salima"
+    ],
     "name:ron_x_preferred":[
         "Salima"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u0438\u043c\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Salima"
+    ],
     "name:swe_x_preferred":[
         "Salima"
     ],
     "name:tur_x_preferred":[
+        "Salima"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b\u0456\u043c\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0644\u06cc\u0645\u06c1"
+    ],
+    "name:vie_x_preferred":[
         "Salima"
     ],
     "name:zho_x_preferred":[
@@ -209,7 +245,7 @@
         }
     ],
     "wof:id":421201075,
-    "wof:lastmodified":1566612566,
+    "wof:lastmodified":1636497492,
     "wof:name":"Salima",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

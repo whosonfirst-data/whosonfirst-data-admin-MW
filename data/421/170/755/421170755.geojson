@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Rumphi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05de\u05e4\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Rumphi"
+    ],
     "name:ita_x_preferred":[
         "Rumphi"
     ],
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421170755,
-    "wof:lastmodified":1566612566,
+    "wof:lastmodified":1636497493,
     "wof:name":"Rumphi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

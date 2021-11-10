@@ -69,8 +69,14 @@
     "name:guj_x_preferred":[
         "\u0ab0\u0ac1\u0aae\u0acd\u0aab\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05de\u05e4\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0930\u0941\u092e\u094d\u092b\u0940 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Rumphi"
     ],
     "name:ind_x_preferred":[
         "Distrik Rumphi"
@@ -181,7 +187,7 @@
         }
     ],
     "wof:id":890455827,
-    "wof:lastmodified":1566612568,
+    "wof:lastmodified":1636497494,
     "wof:name":"Rumphi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

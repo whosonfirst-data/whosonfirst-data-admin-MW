@@ -145,6 +145,9 @@
         "\u0645\u0632\u06cc\u0645\u0628\u0627 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Mzimba"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Mzimba"
     ],
     "name:zho_x_preferred":[
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":890438051,
-    "wof:lastmodified":1566612570,
+    "wof:lastmodified":1636497496,
     "wof:name":"Mzimba",
     "wof:parent_id":-1,
     "wof:placetype":"county",

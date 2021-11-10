@@ -26,6 +26,9 @@
     "name:azb_x_preferred":[
         "\u0646\u06a9\u0647\u0627\u062a\u0627 \u0628\u0627\u06cc"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u0999\u09cd\u0996\u09be\u09a4\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Nkhata Bay"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:deu_x_preferred":[
         "Nkhata Bay"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ba\u03ac\u03c4\u03b1 \u039c\u03c0\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
         "Nkhata Bay"
@@ -44,11 +50,26 @@
     "name:fra_x_preferred":[
         "Nkhata Bay"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e5 \u05e0\u05e7\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0902\u0916\u093e\u0924\u093e \u092c\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Nkhata Bay"
+    ],
+    "name:ind_x_preferred":[
+        "Nkhata Bay"
+    ],
     "name:ita_x_preferred":[
         "Nkhata Bay"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30bf\u30d9\u30a4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc740\uce74\ud0c0 \ubca0\uc774"
     ],
     "name:lit_x_preferred":[
         "Nkhata B\u0117jus"
@@ -68,14 +89,26 @@
     "name:ron_x_preferred":[
         "Nkhata Bay"
     ],
+    "name:spa_x_preferred":[
+        "Nkhata Bay"
+    ],
     "name:swe_x_preferred":[
         "Nkhata Bay"
     ],
     "name:tur_x_preferred":[
         "Nkhata Bay"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0445\u0430\u0442\u0430-\u0411\u0435\u0439"
+    ],
     "name:und_x_variant":[
         "Nkata Bay"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0646\u06a9\u06be\u0627\u062a\u0627 \u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Nkhata Bay"
     ],
     "name:zho_x_preferred":[
         "\u6069\u5361\u5854\u7063"
@@ -218,7 +251,7 @@
         }
     ],
     "wof:id":421173165,
-    "wof:lastmodified":1566612564,
+    "wof:lastmodified":1636497491,
     "wof:name":"Nkhata Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Dowa"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05d5\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Dowa"
+    ],
     "name:ita_x_preferred":[
         "Dowa"
     ],
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421170773,
-    "wof:lastmodified":1566612566,
+    "wof:lastmodified":1636497493,
     "wof:name":"Dowa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

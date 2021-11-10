@@ -23,11 +23,17 @@
     "name:azb_x_preferred":[
         "\u0646\u062a\u0686\u0626\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09a8\u09b6\u09c7\u0989"
+    ],
     "name:ceb_x_preferred":[
         "Ntcheu"
     ],
     "name:deu_x_preferred":[
         "Ntcheu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03c3\u03ad\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Ntcheu"
@@ -38,11 +44,26 @@
     "name:fra_x_preferred":[
         "Ntcheu"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d8\u05e6'\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0902\u091a\u0947\u0909"
+    ],
+    "name:hun_x_preferred":[
+        "Ntcheu"
+    ],
+    "name:ind_x_preferred":[
+        "Ntcheu"
+    ],
     "name:ita_x_preferred":[
         "Ntcheu"
     ],
     "name:jpn_x_preferred":[
         "\u30f3\u30c1\u30a7\u30a6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc740\uce04"
     ],
     "name:nld_x_preferred":[
         "Ntcheu"
@@ -62,14 +83,26 @@
     "name:rus_x_preferred":[
         "\u041d\u0447\u0435\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Ntcheu"
+    ],
     "name:swe_x_preferred":[
         "Ntcheu"
     ],
     "name:tur_x_preferred":[
         "Ntcheu"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0442\u0447\u0435\u0443"
+    ],
     "name:und_x_variant":[
         "Ncheu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0634\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Ntcheu"
     ],
     "name:zho_x_preferred":[
         "\u6069\u5f7b\u4e4c"
@@ -209,7 +242,7 @@
         }
     ],
     "wof:id":421198537,
-    "wof:lastmodified":1566612565,
+    "wof:lastmodified":1636497491,
     "wof:name":"Ntcheu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

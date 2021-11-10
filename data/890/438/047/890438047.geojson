@@ -139,6 +139,9 @@
         "\u0646\u062a\u0686\u06cc\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Ntcheu"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Ntcheu"
     ],
     "name:zho_x_preferred":[
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":890438047,
-    "wof:lastmodified":1566612568,
+    "wof:lastmodified":1636497494,
     "wof:name":"Ntcheu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

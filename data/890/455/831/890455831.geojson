@@ -142,6 +142,9 @@
         "\u0686\u06cc\u0631\u0627\u062f\u0632\u0648\u0644\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Chiradzulu"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Chiradzulu"
     ],
     "name:zho_x_preferred":[
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":890455831,
-    "wof:lastmodified":1627522384,
+    "wof:lastmodified":1636497494,
     "wof:name":"Chiradzulu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -143,6 +143,9 @@
         "Cholo"
     ],
     "name:urd_x_preferred":[
+        "\u062a\u06be\u0627\u0626\u06cc\u0648\u0644\u0648"
+    ],
+    "name:urd_x_variant":[
         "\u062a\u06be\u06cc\u0648\u0644\u0648"
     ],
     "name:vie_x_preferred":[
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":890433501,
-    "wof:lastmodified":1566612570,
+    "wof:lastmodified":1636497496,
     "wof:name":"Thyolo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

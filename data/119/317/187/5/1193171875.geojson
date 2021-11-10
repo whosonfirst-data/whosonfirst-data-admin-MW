@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e8\u05d5\u05e1\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Karusi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1193171875,
-    "wof:lastmodified":1566612454,
+    "wof:lastmodified":1636497487,
     "wof:name":"Karusi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

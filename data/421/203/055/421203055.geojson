@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Ntchisi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d8\u05e6'\u05d9\u05e1\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Ntchisi"
+    ],
     "name:ita_x_preferred":[
         "Ntchisi"
     ],
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421203055,
-    "wof:lastmodified":1566612563,
+    "wof:lastmodified":1636497490,
     "wof:name":"Ntchisi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

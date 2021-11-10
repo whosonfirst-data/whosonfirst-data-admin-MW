@@ -26,11 +26,17 @@
     "name:azb_x_preferred":[
         "\u0645\u0627\u0646\u0642\u0648\u0686\u06cc"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u0982\u0997\u09cb\u099a\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Mangochi"
     ],
     "name:deu_x_preferred":[
         "Mangochi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03b3\u03ba\u03cc\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Mangochi"
@@ -41,11 +47,26 @@
     "name:fra_x_preferred":[
         "Mangochi"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e0\u05d2\u05d5\u05e7\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0902\u0917\u094b\u091a\u093f"
+    ],
+    "name:hun_x_preferred":[
+        "Mangochi"
+    ],
+    "name:ind_x_preferred":[
+        "Mangochi"
+    ],
     "name:ita_x_preferred":[
         "Mangochi"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30f3\u30b4\u30c1"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9dd\uace0\uce58"
     ],
     "name:lit_x_preferred":[
         "Mango\u010dis"
@@ -80,8 +101,17 @@
     "name:tur_x_preferred":[
         "Mangochi"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u0433\u043e\u0447\u0456"
+    ],
     "name:und_x_variant":[
         "Fort Johnston"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u06af\u0648\u0686\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Mangochi"
     ],
     "name:zho_x_preferred":[
         "\u66fc\u6208\u5207"
@@ -224,7 +254,7 @@
         }
     ],
     "wof:id":421195229,
-    "wof:lastmodified":1566612562,
+    "wof:lastmodified":1636497490,
     "wof:name":"Mangochi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

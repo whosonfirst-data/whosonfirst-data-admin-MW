@@ -139,6 +139,9 @@
         "\u0645\u0686\u06cc\u0646\u062c\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Mchinji"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Mchinji"
     ],
     "name:zho_x_preferred":[
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":890438057,
-    "wof:lastmodified":1566612570,
+    "wof:lastmodified":1636497496,
     "wof:name":"Mchinji",
     "wof:parent_id":-1,
     "wof:placetype":"county",

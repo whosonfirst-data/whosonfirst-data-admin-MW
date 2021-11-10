@@ -139,7 +139,16 @@
         "\u0645\u0648\u0627\u0646\u0632\u0627 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Mwanza"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Mwanza"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u59c6\u4e07\u624e"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u59c6\u842c\u624e"
     ],
     "name:zho_x_preferred":[
         "\u59c6\u842c\u7d2e\u7e23"
@@ -172,7 +181,7 @@
         }
     ],
     "wof:id":890438053,
-    "wof:lastmodified":1566612568,
+    "wof:lastmodified":1636497495,
     "wof:name":"Mwanza",
     "wof:parent_id":-1,
     "wof:placetype":"county",

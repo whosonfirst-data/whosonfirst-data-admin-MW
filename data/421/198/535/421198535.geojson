@@ -23,6 +23,9 @@
     "name:azb_x_preferred":[
         "\u0686\u06cc\u062a\u06cc\u067e\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09bf\u09a4\u09bf\u09aa\u09be"
+    ],
     "name:bre_x_preferred":[
         "Chitipa"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:deu_x_preferred":[
         "Chitipa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03c4\u03b9\u03c0\u03ac"
     ],
     "name:eng_x_preferred":[
         "Chitipa"
@@ -41,6 +47,18 @@
     "name:fra_x_preferred":[
         "Chitipa"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05d8\u05d9\u05e4\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u093f\u0924\u093f\u092a\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Chitipa"
+    ],
+    "name:ind_x_preferred":[
+        "Chitipa"
+    ],
     "name:isl_x_preferred":[
         "Chitipa"
     ],
@@ -49,6 +67,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30c6\u30a3\u30d1"
+    ],
+    "name:kor_x_preferred":[
+        "\uce58\ud2f0\ud30c"
     ],
     "name:lit_x_preferred":[
         "\u010citipa"
@@ -68,8 +89,14 @@
     "name:ron_x_preferred":[
         "Chitipa"
     ],
+    "name:spa_x_preferred":[
+        "Chitipa"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0438\u0442\u0438\u043f\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Chitipa"
     ],
     "name:tur_x_preferred":[
         "Chitipa"
@@ -79,6 +106,12 @@
     ],
     "name:und_x_variant":[
         "Chipita"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u0679\u06cc\u067e\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Chitipa"
     ],
     "name:zho_x_preferred":[
         "\u5947\u8482\u5e15"
@@ -221,7 +254,7 @@
         }
     ],
     "wof:id":421198535,
-    "wof:lastmodified":1566612564,
+    "wof:lastmodified":1636497491,
     "wof:name":"Chitipa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

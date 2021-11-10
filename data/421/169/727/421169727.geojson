@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Chikwawa"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05e7\u05d5\u05d5\u05d0\u05d5\u05d5\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Chikwawa"
+    ],
     "name:ita_x_preferred":[
         "Chikwawa"
     ],
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421169727,
-    "wof:lastmodified":1566612563,
+    "wof:lastmodified":1636497490,
     "wof:name":"Chikwawa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"34.0199800199,-11.4599865531,34.0199800199,-11.4599865531",
+    "geom:bbox":"34.01998,-11.459987,34.01998,-11.459987",
     "geom:latitude":-11.459987,
     "geom:longitude":34.01998,
     "iso:country":"MW",
@@ -60,8 +60,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0a9d\u0ac1\u0a9d\u0ac1"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d6\u05d5\u05d6\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u0942 \u091c\u093c\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Mzuzu"
     ],
     "name:ind_x_preferred":[
         "Mzuzu"
@@ -270,7 +276,7 @@
     },
     "wof:country":"MW",
     "wof:created":1499131056,
-    "wof:geomhash":"338261de3763cfe5b935580a762ac5a4",
+    "wof:geomhash":"341bdfd0d3a86897ab1b2c6d5a1ddd9e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -280,7 +286,7 @@
         }
     ],
     "wof:id":1141909261,
-    "wof:lastmodified":1566612713,
+    "wof:lastmodified":1636497500,
     "wof:name":"Mzuzu",
     "wof:parent_id":85675015,
     "wof:placetype":"locality",
@@ -292,10 +298,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.01998001988045,
-    -11.45998655308932,
-    34.01998001988045,
-    -11.45998655308932
+    34.01998,
+    -11.459987,
+    34.01998,
+    -11.459987
 ],
-  "geometry": {"coordinates":[34.01998001988045,-11.45998655308932],"type":"Point"}
+  "geometry": {"coordinates":[34.01998,-11.459987],"type":"Point"}
 }

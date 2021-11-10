@@ -17,17 +17,50 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0627\u0646\u0632\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09ae\u09cb\u09df\u09be\u099e\u09cd\u099c\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Mwanza"
     ],
     "name:deu_x_preferred":[
         "Mwanza"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03ac\u03bd\u03b6\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Mwanza"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0627\u0646\u0632\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Mwanza"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d5\u05d0\u05e8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0902\u0935\u093e\u0902\u091c\u093c\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Mwanza"
+    ],
+    "name:ind_x_preferred":[
+        "Mwanza"
+    ],
+    "name:ita_x_preferred":[
         "Mwanza"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30ef\u30f3\u30b6"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbc0\uc644\uc790"
     ],
     "name:nld_x_preferred":[
         "Mwanza"
@@ -38,11 +71,35 @@
     "name:pol_x_preferred":[
         "Mwanza"
     ],
+    "name:por_x_preferred":[
+        "Mwanza"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0432\u0430\u043d\u0437\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Mwanza"
+    ],
     "name:swe_x_preferred":[
         "Mwanza"
     ],
     "name:tur_x_preferred":[
         "Mwanza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0432\u0430\u043d\u0437\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0646\u0632\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Mwanza"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u59c6\u4e07\u624e"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u59c6\u842c\u624e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Malawi",
@@ -180,7 +237,7 @@
         }
     ],
     "wof:id":421200259,
-    "wof:lastmodified":1566612565,
+    "wof:lastmodified":1636497492,
     "wof:name":"Mwanza",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -44,6 +44,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05e1\u05d5\u05e0\u05d2\u05d5"
     ],
+    "name:hun_x_preferred":[
+        "Kasungu"
+    ],
     "name:ita_x_preferred":[
         "Kasungu"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421167167,
-    "wof:lastmodified":1566612562,
+    "wof:lastmodified":1636497490,
     "wof:name":"Kasungu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -69,8 +69,14 @@
     "name:guj_x_preferred":[
         "\u0aa8\u0acd\u0a9f\u0a9a\u0ac0\u0ab8\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d8\u05e6'\u05d9\u05e1\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u091f\u0936\u093f\u0938\u0940 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Ntchisi"
     ],
     "name:ind_x_preferred":[
         "Distrik Ntchisi"
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":890430565,
-    "wof:lastmodified":1627522384,
+    "wof:lastmodified":1636497494,
     "wof:name":"Ntchisi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

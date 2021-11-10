@@ -70,8 +70,14 @@
     "name:guj_x_preferred":[
         "\u0aab\u0abe\u0ab2\u0acb\u0aae\u0acd\u0aac\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d5\u05de\u05d1\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092b\u0932\u094b\u092e\u094d\u092c\u0940 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Phalombe"
     ],
     "name:ind_x_preferred":[
         "Distrik Phalombe"
@@ -211,7 +217,7 @@
         }
     ],
     "wof:id":1125865235,
-    "wof:lastmodified":1566612571,
+    "wof:lastmodified":1636497497,
     "wof:name":"Phalombe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
