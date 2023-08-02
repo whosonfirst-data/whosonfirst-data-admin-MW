@@ -38,6 +38,9 @@
     "name:und_x_variant":[
         "Chinteche"
     ],
+    "name:zul_x_preferred":[
+        "Chintheche"
+    ],
     "qs:gn_country":"MW",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":930727,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421166453,
-    "wof:lastmodified":1566612562,
+    "wof:lastmodified":1690846536,
     "wof:name":"Chintheche",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

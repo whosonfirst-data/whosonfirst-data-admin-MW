@@ -87,6 +87,9 @@
     "name:kor_x_preferred":[
         "\uc740\uc0b0\uc81c \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc740\uc0b0\uc81c\ud604"
+    ],
     "name:lav_x_preferred":[
         "Nsand\u017ees distrikts"
     ],
@@ -98,6 +101,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Nsanje"
+    ],
+    "name:nan_x_preferred":[
+        "Nsanje Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Nsanje"
@@ -153,6 +159,9 @@
     "name:zho_x_preferred":[
         "\u6069\u6851\u5091\u7e23"
     ],
+    "name:zul_x_preferred":[
+        "Nsanje District"
+    ],
     "qs:name":"Nsanje District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -181,7 +190,7 @@
         }
     ],
     "wof:id":890430567,
-    "wof:lastmodified":1636497493,
+    "wof:lastmodified":1690846542,
     "wof:name":"Nsanje",
     "wof:parent_id":-1,
     "wof:placetype":"county",

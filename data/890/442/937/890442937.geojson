@@ -90,6 +90,9 @@
     "name:kor_x_preferred":[
         "\ub370\uc790 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ub370\uc790\ud604"
+    ],
     "name:lav_x_preferred":[
         "Dedzas distrikts"
     ],
@@ -101,6 +104,9 @@
     ],
     "name:msa_x_preferred":[
         "Dedza District"
+    ],
+    "name:nan_x_preferred":[
+        "Dedza Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Dedza"
@@ -153,6 +159,9 @@
     "name:zho_x_preferred":[
         "\u4ee3\u624e\u7e23"
     ],
+    "name:zul_x_preferred":[
+        "Dedza District"
+    ],
     "qs:name":"Dedza District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -181,7 +190,7 @@
         }
     ],
     "wof:id":890442937,
-    "wof:lastmodified":1636497496,
+    "wof:lastmodified":1690846547,
     "wof:name":"Dedza",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -96,6 +96,9 @@
     "name:kor_x_preferred":[
         "\uce74\uc22d\uad6c \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uce74\uc22d\uad6c\ud604"
+    ],
     "name:lav_x_preferred":[
         "Kasungu distrikts"
     ],
@@ -110,6 +113,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Kasungu"
+    ],
+    "name:nan_x_preferred":[
+        "Kasungu Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Kasungu"
@@ -135,6 +141,9 @@
     "name:swe_x_preferred":[
         "Kasungu"
     ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c38\u0c41\u0c02\u0c17\u0c41 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
@@ -155,6 +164,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u677e\u53e4\u7e23"
+    ],
+    "name:zul_x_preferred":[
+        "Kasungu District"
     ],
     "qs:name":"Kasungu District",
     "qs:photos_9r":0,
@@ -184,7 +196,7 @@
         }
     ],
     "wof:id":890438063,
-    "wof:lastmodified":1636497495,
+    "wof:lastmodified":1690846545,
     "wof:name":"Kasungu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

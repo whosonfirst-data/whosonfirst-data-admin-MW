@@ -39,6 +39,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0432\u0430\u043d\u0437\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Mwanza"
+    ],
     "name:ceb_x_preferred":[
         "Mwanza District"
     ],
@@ -87,6 +90,9 @@
     "name:kor_x_preferred":[
         "\uc74c\uc644\uc790 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc74c\uc644\uc790\ud604"
+    ],
     "name:lav_x_preferred":[
         "Mvanzas distrikts"
     ],
@@ -98,6 +104,9 @@
     ],
     "name:msa_x_preferred":[
         "Mwanza District"
+    ],
+    "name:nan_x_preferred":[
+        "Mwanza Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Mwanza"
@@ -122,6 +131,9 @@
     ],
     "name:swe_x_preferred":[
         "Mwanza"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bb5\u0ba9\u0bcd\u0b9a\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c35\u0c3e\u0c02\u0c1c\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -153,6 +165,9 @@
     "name:zho_x_preferred":[
         "\u59c6\u842c\u7d2e\u7e23"
     ],
+    "name:zul_x_preferred":[
+        "Mwanza District"
+    ],
     "qs:name":"Mwanza District",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -181,7 +196,7 @@
         }
     ],
     "wof:id":890438053,
-    "wof:lastmodified":1636497495,
+    "wof:lastmodified":1690846545,
     "wof:name":"Mwanza",
     "wof:parent_id":-1,
     "wof:placetype":"county",

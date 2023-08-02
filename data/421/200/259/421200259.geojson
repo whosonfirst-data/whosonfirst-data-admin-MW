@@ -80,6 +80,9 @@
     "name:spa_x_preferred":[
         "Mwanza"
     ],
+    "name:swa_x_preferred":[
+        "Mwanza"
+    ],
     "name:swe_x_preferred":[
         "Mwanza"
     ],
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":421200259,
-    "wof:lastmodified":1636497492,
+    "wof:lastmodified":1690846540,
     "wof:name":"Mwanza",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

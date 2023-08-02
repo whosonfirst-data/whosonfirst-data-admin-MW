@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Rumphi"
+    ],
     "name:azb_x_preferred":[
         "\u0631\u0627\u0645\u0641\u06cc"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u0645\u0641\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Rumphi"
     ],
     "name:fra_x_preferred":[
         "Rumphi"
@@ -59,7 +65,16 @@
     "name:ron_x_preferred":[
         "Rumphi"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u043c\u043f\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Rumphi"
+    ],
     "name:swe_x_preferred":[
+        "Rumphi"
+    ],
+    "name:tum_x_preferred":[
         "Rumphi"
     ],
     "name:tur_x_preferred":[
@@ -70,6 +85,9 @@
     ],
     "name:zho_x_preferred":[
         "\u502b\u6bd4"
+    ],
+    "name:zul_x_preferred":[
+        "Rumphi"
     ],
     "qs:gn_country":"MW",
     "qs:gn_fcode":"PPLA2",
@@ -117,7 +135,7 @@
         }
     ],
     "wof:id":421170755,
-    "wof:lastmodified":1636497493,
+    "wof:lastmodified":1690846541,
     "wof:name":"Rumphi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u0628\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0645\u0628\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Limbe"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u06cc\u0645\u0628\u0647"
     ],
@@ -137,6 +143,9 @@
     "name:zho_x_preferred":[
         "\u6797\u8d1d"
     ],
+    "name:zul_x_preferred":[
+        "Limbe"
+    ],
     "qs:gn_country":"MW",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":927955,
@@ -182,7 +191,7 @@
         }
     ],
     "wof:id":421201469,
-    "wof:lastmodified":1636497492,
+    "wof:lastmodified":1690846541,
     "wof:name":"Limbe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

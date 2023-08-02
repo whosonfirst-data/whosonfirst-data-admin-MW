@@ -106,6 +106,9 @@
     "name:zho_tw_x_preferred":[
         "\u99ac\u6b3d\u52a0"
     ],
+    "name:zul_x_preferred":[
+        "Machinga"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Malawi",
     "ne:ADM0_A3":"MWI",
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":890430545,
-    "wof:lastmodified":1636497493,
+    "wof:lastmodified":1690846543,
     "wof:name":"Machinga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

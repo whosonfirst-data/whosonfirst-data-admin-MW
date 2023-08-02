@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Chikwawa"
+    ],
     "name:ceb_x_preferred":[
         "Chikwawa"
     ],
@@ -53,6 +56,9 @@
     "name:ron_x_preferred":[
         "Chikwawa"
     ],
+    "name:swa_x_preferred":[
+        "Chikwawa"
+    ],
     "name:swe_x_preferred":[
         "Chikwawa"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5947\u5938\u74e6"
+    ],
+    "name:zul_x_preferred":[
+        "Chikwawa"
     ],
     "qs:gn_country":"MW",
     "qs:gn_fcode":"PPLA2",
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":421169727,
-    "wof:lastmodified":1636497490,
+    "wof:lastmodified":1690846537,
     "wof:name":"Chikwawa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

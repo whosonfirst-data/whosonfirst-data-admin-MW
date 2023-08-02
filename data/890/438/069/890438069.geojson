@@ -39,6 +39,9 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0432\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Dowa"
+    ],
     "name:ceb_x_preferred":[
         "Dowa District"
     ],
@@ -93,6 +96,9 @@
     "name:kor_x_preferred":[
         "\ub3c4\uc640 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\uc640\ud604"
+    ],
     "name:lav_x_preferred":[
         "Dovas re\u0123ions"
     ],
@@ -104,6 +110,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Dowa"
+    ],
+    "name:nan_x_preferred":[
+        "Dowa Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Dowa"
@@ -129,6 +138,9 @@
     "name:swe_x_preferred":[
         "Dowa"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bcb\u0bb5\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c21\u0c4b\u0c35\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
@@ -149,6 +161,9 @@
     ],
     "name:zho_x_preferred":[
         "\u591a\u74e6\u7e23"
+    ],
+    "name:zul_x_preferred":[
+        "Dowa District"
     ],
     "qs:name":"Dowa District",
     "qs:photos_9r":0,
@@ -178,7 +193,7 @@
         }
     ],
     "wof:id":890438069,
-    "wof:lastmodified":1636497496,
+    "wof:lastmodified":1690846546,
     "wof:name":"Dowa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

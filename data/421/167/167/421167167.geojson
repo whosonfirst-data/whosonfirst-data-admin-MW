@@ -83,6 +83,9 @@
     "name:spa_x_preferred":[
         "Kasungu"
     ],
+    "name:swa_x_preferred":[
+        "Kasungu"
+    ],
     "name:swe_x_preferred":[
         "Kasungu"
     ],
@@ -91,6 +94,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u677e\u53e4"
+    ],
+    "name:zul_x_preferred":[
+        "Kasungu"
     ],
     "qs:gn_country":"MW",
     "qs:gn_fcode":"PPLA2",
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":421167167,
-    "wof:lastmodified":1636497490,
+    "wof:lastmodified":1690846537,
     "wof:name":"Kasungu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

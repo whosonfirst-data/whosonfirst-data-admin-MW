@@ -47,10 +47,19 @@
     "name:nya_x_preferred":[
         "Mponela"
     ],
+    "name:pol_x_preferred":[
+        "Mponela"
+    ],
+    "name:swa_x_preferred":[
+        "Mponela"
+    ],
     "name:swe_x_preferred":[
         "Mponela"
     ],
     "name:tur_x_preferred":[
+        "Mponela"
+    ],
+    "name:zul_x_preferred":[
         "Mponela"
     ],
     "qs:gn_country":"MW",
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":421196735,
-    "wof:lastmodified":1566612565,
+    "wof:lastmodified":1690846539,
     "wof:name":"Mponela",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

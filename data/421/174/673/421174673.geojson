@@ -98,7 +98,13 @@
     "name:ron_x_preferred":[
         "Nkhotakota"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0445\u043e\u0442\u0430\u043a\u043e\u0442\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Nkhotakota"
+    ],
+    "name:swa_x_preferred":[
         "Nkhotakota"
     ],
     "name:swe_x_preferred":[
@@ -124,6 +130,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6069\u79d1\u5854\u79d1\u5854"
+    ],
+    "name:zul_x_preferred":[
+        "Nkhotakota"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Malawi",
@@ -260,7 +269,7 @@
         }
     ],
     "wof:id":421174673,
-    "wof:lastmodified":1636497491,
+    "wof:lastmodified":1690846538,
     "wof:name":"Nkhotakota",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

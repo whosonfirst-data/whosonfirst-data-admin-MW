@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0634\u064a\u0646\u062c\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0634\u064a\u0646\u062c\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0686\u06cc\u0646\u062c\u06cc"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0686\u06cc\u0646\u062c\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Mchinji"
     ],
     "name:fra_x_preferred":[
         "Mchinji"
@@ -89,6 +95,9 @@
     "name:spa_x_preferred":[
         "Mchinji"
     ],
+    "name:swa_x_preferred":[
+        "Mchinji"
+    ],
     "name:swe_x_preferred":[
         "Mchinji"
     ],
@@ -109,6 +118,9 @@
     ],
     "name:zho_x_preferred":[
         "\u59c6\u94a6\u5409"
+    ],
+    "name:zul_x_preferred":[
+        "Mchinji"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Malawi",
@@ -245,7 +257,7 @@
         }
     ],
     "wof:id":421201085,
-    "wof:lastmodified":1636497492,
+    "wof:lastmodified":1690846540,
     "wof:name":"Mchinji",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

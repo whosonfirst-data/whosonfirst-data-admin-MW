@@ -92,6 +92,9 @@
     "name:spa_x_preferred":[
         "Salima"
     ],
+    "name:swa_x_preferred":[
+        "Salima"
+    ],
     "name:swe_x_preferred":[
         "Salima"
     ],
@@ -109,6 +112,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8428\u5229\u9a6c"
+    ],
+    "name:zul_x_preferred":[
+        "Salima"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Malawi",
@@ -245,7 +251,7 @@
         }
     ],
     "wof:id":421201075,
-    "wof:lastmodified":1636497492,
+    "wof:lastmodified":1690846541,
     "wof:name":"Salima",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
