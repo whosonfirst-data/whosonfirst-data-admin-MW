@@ -93,6 +93,9 @@
     "name:kor_x_preferred":[
         "\uc740\uce58\uc2dc \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc740\uce58\uc2dc\ud604"
+    ],
     "name:lav_x_preferred":[
         "Ntsi\u010di rajons"
     ],
@@ -104,6 +107,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Ntchisi"
+    ],
+    "name:nan_x_preferred":[
+        "Ntchisi Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Ntchisi"
@@ -129,6 +135,9 @@
     "name:swe_x_preferred":[
         "Ntchisi"
     ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0b9f\u0bcd\u0b9a\u0bbf\u0b9a\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c28\u0c4d\u0c1a\u0c3f\u0c1c\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
@@ -152,6 +161,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6069\u5947\u65af\u7e23"
+    ],
+    "name:zul_x_preferred":[
+        "Ntchisi District"
     ],
     "qs:name":"Ntchisi District",
     "qs:photos_9r":0,
@@ -181,7 +193,7 @@
         }
     ],
     "wof:id":890430565,
-    "wof:lastmodified":1636497494,
+    "wof:lastmodified":1690846543,
     "wof:name":"Ntchisi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

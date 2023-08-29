@@ -36,6 +36,9 @@
     "name:fas_x_preferred":[
         "\u0686\u06cc\u0631\u0648\u0645\u0648"
     ],
+    "name:fra_x_preferred":[
+        "Chiromo"
+    ],
     "name:heb_x_preferred":[
         "\u05e6'\u05d9\u05e8\u05d5\u05de\u05d5"
     ],
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":1141908941,
-    "wof:lastmodified":1636497500,
+    "wof:lastmodified":1690846549,
     "wof:name":"Chiromo",
     "wof:parent_id":85675089,
     "wof:placetype":"locality",

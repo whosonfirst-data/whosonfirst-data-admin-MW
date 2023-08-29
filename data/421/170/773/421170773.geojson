@@ -20,7 +20,13 @@
     "name:azb_x_preferred":[
         "\u062f\u0648\u0648\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Dowa"
+    ],
     "name:ceb_x_preferred":[
+        "Dowa"
+    ],
+    "name:dan_x_preferred":[
         "Dowa"
     ],
     "name:deu_x_preferred":[
@@ -59,6 +65,9 @@
     "name:por_x_preferred":[
         "Dowa"
     ],
+    "name:swa_x_preferred":[
+        "Dowa"
+    ],
     "name:swe_x_preferred":[
         "Dowa"
     ],
@@ -67,6 +76,9 @@
     ],
     "name:zho_x_preferred":[
         "\u591a\u74e6"
+    ],
+    "name:zul_x_preferred":[
+        "Dowa"
     ],
     "qs:gn_country":"MW",
     "qs:gn_fcode":"PPLA2",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":421170773,
-    "wof:lastmodified":1636497493,
+    "wof:lastmodified":1690846541,
     "wof:name":"Dowa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

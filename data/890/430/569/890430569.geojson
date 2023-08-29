@@ -93,6 +93,9 @@
     "name:kor_x_preferred":[
         "\uc740\ucf54\ud0c0\ucf54\ud0c0 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc740\ucf54\ud0c0\ucf54\ud0c0\ud604"
+    ],
     "name:lav_x_preferred":[
         "Nkhotakotas distrikts"
     ],
@@ -104,6 +107,9 @@
     ],
     "name:msa_x_preferred":[
         "Nkhotakota District"
+    ],
+    "name:nan_x_preferred":[
+        "Nkhotakota Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Nkhotakota"
@@ -128,6 +134,9 @@
     ],
     "name:swe_x_preferred":[
         "Nkhotakota"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bcd\u0b95\u0bb9\u0bcb\u0b9f\u0b95\u0bcb\u0b9f\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3f\u0c15\u0c4b\u0c1f\u0c3e\u0c15\u0c4b\u0c1f\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -155,6 +164,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6069\u79d1\u5854\u79d1\u5854\u7e23"
+    ],
+    "name:zul_x_preferred":[
+        "Nkhotakota District"
     ],
     "qs:name":"Nkhotakota District",
     "qs:photos_9r":0,
@@ -184,7 +196,7 @@
         }
     ],
     "wof:id":890430569,
-    "wof:lastmodified":1636497493,
+    "wof:lastmodified":1690846542,
     "wof:name":"Nkhotakota",
     "wof:parent_id":-1,
     "wof:placetype":"county",

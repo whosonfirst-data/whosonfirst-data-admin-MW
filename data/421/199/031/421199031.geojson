@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062d\u064a \u0645\u0632\u064a\u0645\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u0649 \u0645\u0632\u064a\u0645\u0628\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0632\u06cc\u0645\u0628\u0627"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:hun_x_preferred":[
         "Mzimba"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0566\u056b\u0574\u0562\u0561"
     ],
     "name:ind_x_preferred":[
         "Mzimba"
@@ -92,6 +98,9 @@
     "name:spa_x_preferred":[
         "Mzimba"
     ],
+    "name:swa_x_preferred":[
+        "Mzimba"
+    ],
     "name:swe_x_preferred":[
         "Mzimba"
     ],
@@ -112,6 +121,9 @@
     ],
     "name:zho_x_preferred":[
         "\u59c6\u6d25\u5df4"
+    ],
+    "name:zul_x_preferred":[
+        "Mzimba"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Malawi",
@@ -248,7 +260,7 @@
         }
     ],
     "wof:id":421199031,
-    "wof:lastmodified":1636497492,
+    "wof:lastmodified":1690846540,
     "wof:name":"Mzimba",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

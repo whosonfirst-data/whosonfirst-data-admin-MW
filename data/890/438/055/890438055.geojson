@@ -39,6 +39,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u043b\u0430\u043d\u0438\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Mulanje"
+    ],
     "name:ceb_x_preferred":[
         "Mulanje District"
     ],
@@ -87,6 +90,9 @@
     "name:kor_x_preferred":[
         "\ubb3c\ub780\uc81c \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ubb3c\ub780\uc81c\ud604"
+    ],
     "name:lav_x_preferred":[
         "Muland\u017ees distrikts"
     ],
@@ -98,6 +104,9 @@
     ],
     "name:msa_x_preferred":[
         "Mulanje District"
+    ],
+    "name:nan_x_preferred":[
+        "Mulanje Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Mulanje"
@@ -122,6 +131,9 @@
     ],
     "name:swe_x_preferred":[
         "Mulanje"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc2\u0bb2\u0b9e\u0bcd\u0b9a\u0bc7 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c41\u0c32\u0c3e\u0c02\u0c1c\u0c46 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -149,6 +161,9 @@
     ],
     "name:zho_x_preferred":[
         "\u59c6\u862d\u5091\u7e23"
+    ],
+    "name:zul_x_preferred":[
+        "Mulanje District"
     ],
     "qs:name":"Mulanje District",
     "qs:photos_9r":0,
@@ -178,7 +193,7 @@
         }
     ],
     "wof:id":890438055,
-    "wof:lastmodified":1636497495,
+    "wof:lastmodified":1690846545,
     "wof:name":"Mulanje",
     "wof:parent_id":-1,
     "wof:placetype":"county",

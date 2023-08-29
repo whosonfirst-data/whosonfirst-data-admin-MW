@@ -84,6 +84,9 @@
     "name:kor_x_preferred":[
         "\uc740\uce74\ud0c0\ubca0\uc774 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc740\uce74\ud0c0\ubca0\uc774\ud604"
+    ],
     "name:lav_x_preferred":[
         "Nkhatabejas distrikts"
     ],
@@ -95,6 +98,9 @@
     ],
     "name:msa_x_preferred":[
         "Nkhata Bay District"
+    ],
+    "name:nan_x_preferred":[
+        "Nkhata Bay Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Nkhata Bay"
@@ -120,6 +126,9 @@
     "name:srp_x_preferred":[
         "\u041d\u0445\u0430\u0442\u0430 \u0411\u0435\u0458"
     ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Nkhata Bay"
+    ],
     "name:swe_x_preferred":[
         "Nkhata Bay"
     ],
@@ -131,6 +140,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e04\u0e2e\u0e32\u0e17\u0e32 \u0e40\u0e1a\u0e22\u0e4c"
+    ],
+    "name:tum_x_preferred":[
+        "Boma la Nkhata Bay"
     ],
     "name:tur_x_preferred":[
         "Nkhata Bay"
@@ -152,6 +164,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6069\u5361\u5854\u7063\u7e23"
+    ],
+    "name:zul_x_preferred":[
+        "Nkhata Bay District"
     ],
     "qs:name":"Nkhata Bay District",
     "qs:photos_9r":0,
@@ -181,7 +196,7 @@
         }
     ],
     "wof:id":890438045,
-    "wof:lastmodified":1636497495,
+    "wof:lastmodified":1690846545,
     "wof:name":"Nkhata Bay",
     "wof:parent_id":-1,
     "wof:placetype":"county",

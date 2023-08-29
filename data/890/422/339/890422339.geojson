@@ -39,6 +39,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u043a\u0443\u0430\u0443\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Chikwawa"
+    ],
     "name:ceb_x_preferred":[
         "Chikwawa District"
     ],
@@ -93,6 +96,9 @@
     "name:kor_x_preferred":[
         "\uce58\ucf70\uc640 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uce58\ucf70\uc640\ud604"
+    ],
     "name:lav_x_preferred":[
         "\u010cikvavas distrikts"
     ],
@@ -104,6 +110,9 @@
     ],
     "name:msa_x_preferred":[
         "Chikwawa District"
+    ],
+    "name:nan_x_preferred":[
+        "Chikwawa Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Chikwawa"
@@ -129,6 +138,9 @@
     "name:swe_x_preferred":[
         "Chikwawa"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0b95\u0bbf\u0bb5\u0bbe\u0bb5\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c3f\u0c15\u0c4d\u0c35\u0c3e\u0c35\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
@@ -152,6 +164,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5947\u514b\u74e6\u74e6\u7e23"
+    ],
+    "name:zul_x_preferred":[
+        "Chikwawa District"
     ],
     "qs:name":"Chikwawa District",
     "qs:photos_9r":0,
@@ -181,7 +196,7 @@
         }
     ],
     "wof:id":890422339,
-    "wof:lastmodified":1636497493,
+    "wof:lastmodified":1690846542,
     "wof:name":"Chikwawa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -68,6 +68,9 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d\u00ad\u043a\u0438-\u0411\u0435\u0439"
     ],
+    "name:swa_x_preferred":[
+        "Monkey Bay"
+    ],
     "name:swe_x_preferred":[
         "Monkey Bay"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7334\u5b50\u7063"
+    ],
+    "name:zul_x_preferred":[
+        "Monkey Bay"
     ],
     "qs:gn_country":"MW",
     "qs:gn_fcode":"PPL",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421187477,
-    "wof:lastmodified":1566612563,
+    "wof:lastmodified":1690846538,
     "wof:name":"Monkey Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

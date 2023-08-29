@@ -84,6 +84,9 @@
     "name:kor_x_preferred":[
         "\uc74c\uce5c\uc9c0 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc74c\uce5c\uc9c0\ud604"
+    ],
     "name:lav_x_preferred":[
         "M\u010dind\u017ei distrikts"
     ],
@@ -95,6 +98,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Mchinji"
+    ],
+    "name:nan_x_preferred":[
+        "Mchinji Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Mchinji"
@@ -119,6 +125,9 @@
     ],
     "name:swe_x_preferred":[
         "Mchinji"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0b9a\u0bbf\u0b9e\u0bcd\u0b9a\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c1a\u0c3f\u0c02\u0c1c\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -146,6 +155,9 @@
     ],
     "name:zho_x_preferred":[
         "\u59c6\u6b3d\u5409\u7e23"
+    ],
+    "name:zul_x_preferred":[
+        "Mchinji District"
     ],
     "qs:name":"Mchinji District",
     "qs:photos_9r":0,
@@ -175,7 +187,7 @@
         }
     ],
     "wof:id":890438057,
-    "wof:lastmodified":1636497496,
+    "wof:lastmodified":1690846546,
     "wof:name":"Mchinji",
     "wof:parent_id":-1,
     "wof:placetype":"county",

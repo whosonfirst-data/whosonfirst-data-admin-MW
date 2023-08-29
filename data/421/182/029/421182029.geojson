@@ -68,6 +68,9 @@
     "name:und_x_variant":[
         "Livingstonia Mission"
     ],
+    "name:zul_x_preferred":[
+        "Livingstonia"
+    ],
     "qs:gn_country":"MW",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":927856,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421182029,
-    "wof:lastmodified":1566612566,
+    "wof:lastmodified":1690846541,
     "wof:name":"Livingstonia",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

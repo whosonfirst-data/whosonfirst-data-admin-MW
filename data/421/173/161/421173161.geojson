@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Chipoka"
+    ],
     "name:azb_x_preferred":[
         "\u0686\u06cc\u067e\u0648\u06a9\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Chipoka"
     ],
     "name:deu_x_preferred":[
         "Chipoka"
@@ -47,7 +53,16 @@
     "name:nya_x_preferred":[
         "Chipoka"
     ],
+    "name:pol_x_preferred":[
+        "Chipoka"
+    ],
     "name:spa_x_preferred":[
+        "Chipoka"
+    ],
+    "name:swa_x_preferred":[
+        "Chipoka"
+    ],
+    "name:swe_x_preferred":[
         "Chipoka"
     ],
     "name:tum_x_preferred":[
@@ -58,6 +73,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5947\u6ce2\u5361"
+    ],
+    "name:zul_x_preferred":[
+        "Chipoka"
     ],
     "qs:gn_country":"MW",
     "qs:gn_fcode":"PPL",
@@ -105,7 +123,7 @@
         }
     ],
     "wof:id":421173161,
-    "wof:lastmodified":1566612564,
+    "wof:lastmodified":1690846538,
     "wof:name":"Chipoka",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

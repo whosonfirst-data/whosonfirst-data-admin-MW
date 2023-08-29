@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0632\u0648\u0632\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0632\u0648\u0632\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Mzuzu"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0632\u0648\u0632\u0648"
     ],
@@ -28,6 +34,12 @@
         "\u09ae\u09c1\u099c\u09c1"
     ],
     "name:bre_x_preferred":[
+        "Mzuzu"
+    ],
+    "name:cat_x_preferred":[
+        "Mzuzu"
+    ],
+    "name:ces_x_preferred":[
         "Mzuzu"
     ],
     "name:dan_x_preferred":[
@@ -52,6 +64,9 @@
         "Mzuzu"
     ],
     "name:fra_x_preferred":[
+        "Mzuzu"
+    ],
+    "name:gle_x_preferred":[
         "Mzuzu"
     ],
     "name:glg_x_preferred":[
@@ -132,6 +147,9 @@
     "name:srp_x_preferred":[
         "\u041c\u0437\u0443\u0437\u0443"
     ],
+    "name:swa_x_preferred":[
+        "Mzuzu"
+    ],
     "name:swe_x_preferred":[
         "Mzuzu"
     ],
@@ -159,11 +177,17 @@
     "name:urd_x_preferred":[
         "\u0645\u0632\u0648\u0632\u0648"
     ],
+    "name:vec_x_preferred":[
+        "Mzuzu"
+    ],
     "name:vie_x_preferred":[
         "Mzuzu"
     ],
     "name:zho_x_preferred":[
         "\u59c6\u7956\u7956"
+    ],
+    "name:zul_x_preferred":[
+        "Mzuzu"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Malawi",
@@ -286,7 +310,7 @@
         }
     ],
     "wof:id":1141909261,
-    "wof:lastmodified":1636497500,
+    "wof:lastmodified":1690846549,
     "wof:name":"Mzuzu",
     "wof:parent_id":85675015,
     "wof:placetype":"locality",

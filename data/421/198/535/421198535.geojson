@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u062a\u064a\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u064a\u062a\u064a\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Chitipa"
+    ],
     "name:azb_x_preferred":[
         "\u0686\u06cc\u062a\u06cc\u067e\u0627"
     ],
@@ -89,11 +95,17 @@
     "name:ron_x_preferred":[
         "Chitipa"
     ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0442\u0438\u043f\u0430"
+    ],
     "name:spa_x_preferred":[
         "Chitipa"
     ],
     "name:srp_x_preferred":[
         "\u0427\u0438\u0442\u0438\u043f\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Chitipa"
     ],
     "name:swe_x_preferred":[
         "Chitipa"
@@ -115,6 +127,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5947\u8482\u5e15"
+    ],
+    "name:zul_x_preferred":[
+        "Chitipa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Malawi",
@@ -254,7 +269,7 @@
         }
     ],
     "wof:id":421198535,
-    "wof:lastmodified":1636497491,
+    "wof:lastmodified":1690846539,
     "wof:name":"Chitipa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

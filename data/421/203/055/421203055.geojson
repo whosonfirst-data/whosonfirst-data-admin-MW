@@ -62,6 +62,9 @@
     "name:ron_x_preferred":[
         "Ntchisi"
     ],
+    "name:swa_x_preferred":[
+        "Ntchisi"
+    ],
     "name:swe_x_preferred":[
         "Ntchisi"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6069\u5947\u65af"
+    ],
+    "name:zul_x_preferred":[
+        "Ntchisi"
     ],
     "qs:gn_country":"MW",
     "qs:gn_fcode":"PPLA2",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":421203055,
-    "wof:lastmodified":1636497490,
+    "wof:lastmodified":1690846537,
     "wof:name":"Ntchisi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

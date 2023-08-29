@@ -87,6 +87,9 @@
     "name:kor_x_preferred":[
         "\uc0b4\ub9ac\ub9c8 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc0b4\ub9ac\ub9c8\ud604"
+    ],
     "name:lav_x_preferred":[
         "Salimas distrikts"
     ],
@@ -98,6 +101,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Salima"
+    ],
+    "name:nan_x_preferred":[
+        "Salima Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Salima"
@@ -123,6 +129,9 @@
     "name:swe_x_preferred":[
         "Salima"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bb2\u0bc0\u0bae\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c32\u0c3f\u0c2e\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
@@ -146,6 +155,9 @@
     ],
     "name:zho_x_preferred":[
         "\u85a9\u5229\u99ac\u7e23"
+    ],
+    "name:zul_x_preferred":[
+        "Salima District"
     ],
     "qs:name":"Salima District",
     "qs:photos_9r":0,
@@ -175,7 +187,7 @@
         }
     ],
     "wof:id":890455825,
-    "wof:lastmodified":1636497494,
+    "wof:lastmodified":1690846544,
     "wof:name":"Salima",
     "wof:parent_id":-1,
     "wof:placetype":"county",
