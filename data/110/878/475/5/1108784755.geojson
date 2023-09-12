@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013538,
-    "geom:area_square_m":162466102.114757,
+    "geom:area_square_m":162466190.542655,
     "geom:bbox":"33.63,-14.008975,33.768951,-13.879827",
     "geom:latitude":-13.94417,
     "geom:longitude":33.698206,
     "iso:country":"MW",
     "label:eng_x_preferred_longname":[
-        "Lilongwe City"
+        "Lilongwe City District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":-13.943656,
     "lbl:longitude":33.698206,
@@ -33,20 +36,39 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:eng_x_preferred":[
+        "Lilongwe City"
+    ],
     "name:fra_x_preferred":[
         "Lilongwe"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2008-06-08",
+    "statoids:areakm":6159,
+    "statoids:areami":2378,
+    "statoids:capital":"Lilongwe",
+    "statoids:country":"MW",
+    "statoids:date":"2008-06-08",
+    "statoids:gec":"MI11",
+    "statoids:hasc":"MW.LI",
+    "statoids:iso":"LI",
+    "statoids:name":"Lilongwe",
+    "statoids:population":1897167,
+    "statoids:timezone":"+2",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191573,
         85632383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"MW.LI"
+    },
     "wof:country":"MW",
     "wof:created":1481825955,
-    "wof:geomhash":"70782d9a2edb5dedc01c5e74bef3c995",
+    "wof:geomhash":"b7d23a0df1d24e552ccbd65811b2f239",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,10 +85,12 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1628266675,
+    "wof:lastmodified":1694493255,
     "wof:name":"Lilongwe City",
     "wof:parent_id":85632383,
     "wof:placetype":"region",
+    "wof:population":1897167,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-mw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

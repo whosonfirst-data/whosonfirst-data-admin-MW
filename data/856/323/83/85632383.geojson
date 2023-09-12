@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.915836,
-    "geom:area_square_m":119295851832.450195,
+    "geom:area_square_m":119295851832.444885,
     "geom:bbox":"32.678889,-17.135278,35.924166,-9.367181",
     "geom:latitude":-13.221586,
     "geom:longitude":34.30758,
@@ -14,6 +14,9 @@
     "iso:country":"MW",
     "itu:country_code":[
         "265"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "lbl:latitude":-13.404159,
     "lbl:longitude":33.658495,
@@ -1036,7 +1039,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"265",
     "statoids:ds":"MW",
     "statoids:fifa":"MWI",
@@ -1094,7 +1098,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"1bc0f5d4bd6d1f78e031fece3f04d8d1",
+    "wof:geomhash":"6f967f3b33e769b65b122770c273f0aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1110,12 +1114,12 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1690846533,
+    "wof:lastmodified":1694492067,
     "wof:name":"Malawi",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":16362567,
-    "wof:population_rank":14,
+    "wof:population":18628747,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-mw",
     "wof:shortcode":"MW",
     "wof:superseded_by":[],
