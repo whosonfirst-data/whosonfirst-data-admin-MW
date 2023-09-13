@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_variant_longname":[
+        "Zomba City"
+    ],
     "lbl:latitude":-15.375675,
     "lbl:longitude":35.368212,
     "lbl:min_zoom":8.0,
@@ -45,7 +48,7 @@
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2008-06-08",
+    "src:population_date":"2008-06-08",
     "statoids:areakm":2580,
     "statoids:areami":996,
     "statoids:capital":"Zomba",
@@ -85,7 +88,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1694493255,
+    "wof:lastmodified":1694639832,
     "wof:name":"Zomba City",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

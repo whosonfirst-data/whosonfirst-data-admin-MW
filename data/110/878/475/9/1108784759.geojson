@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_variant_longname":[
+        "Mzuzu City"
+    ],
     "lbl:latitude":-11.422158,
     "lbl:longitude":34.019405,
     "lbl:min_zoom":8.0,
@@ -45,7 +48,7 @@
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2008-06-08",
+    "src:population_date":"2008-06-08",
     "statoids:areakm":10430,
     "statoids:areami":4027,
     "statoids:capital":"Mzimba",
@@ -85,7 +88,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1694493255,
+    "wof:lastmodified":1694639832,
     "wof:name":"Mzuzu City",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

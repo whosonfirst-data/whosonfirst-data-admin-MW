@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_variant_longname":[
+        "Lilongwe City"
+    ],
     "lbl:latitude":-13.943656,
     "lbl:longitude":33.698206,
     "lbl:min_zoom":8.0,
@@ -45,7 +48,7 @@
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2008-06-08",
+    "src:population_date":"2008-06-08",
     "statoids:areakm":6159,
     "statoids:areami":2378,
     "statoids:capital":"Lilongwe",
@@ -85,7 +88,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1694493255,
+    "wof:lastmodified":1694639832,
     "wof:name":"Lilongwe City",
     "wof:parent_id":85632383,
     "wof:placetype":"region",
