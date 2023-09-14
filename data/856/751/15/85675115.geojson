@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016561,
-    "geom:area_square_m":200267123.423685,
+    "geom:area_square_m":200267148.272719,
     "geom:bbox":"34.541798,-12.12453,34.762353,-11.970534",
     "geom:latitude":-12.044347,
     "geom:longitude":34.662309,
     "iso:country":"MW",
     "label:eng_x_preferred_longname":[
-        "Likoma District"
+        "Nkhata Bay District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":-12.0637,
     "lbl:longitude":34.708408,
@@ -84,7 +87,7 @@
         "unlc:id":"MW-LK"
     },
     "wof:country":"MW",
-    "wof:geomhash":"c97ff9b0e3b80cbe7a5964c96dc2fdbd",
+    "wof:geomhash":"039a678afbbbc1262fe2dfd9ae54aeb2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +104,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1636497484,
+    "wof:lastmodified":1694493257,
     "wof:name":"Likoma",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

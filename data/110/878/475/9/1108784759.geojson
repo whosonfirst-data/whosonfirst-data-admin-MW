@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013026,
-    "geom:area_square_m":157883463.448384,
+    "geom:area_square_m":157883403.890326,
     "geom:bbox":"33.959721,-11.473225,34.100665,-11.339601",
     "geom:latitude":-11.41202,
     "geom:longitude":34.02511,
     "iso:country":"MW",
     "label:eng_x_preferred_longname":[
+        "Mzuzu City District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:eng_x_variant_longname":[
         "Mzuzu City"
     ],
     "lbl:latitude":-11.422158,
@@ -33,20 +39,39 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:eng_x_preferred":[
+        "Mzuzu City"
+    ],
     "name:fra_x_preferred":[
         "Mzuzu"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2008-06-08",
+    "statoids:areakm":10430,
+    "statoids:areami":4027,
+    "statoids:capital":"Mzimba",
+    "statoids:country":"MW",
+    "statoids:date":"2008-06-08",
+    "statoids:gec":"MI15",
+    "statoids:hasc":"MW.MZ",
+    "statoids:iso":"MZ",
+    "statoids:name":"Mzimba",
+    "statoids:population":853305,
+    "statoids:timezone":"+2",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191573,
         85632383
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"MW.MZ"
+    },
     "wof:country":"MW",
     "wof:created":1481825962,
-    "wof:geomhash":"c0ef723f96c21b7dadd80474a0b1a7f1",
+    "wof:geomhash":"0d08df7a4780c01d71cb3896e15c6fa1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,10 +88,12 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1628266689,
+    "wof:lastmodified":1694639832,
     "wof:name":"Mzuzu City",
     "wof:parent_id":85632383,
     "wof:placetype":"region",
+    "wof:population":853305,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-mw",
     "wof:superseded_by":[],
     "wof:supersedes":[],
