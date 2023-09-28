@@ -83,9 +83,11 @@
     ],
     "wof:concordances":{
         "gp:id":20070147,
+        "iso:code":"MW-LK",
         "qs_pg:id":236296,
         "unlc:id":"MW-LK"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MW",
     "wof:geomhash":"039a678afbbbc1262fe2dfd9ae54aeb2",
     "wof:hierarchy":[
@@ -104,7 +106,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1694493257,
+    "wof:lastmodified":1695884852,
     "wof:name":"Likoma",
     "wof:parent_id":85632383,
     "wof:placetype":"region",
