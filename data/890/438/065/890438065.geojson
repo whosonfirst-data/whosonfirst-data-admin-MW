@@ -143,7 +143,7 @@
     },
     "wof:country":"MW",
     "wof:created":1469052178,
-    "wof:geomhash":"dccafabcd5b730c7eae8b3defd3c6e51",
+    "wof:geomhash":"a3f28363b749aa1c4533baddf0f10d28",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -153,7 +153,7 @@
         }
     ],
     "wof:id":890438065,
-    "wof:lastmodified":1690846544,
+    "wof:lastmodified":1695887148,
     "wof:name":"Karonga",
     "wof:parent_id":1108784757,
     "wof:placetype":"county",

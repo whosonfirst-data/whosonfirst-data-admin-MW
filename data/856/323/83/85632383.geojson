@@ -1078,6 +1078,7 @@
         "hasc:id":"MW",
         "icao:code":"7Q",
         "ioc:id":"MAW",
+        "iso:code":"MW",
         "itu:id":"MWI",
         "loc:id":"n80089996",
         "m49:code":"454",
@@ -1092,6 +1093,7 @@
         "wk:page":"Malawi",
         "wmo:id":"MW"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MW",
     "wof:country_alpha3":"MWI",
     "wof:geom_alt":[
@@ -1114,7 +1116,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1694639521,
+    "wof:lastmodified":1695881177,
     "wof:name":"Malawi",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

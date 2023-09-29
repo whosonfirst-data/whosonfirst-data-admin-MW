@@ -143,8 +143,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"MW.KR"
+        "hasc:id":"MW.KR",
+        "iso:code":"MW-KR"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MW",
     "wof:created":1481825960,
     "wof:geomhash":"9e8972fd095105eb0df67847d2f1690e",
@@ -164,7 +166,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1694493257,
+    "wof:lastmodified":1695884852,
     "wof:name":"Karonga",
     "wof:parent_id":85632383,
     "wof:placetype":"region",

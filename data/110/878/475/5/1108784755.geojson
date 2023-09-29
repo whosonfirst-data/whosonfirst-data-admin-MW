@@ -67,8 +67,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"MW.LI"
+        "hasc:id":"MW.LI",
+        "iso:code":"MW-LI"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MW",
     "wof:created":1481825955,
     "wof:geomhash":"b7d23a0df1d24e552ccbd65811b2f239",
@@ -88,7 +90,7 @@
         "nya",
         "eng"
     ],
-    "wof:lastmodified":1694639832,
+    "wof:lastmodified":1695884758,
     "wof:name":"Lilongwe City",
     "wof:parent_id":85632383,
     "wof:placetype":"region",
