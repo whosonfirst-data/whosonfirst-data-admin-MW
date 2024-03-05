@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":924845
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1030454
+        ]
+    },
     "wof:country":"MW",
     "wof:geomhash":"c70cb124fcd3ff5ce1d0985ab41f6279",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1344188607,
-    "wof:lastmodified":1566612254,
+    "wof:lastmodified":1706240354,
     "wof:name":"Nhapali",
     "wof:parent_id":1091700637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360204751
+    ],
     "wof:tags":[]
 },
   "bbox": [
